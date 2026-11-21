@@ -1,0 +1,1501 @@
+maintenance_id,terminal_id,event_datetime,event_type,component_replaced,engineer_id,resolution_notes,duration_hours,cost_inr
+MNT_000001,ATM_189,2024-02-20 10:23:02,Emergency,Network Module,ENG_01,Urgent replacement of failed component. Downtime minimised.,1.0,63359
+MNT_000002,ATM_123,2024-04-10 00:37:11,Preventive,,ENG_11,Routine inspection completed. No issues found.,4.7,2232
+MNT_000003,ATM_033,2024-03-12 03:31:37,Preventive,,ENG_19,Network settings verified. Response time within SLA.,6.1,3553
+MNT_000004,ATM_126,2024-01-07 23:22:57,Emergency,Network Module,ENG_12,Emergency callout — ATM was completely non-operational.,4.8,70578
+MNT_000005,ATM_070,2024-04-28 01:03:28,Corrective,,ENG_06,Intermittent failure resolved by replacing component.,6.6,21918
+MNT_000006,ATM_042,2024-04-07 04:45:26,Preventive,,ENG_12,Card reader cleaned. Firmware upgraded to latest version.,5.6,1805
+MNT_000007,ATM_060,2024-01-23 17:59:41,Preventive,,ENG_16,Cash cassette cleaned and refilled. Software updated.,1.1,1520
+MNT_000008,ATM_058,2024-04-08 19:28:09,Corrective,,ENG_06,Error log cleared. Defective part replaced.,6.6,18897
+MNT_000009,ATM_024,2024-03-07 09:18:26,Preventive,,ENG_10,Cash cassette cleaned and refilled. Software updated.,3.1,1199
+MNT_000010,ATM_137,2024-03-05 14:43:32,Corrective,Card Reader,ENG_06,Error log cleared. Defective part replaced.,3.3,16773
+MNT_000011,ATM_042,2024-01-16 04:41:18,Corrective,Receipt Printer,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,2.1,22738
+MNT_000012,ATM_056,2024-01-28 11:06:56,Preventive,,ENG_01,Cash cassette cleaned and refilled. Software updated.,5.9,2810
+MNT_000013,ATM_135,2024-04-13 22:37:49,Preventive,,ENG_09,Network settings verified. Response time within SLA.,5.1,3777
+MNT_000014,ATM_146,2024-01-11 10:22:30,Corrective,Network Module,ENG_20,Faulty unit removed and replaced. Tested post-installation.,6.8,5921
+MNT_000015,ATM_032,2024-02-08 09:57:52,Corrective,Dispenser Module,ENG_13,Component replaced after failure detected during monitoring.,4.6,19967
+MNT_000016,ATM_026,2024-01-02 15:46:51,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,4.8,2534
+MNT_000017,ATM_146,2024-04-20 06:59:24,Corrective,Card Reader,ENG_07,Error log cleared. Defective part replaced.,5.1,19133
+MNT_000018,ATM_178,2024-01-29 00:28:58,Corrective,Dispenser Module,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,7.7,10968
+MNT_000019,ATM_038,2024-03-13 03:39:33,Corrective,Network Module,ENG_15,Intermittent failure resolved by replacing component.,6.5,16064
+MNT_000020,ATM_150,2024-02-02 18:25:32,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,4.4,2424
+MNT_000021,ATM_057,2024-03-08 07:43:13,Emergency,Card Reader,ENG_07,Critical failure resolved on-site. ATM restored to service.,1.7,48421
+MNT_000022,ATM_091,2024-04-15 12:06:20,Preventive,,ENG_06,Cash cassette cleaned and refilled. Software updated.,6.9,3054
+MNT_000023,ATM_179,2024-02-04 17:56:33,Corrective,Keypad,ENG_14,Error log cleared. Defective part replaced.,3.4,23653
+MNT_000024,ATM_110,2024-03-01 00:36:52,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,1.9,3377
+MNT_000025,ATM_009,2024-03-24 11:20:26,Corrective,,ENG_07,Component replaced after failure detected during monitoring.,1.0,14563
+MNT_000026,ATM_102,2024-02-24 11:27:00,Corrective,Dispenser Module,ENG_08,Faulty unit removed and replaced. Tested post-installation.,0.7,6312
+MNT_000027,ATM_019,2024-01-15 16:37:06,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,6.8,1301
+MNT_000028,ATM_033,2024-03-25 21:26:58,Preventive,,ENG_15,Preventive maintenance done. All components operational.,0.9,3056
+MNT_000029,ATM_025,2024-02-25 03:34:41,Corrective,Keypad,ENG_18,Faulty unit removed and replaced. Tested post-installation.,7.1,6146
+MNT_000030,ATM_190,2024-04-09 07:16:16,Corrective,Receipt Printer,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,4.2,11164
+MNT_000031,ATM_067,2024-04-03 01:17:20,Corrective,Keypad,ENG_01,Error log cleared. Defective part replaced.,3.0,13868
+MNT_000032,ATM_026,2024-02-11 18:57:42,Preventive,,ENG_20,Routine inspection completed. No issues found.,1.4,1433
+MNT_000033,ATM_122,2024-02-21 14:18:12,Emergency,,ENG_17,Emergency maintenance done. Escalated to vendor for follow-up.,1.5,73170
+MNT_000034,ATM_166,2024-01-10 13:26:12,Preventive,,ENG_08,Card reader cleaned. Firmware upgraded to latest version.,7.3,4213
+MNT_000035,ATM_048,2024-03-01 03:04:56,Preventive,,ENG_03,Preventive maintenance done. All components operational.,3.5,1872
+MNT_000036,ATM_169,2024-01-22 11:35:42,Emergency,Dispenser Module,ENG_11,Major hardware fault repaired under emergency protocol.,7.5,46663
+MNT_000037,ATM_047,2024-02-16 22:07:02,Preventive,,ENG_10,Routine inspection completed. No issues found.,5.5,1544
+MNT_000038,ATM_035,2024-03-05 00:49:01,Preventive,,ENG_02,Cash cassette cleaned and refilled. Software updated.,5.8,3787
+MNT_000039,ATM_084,2024-02-09 19:01:15,Emergency,Card Reader,ENG_13,Critical failure resolved on-site. ATM restored to service.,4.0,72816
+MNT_000040,ATM_122,2024-02-18 17:01:52,Preventive,,ENG_13,Preventive maintenance done. All components operational.,4.7,1753
+MNT_000041,ATM_099,2024-02-09 23:48:44,Preventive,,ENG_12,Card reader cleaned. Firmware upgraded to latest version.,1.6,4180
+MNT_000042,ATM_124,2024-03-26 22:54:03,Corrective,Receipt Printer,ENG_15,Component replaced after failure detected during monitoring.,4.4,19862
+MNT_000043,ATM_063,2024-04-15 13:59:48,Corrective,Dispenser Module,ENG_16,Error log cleared. Defective part replaced.,8.0,22623
+MNT_000044,ATM_102,2024-03-28 08:48:05,Preventive,,ENG_02,Preventive maintenance done. All components operational.,7.5,3653
+MNT_000045,ATM_027,2024-02-27 17:37:03,Corrective,Keypad,ENG_11,Error log cleared. Defective part replaced.,3.5,15537
+MNT_000046,ATM_033,2024-03-03 07:35:03,Preventive,,ENG_20,Preventive maintenance done. All components operational.,5.9,3775
+MNT_000047,ATM_149,2024-02-22 19:35:44,Emergency,,ENG_06,Urgent replacement of failed component. Downtime minimised.,3.8,71124
+MNT_000048,ATM_107,2024-04-24 07:00:43,Corrective,,ENG_18,Faulty unit removed and replaced. Tested post-installation.,5.0,9059
+MNT_000049,ATM_115,2024-04-11 00:00:09,Corrective,Card Reader,ENG_05,Faulty unit removed and replaced. Tested post-installation.,3.0,6201
+MNT_000050,ATM_154,2024-02-23 07:10:33,Preventive,,ENG_07,Card reader cleaned. Firmware upgraded to latest version.,7.7,1870
+MNT_000051,ATM_172,2024-03-26 19:01:14,Preventive,,ENG_18,Card reader cleaned. Firmware upgraded to latest version.,6.6,2652
+MNT_000052,ATM_088,2024-03-23 05:24:00,Preventive,,ENG_15,Card reader cleaned. Firmware upgraded to latest version.,2.0,1632
+MNT_000053,ATM_105,2024-04-09 01:00:49,Corrective,Receipt Printer,ENG_01,Component replaced after failure detected during monitoring.,7.6,13996
+MNT_000054,ATM_037,2024-02-24 13:28:30,Preventive,,ENG_04,Preventive maintenance done. All components operational.,2.9,4521
+MNT_000055,ATM_043,2024-04-09 10:32:47,Preventive,,ENG_02,Routine inspection completed. No issues found.,2.6,3684
+MNT_000056,ATM_123,2024-01-03 08:43:43,Corrective,,ENG_13,Component replaced after failure detected during monitoring.,2.1,19403
+MNT_000057,ATM_177,2024-03-25 06:44:33,Corrective,Network Module,ENG_04,Root cause identified as hardware wear. Replaced accordingly.,5.9,9368
+MNT_000058,ATM_029,2024-03-06 11:47:23,Preventive,,ENG_02,Preventive maintenance done. All components operational.,6.6,2639
+MNT_000059,ATM_147,2024-03-11 02:24:07,Corrective,Network Module,ENG_14,Faulty unit removed and replaced. Tested post-installation.,2.2,8299
+MNT_000060,ATM_050,2024-04-07 01:54:37,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,0.8,1805
+MNT_000061,ATM_162,2024-04-13 03:27:59,Preventive,,ENG_09,Network settings verified. Response time within SLA.,1.9,3729
+MNT_000062,ATM_105,2024-02-12 07:58:59,Corrective,Cash Cassette,ENG_10,Error log cleared. Defective part replaced.,2.2,13610
+MNT_000063,ATM_036,2024-03-13 13:02:22,Corrective,Dispenser Module,ENG_09,Error log cleared. Defective part replaced.,1.0,22119
+MNT_000064,ATM_042,2024-01-04 19:50:05,Preventive,,ENG_10,Routine inspection completed. No issues found.,5.1,2558
+MNT_000065,ATM_019,2024-02-21 13:17:21,Corrective,Cash Cassette,ENG_02,Faulty unit removed and replaced. Tested post-installation.,6.5,12122
+MNT_000066,ATM_066,2024-03-21 07:25:09,Preventive,,ENG_05,Card reader cleaned. Firmware upgraded to latest version.,7.9,3178
+MNT_000067,ATM_028,2024-04-04 15:44:37,Preventive,,ENG_07,Card reader cleaned. Firmware upgraded to latest version.,5.4,2205
+MNT_000068,ATM_101,2024-03-19 20:05:55,Preventive,,ENG_12,Preventive maintenance done. All components operational.,5.9,2471
+MNT_000069,ATM_015,2024-02-01 14:04:32,Corrective,Network Module,ENG_12,Component replaced after failure detected during monitoring.,5.0,19984
+MNT_000070,ATM_028,2024-03-24 22:32:00,Preventive,,ENG_10,Preventive maintenance done. All components operational.,3.9,4661
+MNT_000071,ATM_140,2024-02-12 23:17:55,Preventive,,ENG_10,Cash cassette cleaned and refilled. Software updated.,5.2,3489
+MNT_000072,ATM_025,2024-04-09 05:19:37,Corrective,Card Reader,ENG_02,Faulty unit removed and replaced. Tested post-installation.,5.1,21337
+MNT_000073,ATM_153,2024-03-09 13:48:36,Corrective,Cash Cassette,ENG_14,Faulty unit removed and replaced. Tested post-installation.,7.7,18253
+MNT_000074,ATM_092,2024-03-23 17:40:41,Corrective,Receipt Printer,ENG_07,Faulty unit removed and replaced. Tested post-installation.,6.3,9250
+MNT_000075,ATM_177,2024-03-02 21:50:21,Preventive,,ENG_07,Card reader cleaned. Firmware upgraded to latest version.,1.0,1799
+MNT_000076,ATM_022,2024-02-09 10:50:29,Corrective,Network Module,ENG_19,Error log cleared. Defective part replaced.,7.2,21705
+MNT_000077,ATM_003,2024-01-01 18:54:49,Corrective,Network Module,ENG_03,Component replaced after failure detected during monitoring.,0.7,15523
+MNT_000078,ATM_188,2024-01-21 12:35:01,Corrective,Keypad,ENG_04,Component replaced after failure detected during monitoring.,6.6,15831
+MNT_000079,ATM_132,2024-02-14 13:50:39,Emergency,Receipt Printer,ENG_06,Emergency maintenance done. Escalated to vendor for follow-up.,2.4,46763
+MNT_000080,ATM_119,2024-04-16 11:47:47,Preventive,,ENG_07,Network settings verified. Response time within SLA.,6.5,3270
+MNT_000081,ATM_090,2024-01-20 07:10:03,Emergency,Receipt Printer,ENG_10,Emergency maintenance done. Escalated to vendor for follow-up.,5.0,31479
+MNT_000082,ATM_064,2024-02-14 02:14:10,Corrective,Card Reader,ENG_13,Intermittent failure resolved by replacing component.,6.2,19008
+MNT_000083,ATM_150,2024-03-21 03:03:08,Preventive,,ENG_13,Preventive maintenance done. All components operational.,2.8,2338
+MNT_000084,ATM_027,2024-03-05 00:56:33,Preventive,,ENG_14,Card reader cleaned. Firmware upgraded to latest version.,5.2,3438
+MNT_000085,ATM_134,2024-03-04 00:44:04,Corrective,Keypad,ENG_08,Error log cleared. Defective part replaced.,5.3,20117
+MNT_000086,ATM_001,2024-03-04 08:09:56,Corrective,Card Reader,ENG_14,Component replaced after failure detected during monitoring.,1.7,19948
+MNT_000087,ATM_087,2024-02-12 17:31:11,Preventive,,ENG_17,Routine inspection completed. No issues found.,6.3,3836
+MNT_000088,ATM_135,2024-01-02 05:51:46,Corrective,Keypad,ENG_05,Root cause identified as hardware wear. Replaced accordingly.,3.8,17680
+MNT_000089,ATM_007,2024-03-22 07:55:35,Preventive,,ENG_01,Routine inspection completed. No issues found.,0.6,1819
+MNT_000090,ATM_037,2024-02-02 18:11:22,Emergency,Receipt Printer,ENG_14,Critical failure resolved on-site. ATM restored to service.,1.3,46834
+MNT_000091,ATM_053,2024-03-19 01:17:59,Corrective,Cash Cassette,ENG_09,Intermittent failure resolved by replacing component.,7.3,11092
+MNT_000092,ATM_156,2024-03-24 21:47:39,Preventive,,ENG_10,Network settings verified. Response time within SLA.,2.5,4649
+MNT_000093,ATM_005,2024-04-13 13:58:28,Preventive,,ENG_06,Cash cassette cleaned and refilled. Software updated.,6.8,4193
+MNT_000094,ATM_019,2024-02-02 18:55:47,Corrective,Dispenser Module,ENG_15,Component replaced after failure detected during monitoring.,2.2,8546
+MNT_000095,ATM_124,2024-01-14 20:55:13,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,3.1,4274
+MNT_000096,ATM_161,2024-03-16 01:56:39,Corrective,Network Module,ENG_05,Root cause identified as hardware wear. Replaced accordingly.,4.4,12804
+MNT_000097,ATM_119,2024-03-09 14:52:55,Emergency,Keypad,ENG_16,Emergency callout — ATM was completely non-operational.,3.0,50618
+MNT_000098,ATM_089,2024-03-04 19:47:14,Corrective,,ENG_05,Error log cleared. Defective part replaced.,3.7,23855
+MNT_000099,ATM_030,2024-03-15 11:07:55,Corrective,Keypad,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,0.8,10565
+MNT_000100,ATM_168,2024-02-01 12:42:28,Emergency,Cash Cassette,ENG_08,Emergency maintenance done. Escalated to vendor for follow-up.,3.0,74627
+MNT_000101,ATM_138,2024-02-10 10:38:04,Corrective,Network Module,ENG_11,Error log cleared. Defective part replaced.,7.3,16905
+MNT_000102,ATM_138,2024-03-18 03:55:13,Corrective,Dispenser Module,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,7.1,10571
+MNT_000103,ATM_087,2024-03-01 04:36:21,Corrective,Receipt Printer,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,5.5,11178
+MNT_000104,ATM_037,2024-04-04 20:30:02,Corrective,Network Module,ENG_05,Error log cleared. Defective part replaced.,3.8,24774
+MNT_000105,ATM_173,2024-02-15 19:01:32,Emergency,Cash Cassette,ENG_02,Critical failure resolved on-site. ATM restored to service.,0.7,64671
+MNT_000106,ATM_076,2024-01-15 23:18:45,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,6.2,1211
+MNT_000107,ATM_156,2024-01-16 15:22:27,Preventive,,ENG_19,Routine inspection completed. No issues found.,1.5,3193
+MNT_000108,ATM_042,2024-03-24 08:49:30,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,3.1,1891
+MNT_000109,ATM_068,2024-01-18 14:23:36,Preventive,,ENG_20,Network settings verified. Response time within SLA.,7.5,2780
+MNT_000110,ATM_097,2024-01-22 11:55:41,Corrective,Receipt Printer,ENG_20,Component replaced after failure detected during monitoring.,7.9,17060
+MNT_000111,ATM_158,2024-02-24 17:50:58,Corrective,Network Module,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,2.3,5760
+MNT_000112,ATM_085,2024-03-14 13:26:08,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,7.3,3982
+MNT_000113,ATM_134,2024-03-15 11:02:05,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,3.8,4468
+MNT_000114,ATM_099,2024-03-06 09:32:59,Emergency,Dispenser Module,ENG_14,Urgent replacement of failed component. Downtime minimised.,7.6,50116
+MNT_000115,ATM_156,2024-01-07 14:59:49,Emergency,Network Module,ENG_01,Emergency callout — ATM was completely non-operational.,2.9,59917
+MNT_000116,ATM_080,2024-04-22 18:43:02,Preventive,,ENG_10,Cash cassette cleaned and refilled. Software updated.,5.4,2387
+MNT_000117,ATM_094,2024-01-23 02:31:54,Corrective,Receipt Printer,ENG_13,Component replaced after failure detected during monitoring.,0.6,10401
+MNT_000118,ATM_110,2024-01-29 01:25:13,Emergency,Dispenser Module,ENG_16,Emergency maintenance done. Escalated to vendor for follow-up.,2.7,39721
+MNT_000119,ATM_097,2024-02-25 16:21:27,Corrective,Receipt Printer,ENG_02,Intermittent failure resolved by replacing component.,5.1,14903
+MNT_000120,ATM_151,2024-02-04 23:56:59,Corrective,Card Reader,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,7.0,8189
+MNT_000121,ATM_056,2024-04-27 14:19:46,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,4.2,2109
+MNT_000122,ATM_032,2024-01-23 06:49:05,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,7.2,3472
+MNT_000123,ATM_007,2024-03-21 06:01:22,Preventive,,ENG_06,Cash cassette cleaned and refilled. Software updated.,4.6,1879
+MNT_000124,ATM_099,2024-03-28 19:58:03,Preventive,,ENG_04,Network settings verified. Response time within SLA.,5.9,3473
+MNT_000125,ATM_015,2024-01-07 10:49:26,Preventive,,ENG_07,Cash cassette cleaned and refilled. Software updated.,1.9,2082
+MNT_000126,ATM_015,2024-04-24 04:20:04,Emergency,Card Reader,ENG_17,Emergency maintenance done. Escalated to vendor for follow-up.,2.1,52070
+MNT_000127,ATM_011,2024-01-13 01:24:27,Corrective,Network Module,ENG_01,Intermittent failure resolved by replacing component.,7.6,18623
+MNT_000128,ATM_014,2024-01-20 02:44:41,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,7.3,3129
+MNT_000129,ATM_102,2024-03-10 06:56:04,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,1.9,1536
+MNT_000130,ATM_166,2024-02-19 14:46:20,Preventive,,ENG_15,Routine inspection completed. No issues found.,3.7,3234
+MNT_000131,ATM_123,2024-02-20 00:04:41,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,4.4,3259
+MNT_000132,ATM_124,2024-02-25 22:14:38,Corrective,Dispenser Module,ENG_08,Intermittent failure resolved by replacing component.,2.1,5384
+MNT_000133,ATM_118,2024-04-25 19:35:09,Corrective,Card Reader,ENG_18,Error log cleared. Defective part replaced.,4.4,22958
+MNT_000134,ATM_055,2024-01-24 23:22:23,Emergency,Dispenser Module,ENG_11,Emergency callout — ATM was completely non-operational.,6.6,34841
+MNT_000135,ATM_012,2024-02-26 16:16:33,Corrective,Network Module,ENG_11,Component replaced after failure detected during monitoring.,7.2,22397
+MNT_000136,ATM_118,2024-03-09 02:05:27,Corrective,Receipt Printer,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,0.9,6041
+MNT_000137,ATM_074,2024-04-20 04:15:23,Corrective,Keypad,ENG_10,Intermittent failure resolved by replacing component.,6.6,16109
+MNT_000138,ATM_115,2024-01-09 02:38:12,Corrective,Card Reader,ENG_11,Intermittent failure resolved by replacing component.,2.6,21108
+MNT_000139,ATM_069,2024-02-12 06:08:08,Preventive,,ENG_17,Card reader cleaned. Firmware upgraded to latest version.,1.6,4735
+MNT_000140,ATM_084,2024-04-07 02:58:22,Corrective,,ENG_18,Faulty unit removed and replaced. Tested post-installation.,7.2,14315
+MNT_000141,ATM_175,2024-01-12 01:51:33,Emergency,Receipt Printer,ENG_11,Emergency maintenance done. Escalated to vendor for follow-up.,7.6,72540
+MNT_000142,ATM_138,2024-01-31 13:33:45,Preventive,,ENG_13,Preventive maintenance done. All components operational.,5.8,1553
+MNT_000143,ATM_055,2024-02-18 22:11:49,Corrective,,ENG_18,Faulty unit removed and replaced. Tested post-installation.,3.6,19981
+MNT_000144,ATM_160,2024-01-21 09:40:45,Emergency,Cash Cassette,ENG_05,Emergency callout — ATM was completely non-operational.,8.0,53693
+MNT_000145,ATM_156,2024-03-17 00:22:41,Corrective,Keypad,ENG_08,Component replaced after failure detected during monitoring.,7.8,9965
+MNT_000146,ATM_173,2024-04-25 06:00:43,Corrective,Dispenser Module,ENG_13,Component replaced after failure detected during monitoring.,2.5,13380
+MNT_000147,ATM_062,2024-01-13 05:37:56,Corrective,Card Reader,ENG_09,Faulty unit removed and replaced. Tested post-installation.,7.2,16615
+MNT_000148,ATM_187,2024-01-01 00:57:12,Corrective,Network Module,ENG_20,Intermittent failure resolved by replacing component.,7.7,12658
+MNT_000149,ATM_124,2024-01-29 16:10:16,Corrective,,ENG_07,Error log cleared. Defective part replaced.,4.2,12626
+MNT_000150,ATM_151,2024-03-28 05:30:49,Preventive,,ENG_16,Preventive maintenance done. All components operational.,0.7,1054
+MNT_000151,ATM_101,2024-04-02 21:56:52,Corrective,Keypad,ENG_14,Error log cleared. Defective part replaced.,4.8,8464
+MNT_000152,ATM_142,2024-02-06 14:38:41,Corrective,Card Reader,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,3.3,22295
+MNT_000153,ATM_087,2024-03-24 03:39:06,Preventive,,ENG_16,Cash cassette cleaned and refilled. Software updated.,3.6,4291
+MNT_000154,ATM_047,2024-02-18 09:37:38,Corrective,Receipt Printer,ENG_06,Error log cleared. Defective part replaced.,3.7,10966
+MNT_000155,ATM_078,2024-01-12 06:56:02,Emergency,Dispenser Module,ENG_08,Major hardware fault repaired under emergency protocol.,5.3,45194
+MNT_000156,ATM_199,2024-02-15 08:05:19,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,7.6,3087
+MNT_000157,ATM_099,2024-04-23 11:51:00,Preventive,,ENG_08,Routine inspection completed. No issues found.,6.3,3107
+MNT_000158,ATM_143,2024-02-03 23:49:52,Corrective,Receipt Printer,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,4.8,8922
+MNT_000159,ATM_075,2024-02-04 01:21:28,Corrective,Network Module,ENG_13,Component replaced after failure detected during monitoring.,3.5,17270
+MNT_000160,ATM_087,2024-03-13 20:27:54,Preventive,,ENG_19,Preventive maintenance done. All components operational.,4.1,4851
+MNT_000161,ATM_133,2024-01-25 20:10:32,Preventive,,ENG_01,Routine inspection completed. No issues found.,1.7,4484
+MNT_000162,ATM_046,2024-01-09 14:56:49,Corrective,Receipt Printer,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,4.4,13207
+MNT_000163,ATM_062,2024-03-23 04:16:49,Corrective,Network Module,ENG_12,Faulty unit removed and replaced. Tested post-installation.,2.6,13156
+MNT_000164,ATM_087,2024-02-03 17:36:45,Corrective,Cash Cassette,ENG_10,Faulty unit removed and replaced. Tested post-installation.,1.7,24901
+MNT_000165,ATM_118,2024-02-08 16:15:09,Preventive,,ENG_19,Network settings verified. Response time within SLA.,4.9,3993
+MNT_000166,ATM_047,2024-02-27 07:07:57,Preventive,,ENG_17,Cash cassette cleaned and refilled. Software updated.,6.7,3374
+MNT_000167,ATM_097,2024-03-08 18:58:01,Preventive,,ENG_18,Preventive maintenance done. All components operational.,4.7,3148
+MNT_000168,ATM_123,2024-02-04 17:39:57,Corrective,Cash Cassette,ENG_09,Component replaced after failure detected during monitoring.,4.5,10322
+MNT_000169,ATM_171,2024-01-27 13:44:57,Corrective,Receipt Printer,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,2.1,9549
+MNT_000170,ATM_042,2024-03-02 15:42:59,Preventive,,ENG_02,Card reader cleaned. Firmware upgraded to latest version.,2.3,1344
+MNT_000171,ATM_085,2024-01-05 18:32:16,Corrective,Keypad,ENG_16,Root cause identified as hardware wear. Replaced accordingly.,6.6,23728
+MNT_000172,ATM_018,2024-02-07 10:11:03,Preventive,,ENG_18,Card reader cleaned. Firmware upgraded to latest version.,6.2,3396
+MNT_000173,ATM_042,2024-03-16 06:14:25,Corrective,Keypad,ENG_17,Faulty unit removed and replaced. Tested post-installation.,4.4,24354
+MNT_000174,ATM_083,2024-02-07 01:24:06,Emergency,Network Module,ENG_11,Critical failure resolved on-site. ATM restored to service.,4.0,65159
+MNT_000175,ATM_156,2024-01-30 05:27:47,Corrective,Dispenser Module,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,3.3,23501
+MNT_000176,ATM_128,2024-04-26 09:46:54,Preventive,,ENG_16,Network settings verified. Response time within SLA.,1.0,3001
+MNT_000177,ATM_054,2024-03-06 15:50:51,Corrective,Dispenser Module,ENG_15,Faulty unit removed and replaced. Tested post-installation.,7.1,12465
+MNT_000178,ATM_180,2024-03-22 09:11:32,Corrective,Cash Cassette,ENG_18,Intermittent failure resolved by replacing component.,3.3,19252
+MNT_000179,ATM_193,2024-02-17 13:05:21,Emergency,,ENG_17,Critical failure resolved on-site. ATM restored to service.,5.1,57448
+MNT_000180,ATM_030,2024-01-09 04:16:51,Preventive,,ENG_14,Network settings verified. Response time within SLA.,6.3,2316
+MNT_000181,ATM_082,2024-04-09 22:35:09,Corrective,Dispenser Module,ENG_09,Component replaced after failure detected during monitoring.,6.9,24364
+MNT_000182,ATM_145,2024-03-10 11:57:21,Preventive,,ENG_14,Preventive maintenance done. All components operational.,4.4,3438
+MNT_000183,ATM_023,2024-02-03 03:59:17,Corrective,Cash Cassette,ENG_18,Component replaced after failure detected during monitoring.,1.4,20597
+MNT_000184,ATM_115,2024-01-03 15:45:56,Corrective,Card Reader,ENG_20,Faulty unit removed and replaced. Tested post-installation.,1.8,12362
+MNT_000185,ATM_101,2024-04-16 19:25:00,Corrective,,ENG_06,Intermittent failure resolved by replacing component.,3.7,7631
+MNT_000186,ATM_015,2024-02-28 15:22:45,Preventive,,ENG_13,Card reader cleaned. Firmware upgraded to latest version.,0.9,1661
+MNT_000187,ATM_019,2024-03-20 19:42:03,Emergency,Receipt Printer,ENG_19,Critical failure resolved on-site. ATM restored to service.,4.4,52039
+MNT_000188,ATM_015,2024-02-17 15:37:15,Corrective,,ENG_01,Root cause identified as hardware wear. Replaced accordingly.,4.7,17438
+MNT_000189,ATM_198,2024-01-02 16:21:26,Corrective,Card Reader,ENG_09,Faulty unit removed and replaced. Tested post-installation.,2.4,16826
+MNT_000190,ATM_087,2024-03-13 10:45:23,Preventive,,ENG_17,Routine inspection completed. No issues found.,7.1,1725
+MNT_000191,ATM_011,2024-01-12 14:23:22,Corrective,Keypad,ENG_18,Faulty unit removed and replaced. Tested post-installation.,7.4,9327
+MNT_000192,ATM_042,2024-01-28 10:20:03,Corrective,Receipt Printer,ENG_01,Faulty unit removed and replaced. Tested post-installation.,5.1,6361
+MNT_000193,ATM_095,2024-04-06 04:43:43,Preventive,,ENG_07,Network settings verified. Response time within SLA.,0.8,1074
+MNT_000194,ATM_015,2024-03-02 20:49:38,Preventive,,ENG_02,Network settings verified. Response time within SLA.,4.2,2024
+MNT_000195,ATM_034,2024-02-10 03:59:03,Preventive,,ENG_07,Routine inspection completed. No issues found.,5.5,1772
+MNT_000196,ATM_051,2024-04-15 03:53:25,Emergency,,ENG_17,Emergency callout — ATM was completely non-operational.,1.4,79932
+MNT_000197,ATM_084,2024-01-13 16:43:30,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,7.5,4564
+MNT_000198,ATM_017,2024-04-26 13:21:56,Preventive,,ENG_05,Routine inspection completed. No issues found.,4.1,2194
+MNT_000199,ATM_155,2024-02-11 05:38:37,Preventive,,ENG_15,Preventive maintenance done. All components operational.,6.0,2690
+MNT_000200,ATM_015,2024-02-25 18:05:31,Emergency,Keypad,ENG_16,Urgent replacement of failed component. Downtime minimised.,2.9,36578
+MNT_000201,ATM_148,2024-03-21 19:27:26,Corrective,,ENG_11,Error log cleared. Defective part replaced.,1.9,12704
+MNT_000202,ATM_119,2024-04-17 06:34:48,Emergency,Card Reader,ENG_04,Critical failure resolved on-site. ATM restored to service.,7.5,27027
+MNT_000203,ATM_190,2024-02-20 16:55:26,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,5.1,4072
+MNT_000204,ATM_102,2024-02-12 20:55:01,Corrective,Cash Cassette,ENG_19,Error log cleared. Defective part replaced.,2.8,5770
+MNT_000205,ATM_096,2024-01-13 07:42:03,Corrective,Network Module,ENG_06,Error log cleared. Defective part replaced.,2.4,12734
+MNT_000206,ATM_191,2024-02-06 06:02:04,Corrective,,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,1.7,8948
+MNT_000207,ATM_119,2024-01-04 00:59:00,Corrective,Network Module,ENG_15,Error log cleared. Defective part replaced.,6.5,17194
+MNT_000208,ATM_040,2024-02-09 21:46:17,Corrective,,ENG_11,Component replaced after failure detected during monitoring.,2.7,14881
+MNT_000209,ATM_059,2024-03-23 17:33:02,Corrective,,ENG_04,Component replaced after failure detected during monitoring.,7.3,15565
+MNT_000210,ATM_042,2024-02-13 16:08:49,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,7.2,1727
+MNT_000211,ATM_154,2024-04-06 14:57:41,Emergency,Dispenser Module,ENG_14,Urgent replacement of failed component. Downtime minimised.,1.4,40276
+MNT_000212,ATM_102,2024-02-09 23:23:43,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,7.0,2699
+MNT_000213,ATM_123,2024-03-03 12:06:42,Corrective,Receipt Printer,ENG_10,Faulty unit removed and replaced. Tested post-installation.,3.9,6159
+MNT_000214,ATM_056,2024-02-18 13:07:49,Emergency,,ENG_04,Critical failure resolved on-site. ATM restored to service.,5.0,33367
+MNT_000215,ATM_020,2024-01-22 05:48:11,Corrective,Dispenser Module,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,3.8,18585
+MNT_000216,ATM_042,2024-01-08 08:24:24,Corrective,Dispenser Module,ENG_12,Component replaced after failure detected during monitoring.,7.2,6022
+MNT_000217,ATM_099,2024-01-23 21:39:39,Corrective,Network Module,ENG_16,Intermittent failure resolved by replacing component.,6.0,20806
+MNT_000218,ATM_173,2024-04-29 02:15:31,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,2.8,2808
+MNT_000219,ATM_036,2024-03-03 11:11:10,Emergency,Card Reader,ENG_05,Emergency maintenance done. Escalated to vendor for follow-up.,6.9,72851
+MNT_000220,ATM_066,2024-01-25 21:11:17,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,2.1,3195
+MNT_000221,ATM_191,2024-04-11 13:34:48,Emergency,Cash Cassette,ENG_02,Urgent replacement of failed component. Downtime minimised.,5.1,71708
+MNT_000222,ATM_186,2024-04-22 22:56:02,Emergency,Receipt Printer,ENG_07,Major hardware fault repaired under emergency protocol.,5.8,26330
+MNT_000223,ATM_118,2024-03-14 09:52:59,Preventive,,ENG_11,Routine inspection completed. No issues found.,7.8,4633
+MNT_000224,ATM_016,2024-03-18 01:24:50,Preventive,,ENG_19,Routine inspection completed. No issues found.,4.8,3919
+MNT_000225,ATM_148,2024-01-18 12:42:55,Preventive,,ENG_01,Routine inspection completed. No issues found.,1.4,4575
+MNT_000226,ATM_138,2024-03-30 06:32:37,Corrective,Receipt Printer,ENG_01,Root cause identified as hardware wear. Replaced accordingly.,5.2,6251
+MNT_000227,ATM_132,2024-01-26 23:41:59,Corrective,Dispenser Module,ENG_09,Component replaced after failure detected during monitoring.,1.9,12348
+MNT_000228,ATM_190,2024-01-03 07:35:03,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,0.8,4970
+MNT_000229,ATM_197,2024-04-03 09:42:34,Preventive,,ENG_07,Network settings verified. Response time within SLA.,7.1,2524
+MNT_000230,ATM_145,2024-04-26 05:43:45,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,2.0,4239
+MNT_000231,ATM_058,2024-01-04 19:34:07,Corrective,Network Module,ENG_08,Faulty unit removed and replaced. Tested post-installation.,4.1,13814
+MNT_000232,ATM_117,2024-03-17 15:21:53,Corrective,,ENG_04,Error log cleared. Defective part replaced.,3.2,14521
+MNT_000233,ATM_087,2024-04-05 21:14:47,Corrective,Keypad,ENG_11,Error log cleared. Defective part replaced.,5.4,24008
+MNT_000234,ATM_012,2024-03-19 18:52:23,Corrective,Card Reader,ENG_02,Component replaced after failure detected during monitoring.,2.5,7341
+MNT_000235,ATM_198,2024-02-04 05:05:13,Corrective,Receipt Printer,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,0.8,23008
+MNT_000236,ATM_119,2024-02-26 17:30:13,Emergency,Card Reader,ENG_09,Urgent replacement of failed component. Downtime minimised.,5.5,67230
+MNT_000237,ATM_149,2024-01-23 11:41:54,Preventive,,ENG_13,Network settings verified. Response time within SLA.,2.6,4376
+MNT_000238,ATM_154,2024-04-16 21:07:08,Preventive,,ENG_17,Network settings verified. Response time within SLA.,2.7,4247
+MNT_000239,ATM_116,2024-03-22 10:01:18,Corrective,Cash Cassette,ENG_20,Component replaced after failure detected during monitoring.,3.8,22665
+MNT_000240,ATM_186,2024-02-12 06:03:18,Corrective,Receipt Printer,ENG_14,Error log cleared. Defective part replaced.,7.3,10094
+MNT_000241,ATM_127,2024-02-24 03:03:53,Corrective,,ENG_03,Error log cleared. Defective part replaced.,7.3,24452
+MNT_000242,ATM_167,2024-03-10 07:26:38,Preventive,,ENG_04,Routine inspection completed. No issues found.,7.8,2029
+MNT_000243,ATM_009,2024-01-31 10:39:16,Emergency,Dispenser Module,ENG_11,Emergency maintenance done. Escalated to vendor for follow-up.,2.0,58497
+MNT_000244,ATM_066,2024-01-22 02:22:28,Emergency,Keypad,ENG_13,Urgent replacement of failed component. Downtime minimised.,7.7,79480
+MNT_000245,ATM_112,2024-03-27 20:38:41,Preventive,,ENG_03,Cash cassette cleaned and refilled. Software updated.,6.5,3864
+MNT_000246,ATM_190,2024-02-26 04:36:57,Corrective,Cash Cassette,ENG_02,Error log cleared. Defective part replaced.,5.2,23214
+MNT_000247,ATM_158,2024-02-12 08:12:50,Corrective,Dispenser Module,ENG_14,Component replaced after failure detected during monitoring.,3.6,10671
+MNT_000248,ATM_127,2024-01-08 09:05:23,Preventive,,ENG_07,Network settings verified. Response time within SLA.,1.4,4658
+MNT_000249,ATM_054,2024-03-08 03:18:45,Preventive,,ENG_11,Network settings verified. Response time within SLA.,3.3,1429
+MNT_000250,ATM_113,2024-04-13 18:28:11,Preventive,,ENG_07,Cash cassette cleaned and refilled. Software updated.,6.9,1278
+MNT_000251,ATM_009,2024-01-16 02:50:42,Corrective,Receipt Printer,ENG_12,Component replaced after failure detected during monitoring.,1.2,11679
+MNT_000252,ATM_064,2024-03-13 00:47:41,Corrective,Network Module,ENG_11,Intermittent failure resolved by replacing component.,7.5,21278
+MNT_000253,ATM_016,2024-03-06 16:27:40,Emergency,Network Module,ENG_03,Major hardware fault repaired under emergency protocol.,7.8,43813
+MNT_000254,ATM_198,2024-02-17 02:02:40,Preventive,,ENG_15,Preventive maintenance done. All components operational.,1.4,4538
+MNT_000255,ATM_043,2024-02-05 17:11:08,Corrective,Keypad,ENG_06,Faulty unit removed and replaced. Tested post-installation.,6.2,13605
+MNT_000256,ATM_087,2024-03-16 20:57:20,Preventive,,ENG_02,Network settings verified. Response time within SLA.,2.5,1298
+MNT_000257,ATM_034,2024-03-08 08:38:44,Corrective,Cash Cassette,ENG_10,Intermittent failure resolved by replacing component.,0.6,16126
+MNT_000258,ATM_048,2024-03-27 05:36:16,Corrective,Receipt Printer,ENG_19,Component replaced after failure detected during monitoring.,5.5,24670
+MNT_000259,ATM_005,2024-04-09 09:58:54,Corrective,Receipt Printer,ENG_11,Intermittent failure resolved by replacing component.,1.9,8862
+MNT_000260,ATM_135,2024-03-05 07:26:47,Emergency,Network Module,ENG_19,Urgent replacement of failed component. Downtime minimised.,4.1,79355
+MNT_000261,ATM_077,2024-02-19 18:50:52,Corrective,Network Module,ENG_15,Component replaced after failure detected during monitoring.,7.8,24435
+MNT_000262,ATM_145,2024-04-09 05:49:10,Corrective,Cash Cassette,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,5.8,11524
+MNT_000263,ATM_054,2024-02-17 18:41:58,Corrective,Network Module,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,0.8,13842
+MNT_000264,ATM_166,2024-03-01 10:35:03,Preventive,,ENG_14,Network settings verified. Response time within SLA.,6.0,2484
+MNT_000265,ATM_067,2024-04-29 03:40:21,Preventive,,ENG_12,Cash cassette cleaned and refilled. Software updated.,6.6,4270
+MNT_000266,ATM_039,2024-01-23 22:01:08,Corrective,Dispenser Module,ENG_19,Error log cleared. Defective part replaced.,2.6,14117
+MNT_000267,ATM_145,2024-04-17 12:46:19,Corrective,Keypad,ENG_02,Root cause identified as hardware wear. Replaced accordingly.,7.8,19971
+MNT_000268,ATM_025,2024-04-08 18:19:30,Corrective,Network Module,ENG_03,Intermittent failure resolved by replacing component.,0.7,13113
+MNT_000269,ATM_063,2024-02-26 07:11:46,Preventive,,ENG_16,Routine inspection completed. No issues found.,1.4,3395
+MNT_000270,ATM_088,2024-02-17 21:49:08,Corrective,Dispenser Module,ENG_11,Intermittent failure resolved by replacing component.,3.5,5766
+MNT_000271,ATM_159,2024-01-10 19:47:16,Emergency,Receipt Printer,ENG_03,Critical failure resolved on-site. ATM restored to service.,4.5,79182
+MNT_000272,ATM_170,2024-04-20 14:27:49,Corrective,Card Reader,ENG_01,Component replaced after failure detected during monitoring.,3.3,20975
+MNT_000273,ATM_166,2024-04-20 03:30:19,Corrective,,ENG_03,Intermittent failure resolved by replacing component.,2.1,21555
+MNT_000274,ATM_065,2024-03-11 14:51:45,Corrective,Network Module,ENG_17,Faulty unit removed and replaced. Tested post-installation.,3.1,12501
+MNT_000275,ATM_160,2024-02-01 02:58:05,Preventive,,ENG_12,Routine inspection completed. No issues found.,7.3,3110
+MNT_000276,ATM_089,2024-01-09 01:22:06,Preventive,,ENG_09,Routine inspection completed. No issues found.,6.6,1602
+MNT_000277,ATM_147,2024-04-23 04:48:23,Corrective,Keypad,ENG_13,Root cause identified as hardware wear. Replaced accordingly.,2.8,19379
+MNT_000278,ATM_012,2024-03-25 05:39:06,Preventive,,ENG_10,Network settings verified. Response time within SLA.,6.5,2301
+MNT_000279,ATM_099,2024-03-17 16:26:18,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,5.9,2102
+MNT_000280,ATM_126,2024-03-24 03:30:12,Preventive,,ENG_02,Routine inspection completed. No issues found.,7.0,1273
+MNT_000281,ATM_164,2024-04-10 01:00:57,Corrective,Keypad,ENG_09,Component replaced after failure detected during monitoring.,5.0,8949
+MNT_000282,ATM_027,2024-02-27 15:23:33,Preventive,,ENG_10,Card reader cleaned. Firmware upgraded to latest version.,7.2,4602
+MNT_000283,ATM_170,2024-04-15 11:32:36,Corrective,Receipt Printer,ENG_15,Component replaced after failure detected during monitoring.,1.6,21523
+MNT_000284,ATM_196,2024-02-19 15:25:51,Preventive,,ENG_04,Routine inspection completed. No issues found.,7.1,4152
+MNT_000285,ATM_156,2024-02-15 20:56:55,Corrective,,ENG_16,Intermittent failure resolved by replacing component.,7.7,13113
+MNT_000286,ATM_081,2024-04-13 03:31:31,Preventive,,ENG_15,Cash cassette cleaned and refilled. Software updated.,2.1,2611
+MNT_000287,ATM_086,2024-02-23 09:55:40,Corrective,Cash Cassette,ENG_01,Intermittent failure resolved by replacing component.,7.6,22128
+MNT_000288,ATM_156,2024-04-15 11:27:53,Corrective,Network Module,ENG_15,Intermittent failure resolved by replacing component.,7.9,9632
+MNT_000289,ATM_063,2024-03-29 16:50:20,Corrective,Keypad,ENG_14,Component replaced after failure detected during monitoring.,5.1,23845
+MNT_000290,ATM_100,2024-03-28 03:17:09,Emergency,Card Reader,ENG_19,Urgent replacement of failed component. Downtime minimised.,1.1,65616
+MNT_000291,ATM_060,2024-02-12 15:50:52,Corrective,Keypad,ENG_01,Intermittent failure resolved by replacing component.,0.6,22671
+MNT_000292,ATM_038,2024-04-09 15:55:15,Emergency,,ENG_10,Major hardware fault repaired under emergency protocol.,6.7,79424
+MNT_000293,ATM_057,2024-02-18 07:34:10,Emergency,Dispenser Module,ENG_18,Emergency callout — ATM was completely non-operational.,5.5,48736
+MNT_000294,ATM_029,2024-01-21 11:37:14,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,5.8,4942
+MNT_000295,ATM_158,2024-01-28 03:40:49,Preventive,,ENG_19,Preventive maintenance done. All components operational.,2.8,3987
+MNT_000296,ATM_015,2024-03-09 19:25:15,Corrective,,ENG_19,Intermittent failure resolved by replacing component.,6.4,12757
+MNT_000297,ATM_094,2024-03-03 14:10:36,Preventive,,ENG_15,Network settings verified. Response time within SLA.,7.3,2885
+MNT_000298,ATM_189,2024-04-03 12:35:35,Corrective,Cash Cassette,ENG_13,Root cause identified as hardware wear. Replaced accordingly.,1.4,7614
+MNT_000299,ATM_188,2024-01-24 14:49:30,Preventive,,ENG_06,Preventive maintenance done. All components operational.,6.7,2519
+MNT_000300,ATM_149,2024-01-21 17:17:50,Preventive,,ENG_08,Routine inspection completed. No issues found.,5.9,1150
+MNT_000301,ATM_103,2024-01-01 06:19:14,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,5.2,3572
+MNT_000302,ATM_075,2024-03-10 02:08:08,Emergency,Card Reader,ENG_14,Major hardware fault repaired under emergency protocol.,3.4,70536
+MNT_000303,ATM_194,2024-04-05 17:53:28,Emergency,Cash Cassette,ENG_15,Emergency maintenance done. Escalated to vendor for follow-up.,4.6,74576
+MNT_000304,ATM_056,2024-03-11 04:00:35,Preventive,,ENG_04,Network settings verified. Response time within SLA.,5.3,2586
+MNT_000305,ATM_067,2024-04-05 17:06:12,Preventive,,ENG_01,Cash cassette cleaned and refilled. Software updated.,0.8,4346
+MNT_000306,ATM_057,2024-01-19 04:50:58,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,7.9,3491
+MNT_000307,ATM_191,2024-01-07 05:01:18,Corrective,Dispenser Module,ENG_20,Error log cleared. Defective part replaced.,2.4,17016
+MNT_000308,ATM_123,2024-01-28 03:28:45,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,1.2,3600
+MNT_000309,ATM_183,2024-04-24 02:56:29,Preventive,,ENG_15,Network settings verified. Response time within SLA.,5.1,2070
+MNT_000310,ATM_166,2024-01-26 19:48:52,Preventive,,ENG_01,Cash cassette cleaned and refilled. Software updated.,5.3,3567
+MNT_000311,ATM_180,2024-02-20 20:40:47,Emergency,Card Reader,ENG_03,Urgent replacement of failed component. Downtime minimised.,7.5,60055
+MNT_000312,ATM_163,2024-02-12 14:40:01,Preventive,,ENG_03,Routine inspection completed. No issues found.,5.3,2947
+MNT_000313,ATM_019,2024-04-07 12:45:24,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,5.9,3034
+MNT_000314,ATM_118,2024-03-11 13:02:56,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,3.4,2117
+MNT_000315,ATM_036,2024-04-13 05:20:18,Emergency,Network Module,ENG_20,Urgent replacement of failed component. Downtime minimised.,5.6,69836
+MNT_000316,ATM_049,2024-03-03 17:15:05,Corrective,,ENG_05,Root cause identified as hardware wear. Replaced accordingly.,7.3,12153
+MNT_000317,ATM_194,2024-01-08 10:23:42,Emergency,,ENG_08,Major hardware fault repaired under emergency protocol.,2.9,58227
+MNT_000318,ATM_048,2024-04-25 07:26:56,Corrective,Receipt Printer,ENG_06,Intermittent failure resolved by replacing component.,1.0,13552
+MNT_000319,ATM_077,2024-03-27 21:18:03,Emergency,Keypad,ENG_12,Urgent replacement of failed component. Downtime minimised.,2.3,36842
+MNT_000320,ATM_058,2024-04-16 18:41:56,Preventive,,ENG_16,Preventive maintenance done. All components operational.,2.5,2236
+MNT_000321,ATM_131,2024-01-04 21:57:29,Emergency,Network Module,ENG_09,Major hardware fault repaired under emergency protocol.,0.9,70412
+MNT_000322,ATM_197,2024-02-13 17:32:13,Corrective,Network Module,ENG_15,Intermittent failure resolved by replacing component.,2.4,8215
+MNT_000323,ATM_042,2024-02-05 00:39:46,Preventive,,ENG_02,Preventive maintenance done. All components operational.,4.4,3966
+MNT_000324,ATM_156,2024-01-16 14:45:14,Preventive,,ENG_18,Preventive maintenance done. All components operational.,3.5,3157
+MNT_000325,ATM_002,2024-01-09 12:56:17,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,5.5,4577
+MNT_000326,ATM_111,2024-01-03 19:11:44,Corrective,Network Module,ENG_02,Faulty unit removed and replaced. Tested post-installation.,3.6,22129
+MNT_000327,ATM_120,2024-03-04 09:42:02,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,5.7,4347
+MNT_000328,ATM_171,2024-01-23 23:51:40,Corrective,Receipt Printer,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,0.5,22944
+MNT_000329,ATM_178,2024-03-04 16:38:28,Corrective,Dispenser Module,ENG_08,Intermittent failure resolved by replacing component.,2.4,20224
+MNT_000330,ATM_168,2024-04-15 01:56:15,Corrective,Cash Cassette,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,4.5,21203
+MNT_000331,ATM_087,2024-02-26 18:54:19,Preventive,,ENG_08,Card reader cleaned. Firmware upgraded to latest version.,3.0,2846
+MNT_000332,ATM_115,2024-01-21 05:11:41,Corrective,Receipt Printer,ENG_17,Faulty unit removed and replaced. Tested post-installation.,2.9,13731
+MNT_000333,ATM_095,2024-02-12 01:39:05,Emergency,Cash Cassette,ENG_06,Emergency maintenance done. Escalated to vendor for follow-up.,4.9,60348
+MNT_000334,ATM_123,2024-01-01 21:08:35,Corrective,Keypad,ENG_05,Faulty unit removed and replaced. Tested post-installation.,2.5,21411
+MNT_000335,ATM_042,2024-03-23 09:52:27,Preventive,,ENG_05,Routine inspection completed. No issues found.,6.8,4218
+MNT_000336,ATM_123,2024-02-19 20:35:17,Preventive,,ENG_10,Card reader cleaned. Firmware upgraded to latest version.,5.6,2231
+MNT_000337,ATM_126,2024-01-21 18:21:25,Corrective,Dispenser Module,ENG_14,Error log cleared. Defective part replaced.,5.2,15018
+MNT_000338,ATM_183,2024-03-12 15:33:28,Emergency,Cash Cassette,ENG_18,Urgent replacement of failed component. Downtime minimised.,3.0,31918
+MNT_000339,ATM_187,2024-01-18 12:59:49,Preventive,,ENG_12,Preventive maintenance done. All components operational.,0.7,2450
+MNT_000340,ATM_121,2024-02-10 23:28:29,Emergency,Network Module,ENG_09,Major hardware fault repaired under emergency protocol.,6.0,70997
+MNT_000341,ATM_029,2024-03-11 10:29:42,Corrective,Network Module,ENG_12,Component replaced after failure detected during monitoring.,7.4,11945
+MNT_000342,ATM_120,2024-03-07 02:42:01,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,3.7,1420
+MNT_000343,ATM_014,2024-01-15 11:16:08,Preventive,,ENG_15,Network settings verified. Response time within SLA.,3.0,2770
+MNT_000344,ATM_037,2024-03-19 13:00:02,Preventive,,ENG_07,Network settings verified. Response time within SLA.,7.0,3803
+MNT_000345,ATM_061,2024-04-18 12:14:27,Corrective,,ENG_14,Error log cleared. Defective part replaced.,3.7,22058
+MNT_000346,ATM_097,2024-03-08 02:18:15,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,1.4,3646
+MNT_000347,ATM_076,2024-04-21 02:13:24,Emergency,Cash Cassette,ENG_06,Critical failure resolved on-site. ATM restored to service.,3.2,69982
+MNT_000348,ATM_032,2024-01-17 15:46:43,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,2.6,4611
+MNT_000349,ATM_013,2024-03-30 19:45:04,Corrective,Cash Cassette,ENG_01,Root cause identified as hardware wear. Replaced accordingly.,6.4,6869
+MNT_000350,ATM_036,2024-03-01 04:40:07,Corrective,Cash Cassette,ENG_11,Error log cleared. Defective part replaced.,5.7,15463
+MNT_000351,ATM_126,2024-03-22 01:28:45,Preventive,,ENG_03,Network settings verified. Response time within SLA.,5.8,2891
+MNT_000352,ATM_062,2024-01-07 14:19:39,Corrective,Receipt Printer,ENG_03,Intermittent failure resolved by replacing component.,3.0,18749
+MNT_000353,ATM_129,2024-04-15 05:56:48,Corrective,Keypad,ENG_14,Faulty unit removed and replaced. Tested post-installation.,5.4,6294
+MNT_000354,ATM_113,2024-01-07 15:04:47,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,2.0,1635
+MNT_000355,ATM_015,2024-02-07 16:20:57,Corrective,Card Reader,ENG_14,Component replaced after failure detected during monitoring.,3.7,17939
+MNT_000356,ATM_137,2024-04-04 06:40:34,Emergency,Network Module,ENG_10,Emergency callout — ATM was completely non-operational.,3.1,63025
+MNT_000357,ATM_102,2024-01-19 23:02:48,Corrective,Cash Cassette,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,2.4,24683
+MNT_000358,ATM_115,2024-02-06 10:33:48,Preventive,,ENG_07,Network settings verified. Response time within SLA.,2.4,2278
+MNT_000359,ATM_044,2024-03-15 17:55:23,Emergency,Network Module,ENG_09,Emergency callout — ATM was completely non-operational.,6.9,39160
+MNT_000360,ATM_151,2024-03-30 19:08:54,Emergency,,ENG_04,Critical failure resolved on-site. ATM restored to service.,4.8,63032
+MNT_000361,ATM_005,2024-03-29 09:05:36,Preventive,,ENG_13,Routine inspection completed. No issues found.,5.8,3342
+MNT_000362,ATM_193,2024-02-19 22:00:54,Preventive,,ENG_08,Network settings verified. Response time within SLA.,5.0,2421
+MNT_000363,ATM_151,2024-02-08 11:45:23,Corrective,,ENG_17,Error log cleared. Defective part replaced.,6.4,13595
+MNT_000364,ATM_056,2024-02-10 09:42:08,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,6.6,3843
+MNT_000365,ATM_096,2024-04-26 13:41:51,Corrective,Card Reader,ENG_16,Faulty unit removed and replaced. Tested post-installation.,2.2,9796
+MNT_000366,ATM_159,2024-01-10 22:14:20,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,1.1,1289
+MNT_000367,ATM_058,2024-04-11 15:28:34,Corrective,Receipt Printer,ENG_06,Intermittent failure resolved by replacing component.,4.6,16364
+MNT_000368,ATM_021,2024-04-10 02:39:18,Emergency,Cash Cassette,ENG_11,Major hardware fault repaired under emergency protocol.,6.0,61722
+MNT_000369,ATM_173,2024-03-20 03:24:42,Corrective,Receipt Printer,ENG_10,Error log cleared. Defective part replaced.,0.7,17042
+MNT_000370,ATM_177,2024-01-24 22:09:55,Preventive,,ENG_15,Network settings verified. Response time within SLA.,2.6,4640
+MNT_000371,ATM_114,2024-02-08 17:23:47,Preventive,,ENG_02,Preventive maintenance done. All components operational.,4.5,2519
+MNT_000372,ATM_109,2024-02-06 08:42:22,Preventive,,ENG_02,Card reader cleaned. Firmware upgraded to latest version.,0.5,2051
+MNT_000373,ATM_156,2024-02-20 12:33:17,Preventive,,ENG_04,Network settings verified. Response time within SLA.,3.9,1640
+MNT_000374,ATM_045,2024-02-15 13:50:18,Corrective,Receipt Printer,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,1.5,6879
+MNT_000375,ATM_092,2024-02-23 03:59:23,Corrective,Card Reader,ENG_06,Component replaced after failure detected during monitoring.,0.7,19501
+MNT_000376,ATM_159,2024-03-15 08:08:59,Preventive,,ENG_20,Network settings verified. Response time within SLA.,2.8,1296
+MNT_000377,ATM_185,2024-04-09 13:12:33,Corrective,Network Module,ENG_02,Error log cleared. Defective part replaced.,2.9,5933
+MNT_000378,ATM_178,2024-02-09 14:15:21,Corrective,Dispenser Module,ENG_07,Error log cleared. Defective part replaced.,5.4,8194
+MNT_000379,ATM_148,2024-04-17 04:41:06,Corrective,Dispenser Module,ENG_07,Faulty unit removed and replaced. Tested post-installation.,4.6,15289
+MNT_000380,ATM_151,2024-03-19 05:24:59,Corrective,Network Module,ENG_19,Component replaced after failure detected during monitoring.,5.9,5618
+MNT_000381,ATM_074,2024-02-15 18:41:54,Corrective,Network Module,ENG_20,Intermittent failure resolved by replacing component.,4.5,15010
+MNT_000382,ATM_177,2024-03-13 09:13:48,Preventive,,ENG_07,Card reader cleaned. Firmware upgraded to latest version.,1.9,3035
+MNT_000383,ATM_156,2024-01-10 14:37:37,Preventive,,ENG_20,Routine inspection completed. No issues found.,6.4,3678
+MNT_000384,ATM_141,2024-01-31 12:14:31,Corrective,Keypad,ENG_15,Error log cleared. Defective part replaced.,8.0,19528
+MNT_000385,ATM_134,2024-02-01 13:13:01,Emergency,Dispenser Module,ENG_13,Major hardware fault repaired under emergency protocol.,7.6,38218
+MNT_000386,ATM_031,2024-02-15 11:39:35,Emergency,,ENG_17,Emergency maintenance done. Escalated to vendor for follow-up.,5.9,32097
+MNT_000387,ATM_039,2024-02-28 17:00:22,Emergency,Dispenser Module,ENG_14,Emergency callout — ATM was completely non-operational.,6.3,48649
+MNT_000388,ATM_115,2024-03-10 00:29:58,Corrective,,ENG_20,Error log cleared. Defective part replaced.,2.6,22891
+MNT_000389,ATM_042,2024-03-03 14:25:36,Preventive,,ENG_17,Routine inspection completed. No issues found.,5.1,1307
+MNT_000390,ATM_100,2024-01-27 05:51:25,Corrective,Receipt Printer,ENG_09,Error log cleared. Defective part replaced.,2.8,21828
+MNT_000391,ATM_102,2024-01-22 09:58:48,Corrective,Keypad,ENG_11,Error log cleared. Defective part replaced.,5.2,10562
+MNT_000392,ATM_021,2024-04-21 11:49:59,Corrective,Receipt Printer,ENG_03,Error log cleared. Defective part replaced.,2.0,22695
+MNT_000393,ATM_025,2024-01-18 04:26:07,Preventive,,ENG_15,Cash cassette cleaned and refilled. Software updated.,7.2,1386
+MNT_000394,ATM_138,2024-02-14 03:41:31,Emergency,Network Module,ENG_19,Emergency callout — ATM was completely non-operational.,4.1,48774
+MNT_000395,ATM_196,2024-04-21 08:46:56,Preventive,,ENG_12,Network settings verified. Response time within SLA.,7.3,1463
+MNT_000396,ATM_114,2024-01-18 07:21:47,Corrective,Receipt Printer,ENG_09,Intermittent failure resolved by replacing component.,5.4,13776
+MNT_000397,ATM_130,2024-04-17 03:36:59,Corrective,Card Reader,ENG_04,Faulty unit removed and replaced. Tested post-installation.,2.1,21859
+MNT_000398,ATM_068,2024-01-20 23:36:53,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,5.4,1482
+MNT_000399,ATM_093,2024-01-17 09:17:18,Emergency,,ENG_05,Urgent replacement of failed component. Downtime minimised.,4.0,72719
+MNT_000400,ATM_088,2024-04-11 00:36:49,Corrective,Keypad,ENG_17,Faulty unit removed and replaced. Tested post-installation.,6.1,11135
+MNT_000401,ATM_167,2024-01-12 12:04:35,Corrective,Keypad,ENG_18,Faulty unit removed and replaced. Tested post-installation.,4.9,12274
+MNT_000402,ATM_106,2024-01-14 13:07:22,Preventive,,ENG_14,Network settings verified. Response time within SLA.,3.3,4103
+MNT_000403,ATM_053,2024-02-03 15:19:35,Emergency,Dispenser Module,ENG_05,Emergency callout — ATM was completely non-operational.,7.4,47460
+MNT_000404,ATM_013,2024-04-05 05:26:32,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,6.0,2223
+MNT_000405,ATM_005,2024-01-25 16:58:02,Corrective,Dispenser Module,ENG_06,Error log cleared. Defective part replaced.,7.0,13195
+MNT_000406,ATM_042,2024-01-27 23:18:25,Preventive,,ENG_04,Preventive maintenance done. All components operational.,4.7,2678
+MNT_000407,ATM_047,2024-02-21 03:10:24,Preventive,,ENG_03,Cash cassette cleaned and refilled. Software updated.,1.0,4119
+MNT_000408,ATM_087,2024-04-28 19:04:04,Preventive,,ENG_11,Preventive maintenance done. All components operational.,7.5,3340
+MNT_000409,ATM_069,2024-03-29 09:34:16,Corrective,Network Module,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,1.1,13734
+MNT_000410,ATM_057,2024-03-28 03:16:33,Emergency,Receipt Printer,ENG_20,Emergency maintenance done. Escalated to vendor for follow-up.,2.7,36890
+MNT_000411,ATM_027,2024-03-04 12:46:27,Preventive,,ENG_15,Network settings verified. Response time within SLA.,3.1,2259
+MNT_000412,ATM_153,2024-03-30 08:05:33,Corrective,Network Module,ENG_07,Component replaced after failure detected during monitoring.,3.5,8226
+MNT_000413,ATM_140,2024-01-11 16:02:15,Corrective,Dispenser Module,ENG_02,Intermittent failure resolved by replacing component.,6.2,20341
+MNT_000414,ATM_064,2024-01-09 12:47:53,Preventive,,ENG_17,Card reader cleaned. Firmware upgraded to latest version.,7.1,2867
+MNT_000415,ATM_072,2024-04-05 04:18:52,Preventive,,ENG_02,Network settings verified. Response time within SLA.,1.7,3642
+MNT_000416,ATM_116,2024-04-19 21:38:59,Preventive,,ENG_08,Preventive maintenance done. All components operational.,7.2,2241
+MNT_000417,ATM_164,2024-02-12 04:32:43,Emergency,Keypad,ENG_17,Urgent replacement of failed component. Downtime minimised.,1.9,33553
+MNT_000418,ATM_196,2024-03-03 09:32:14,Emergency,Dispenser Module,ENG_20,Major hardware fault repaired under emergency protocol.,1.3,26703
+MNT_000419,ATM_052,2024-02-01 22:30:52,Corrective,Cash Cassette,ENG_08,Error log cleared. Defective part replaced.,5.2,20102
+MNT_000420,ATM_010,2024-03-13 01:11:32,Corrective,Cash Cassette,ENG_19,Intermittent failure resolved by replacing component.,1.2,6683
+MNT_000421,ATM_047,2024-04-05 00:42:21,Emergency,Card Reader,ENG_04,Major hardware fault repaired under emergency protocol.,6.4,50666
+MNT_000422,ATM_188,2024-01-29 13:37:44,Corrective,Cash Cassette,ENG_11,Faulty unit removed and replaced. Tested post-installation.,2.9,6223
+MNT_000423,ATM_156,2024-04-23 19:18:27,Preventive,,ENG_11,Routine inspection completed. No issues found.,6.0,3016
+MNT_000424,ATM_114,2024-03-10 05:05:30,Preventive,,ENG_20,Network settings verified. Response time within SLA.,0.6,4601
+MNT_000425,ATM_176,2024-01-04 17:17:46,Corrective,,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,6.4,20730
+MNT_000426,ATM_193,2024-01-08 11:51:58,Corrective,Cash Cassette,ENG_01,Faulty unit removed and replaced. Tested post-installation.,7.7,12728
+MNT_000427,ATM_116,2024-03-31 09:21:55,Preventive,,ENG_17,Network settings verified. Response time within SLA.,7.2,1051
+MNT_000428,ATM_180,2024-02-06 14:32:10,Corrective,,ENG_19,Intermittent failure resolved by replacing component.,1.6,17966
+MNT_000429,ATM_133,2024-01-10 02:41:55,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,7.8,3541
+MNT_000430,ATM_183,2024-04-11 07:45:59,Preventive,,ENG_16,Preventive maintenance done. All components operational.,3.6,2270
+MNT_000431,ATM_133,2024-02-19 13:22:45,Corrective,Receipt Printer,ENG_05,Root cause identified as hardware wear. Replaced accordingly.,4.7,13632
+MNT_000432,ATM_048,2024-03-15 03:56:15,Corrective,,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,4.5,21739
+MNT_000433,ATM_043,2024-01-16 15:16:22,Emergency,Keypad,ENG_11,Major hardware fault repaired under emergency protocol.,5.0,75802
+MNT_000434,ATM_158,2024-04-02 17:04:35,Corrective,Network Module,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,7.7,15360
+MNT_000435,ATM_067,2024-03-10 11:19:10,Preventive,,ENG_09,Routine inspection completed. No issues found.,3.6,3068
+MNT_000436,ATM_098,2024-02-11 17:59:13,Corrective,Network Module,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,6.1,10957
+MNT_000437,ATM_123,2024-04-01 15:11:04,Corrective,Card Reader,ENG_14,Component replaced after failure detected during monitoring.,4.0,20052
+MNT_000438,ATM_021,2024-03-20 02:29:06,Preventive,,ENG_15,Preventive maintenance done. All components operational.,1.5,1674
+MNT_000439,ATM_069,2024-03-26 15:25:29,Emergency,Receipt Printer,ENG_07,Emergency callout — ATM was completely non-operational.,1.6,30615
+MNT_000440,ATM_189,2024-01-22 12:17:31,Preventive,,ENG_02,Network settings verified. Response time within SLA.,2.9,3688
+MNT_000441,ATM_173,2024-04-01 20:50:47,Corrective,Network Module,ENG_06,Error log cleared. Defective part replaced.,3.3,24647
+MNT_000442,ATM_158,2024-04-14 17:37:13,Corrective,Keypad,ENG_07,Error log cleared. Defective part replaced.,7.1,6338
+MNT_000443,ATM_091,2024-01-08 21:22:10,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,4.4,4070
+MNT_000444,ATM_076,2024-02-07 09:25:27,Corrective,Keypad,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,5.0,16094
+MNT_000445,ATM_024,2024-01-27 20:12:02,Emergency,Keypad,ENG_05,Critical failure resolved on-site. ATM restored to service.,7.3,59095
+MNT_000446,ATM_110,2024-02-25 13:09:04,Corrective,Cash Cassette,ENG_12,Error log cleared. Defective part replaced.,1.8,9979
+MNT_000447,ATM_093,2024-01-05 20:58:26,Corrective,Network Module,ENG_17,Component replaced after failure detected during monitoring.,1.8,10442
+MNT_000448,ATM_084,2024-01-08 21:48:59,Corrective,Keypad,ENG_10,Component replaced after failure detected during monitoring.,3.6,7466
+MNT_000449,ATM_185,2024-01-28 18:48:29,Preventive,,ENG_09,Routine inspection completed. No issues found.,3.2,4016
+MNT_000450,ATM_015,2024-02-02 22:35:35,Corrective,Keypad,ENG_14,Error log cleared. Defective part replaced.,6.7,8510
+MNT_000451,ATM_156,2024-03-06 17:14:08,Corrective,,ENG_02,Faulty unit removed and replaced. Tested post-installation.,2.7,24470
+MNT_000452,ATM_156,2024-03-21 20:34:47,Preventive,,ENG_14,Network settings verified. Response time within SLA.,6.1,3685
+MNT_000453,ATM_167,2024-02-25 21:30:22,Corrective,,ENG_10,Error log cleared. Defective part replaced.,2.2,8001
+MNT_000454,ATM_196,2024-04-17 22:54:49,Emergency,Network Module,ENG_06,Urgent replacement of failed component. Downtime minimised.,3.2,67944
+MNT_000455,ATM_022,2024-04-26 07:16:51,Emergency,Network Module,ENG_14,Emergency callout — ATM was completely non-operational.,6.8,79042
+MNT_000456,ATM_083,2024-04-12 04:22:06,Corrective,,ENG_12,Intermittent failure resolved by replacing component.,7.6,13450
+MNT_000457,ATM_020,2024-02-14 20:51:23,Corrective,Dispenser Module,ENG_12,Intermittent failure resolved by replacing component.,5.6,6815
+MNT_000458,ATM_067,2024-03-01 05:02:37,Corrective,,ENG_12,Intermittent failure resolved by replacing component.,6.9,22559
+MNT_000459,ATM_072,2024-04-17 14:26:46,Corrective,Dispenser Module,ENG_02,Faulty unit removed and replaced. Tested post-installation.,3.1,15622
+MNT_000460,ATM_144,2024-02-16 22:42:13,Corrective,Network Module,ENG_02,Error log cleared. Defective part replaced.,4.6,10753
+MNT_000461,ATM_077,2024-01-11 10:47:08,Preventive,,ENG_14,Network settings verified. Response time within SLA.,7.5,1599
+MNT_000462,ATM_128,2024-03-19 09:01:39,Emergency,Card Reader,ENG_18,Urgent replacement of failed component. Downtime minimised.,7.7,53118
+MNT_000463,ATM_094,2024-03-04 14:16:03,Emergency,,ENG_15,Urgent replacement of failed component. Downtime minimised.,4.1,51714
+MNT_000464,ATM_090,2024-04-19 18:36:02,Corrective,,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,0.8,7186
+MNT_000465,ATM_118,2024-02-03 04:57:28,Preventive,,ENG_11,Routine inspection completed. No issues found.,6.7,2826
+MNT_000466,ATM_095,2024-02-27 09:33:52,Preventive,,ENG_19,Network settings verified. Response time within SLA.,1.0,3293
+MNT_000467,ATM_175,2024-03-05 06:38:10,Preventive,,ENG_10,Routine inspection completed. No issues found.,7.2,2601
+MNT_000468,ATM_077,2024-02-24 03:01:50,Preventive,,ENG_02,Card reader cleaned. Firmware upgraded to latest version.,2.6,4242
+MNT_000469,ATM_010,2024-03-07 03:23:04,Preventive,,ENG_04,Routine inspection completed. No issues found.,5.5,2540
+MNT_000470,ATM_192,2024-04-07 04:23:34,Preventive,,ENG_14,Preventive maintenance done. All components operational.,1.5,4007
+MNT_000471,ATM_014,2024-03-18 17:14:05,Emergency,Receipt Printer,ENG_18,Emergency callout — ATM was completely non-operational.,6.4,68631
+MNT_000472,ATM_123,2024-02-01 10:25:51,Corrective,Keypad,ENG_20,Intermittent failure resolved by replacing component.,6.6,18222
+MNT_000473,ATM_104,2024-01-03 11:45:24,Corrective,Card Reader,ENG_12,Component replaced after failure detected during monitoring.,7.8,12922
+MNT_000474,ATM_141,2024-04-18 03:54:45,Corrective,Network Module,ENG_11,Error log cleared. Defective part replaced.,5.6,21316
+MNT_000475,ATM_037,2024-04-19 07:22:18,Preventive,,ENG_02,Routine inspection completed. No issues found.,4.7,3260
+MNT_000476,ATM_175,2024-01-12 23:08:08,Preventive,,ENG_17,Preventive maintenance done. All components operational.,7.3,4121
+MNT_000477,ATM_092,2024-01-06 21:09:35,Preventive,,ENG_15,Routine inspection completed. No issues found.,2.5,2504
+MNT_000478,ATM_189,2024-03-04 11:00:23,Corrective,Keypad,ENG_19,Error log cleared. Defective part replaced.,7.5,18795
+MNT_000479,ATM_053,2024-01-26 05:00:00,Corrective,Card Reader,ENG_06,Faulty unit removed and replaced. Tested post-installation.,4.4,13414
+MNT_000480,ATM_092,2024-02-16 03:33:29,Preventive,,ENG_03,Preventive maintenance done. All components operational.,0.9,2733
+MNT_000481,ATM_108,2024-03-06 16:12:39,Preventive,,ENG_20,Card reader cleaned. Firmware upgraded to latest version.,5.9,3255
+MNT_000482,ATM_047,2024-01-11 06:38:14,Corrective,Keypad,ENG_17,Faulty unit removed and replaced. Tested post-installation.,2.9,6177
+MNT_000483,ATM_123,2024-02-03 16:55:37,Emergency,Cash Cassette,ENG_02,Emergency callout — ATM was completely non-operational.,6.0,62799
+MNT_000484,ATM_170,2024-02-05 22:58:48,Corrective,Network Module,ENG_07,Error log cleared. Defective part replaced.,6.3,24225
+MNT_000485,ATM_155,2024-02-22 09:39:18,Corrective,Card Reader,ENG_06,Component replaced after failure detected during monitoring.,7.4,7407
+MNT_000486,ATM_116,2024-03-02 16:40:53,Corrective,Network Module,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,6.1,22262
+MNT_000487,ATM_156,2024-01-13 15:07:16,Corrective,,ENG_04,Error log cleared. Defective part replaced.,1.2,11059
+MNT_000488,ATM_137,2024-04-30 23:07:07,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,2.8,2099
+MNT_000489,ATM_099,2024-01-09 07:24:37,Corrective,Receipt Printer,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,3.7,10856
+MNT_000490,ATM_029,2024-03-03 05:12:57,Corrective,Receipt Printer,ENG_04,Error log cleared. Defective part replaced.,1.5,20290
+MNT_000491,ATM_096,2024-03-10 02:48:46,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,1.6,4945
+MNT_000492,ATM_015,2024-04-18 18:58:47,Preventive,,ENG_14,Card reader cleaned. Firmware upgraded to latest version.,6.7,1609
+MNT_000493,ATM_070,2024-04-29 08:28:58,Preventive,,ENG_16,Routine inspection completed. No issues found.,5.7,3778
+MNT_000494,ATM_088,2024-04-16 00:15:09,Preventive,,ENG_18,Routine inspection completed. No issues found.,2.4,1042
+MNT_000495,ATM_054,2024-03-30 02:04:55,Corrective,Cash Cassette,ENG_08,Error log cleared. Defective part replaced.,6.4,8088
+MNT_000496,ATM_196,2024-04-02 03:42:45,Preventive,,ENG_15,Preventive maintenance done. All components operational.,5.1,2254
+MNT_000497,ATM_175,2024-01-23 14:12:58,Emergency,Cash Cassette,ENG_13,Major hardware fault repaired under emergency protocol.,5.8,36994
+MNT_000498,ATM_168,2024-04-04 19:34:42,Emergency,Network Module,ENG_18,Urgent replacement of failed component. Downtime minimised.,2.3,53809
+MNT_000499,ATM_039,2024-01-11 19:47:07,Preventive,,ENG_08,Network settings verified. Response time within SLA.,2.3,3197
+MNT_000500,ATM_193,2024-04-24 22:12:39,Corrective,Cash Cassette,ENG_05,Intermittent failure resolved by replacing component.,7.3,10150
+MNT_000501,ATM_143,2024-04-07 03:25:24,Corrective,Keypad,ENG_09,Component replaced after failure detected during monitoring.,2.1,23808
+MNT_000502,ATM_141,2024-04-11 04:46:19,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,7.4,4571
+MNT_000503,ATM_149,2024-03-07 05:08:25,Emergency,Receipt Printer,ENG_19,Critical failure resolved on-site. ATM restored to service.,4.2,48034
+MNT_000504,ATM_050,2024-01-12 12:50:42,Preventive,,ENG_16,Network settings verified. Response time within SLA.,4.7,3622
+MNT_000505,ATM_026,2024-03-05 15:45:12,Emergency,Network Module,ENG_12,Emergency maintenance done. Escalated to vendor for follow-up.,6.2,26642
+MNT_000506,ATM_099,2024-04-16 21:51:36,Corrective,Cash Cassette,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,1.4,19049
+MNT_000507,ATM_158,2024-03-11 16:58:22,Corrective,Keypad,ENG_20,Intermittent failure resolved by replacing component.,4.0,22668
+MNT_000508,ATM_068,2024-01-25 22:49:06,Corrective,,ENG_12,Error log cleared. Defective part replaced.,3.1,17831
+MNT_000509,ATM_155,2024-01-16 19:12:38,Corrective,Receipt Printer,ENG_12,Error log cleared. Defective part replaced.,4.6,21226
+MNT_000510,ATM_163,2024-02-15 03:02:59,Corrective,Card Reader,ENG_18,Error log cleared. Defective part replaced.,7.9,13468
+MNT_000511,ATM_061,2024-01-05 19:41:45,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,2.5,3031
+MNT_000512,ATM_059,2024-03-03 06:09:26,Corrective,Card Reader,ENG_05,Component replaced after failure detected during monitoring.,7.2,11681
+MNT_000513,ATM_053,2024-02-02 18:00:44,Emergency,Receipt Printer,ENG_15,Emergency callout — ATM was completely non-operational.,5.6,50747
+MNT_000514,ATM_071,2024-03-06 22:16:47,Corrective,Card Reader,ENG_20,Error log cleared. Defective part replaced.,7.3,22839
+MNT_000515,ATM_043,2024-03-05 21:06:08,Corrective,,ENG_16,Intermittent failure resolved by replacing component.,3.9,16568
+MNT_000516,ATM_019,2024-03-01 21:12:48,Emergency,Receipt Printer,ENG_05,Urgent replacement of failed component. Downtime minimised.,7.7,65196
+MNT_000517,ATM_138,2024-03-19 03:27:42,Preventive,,ENG_15,Preventive maintenance done. All components operational.,2.2,4016
+MNT_000518,ATM_114,2024-04-05 20:05:06,Preventive,,ENG_13,Network settings verified. Response time within SLA.,4.9,4693
+MNT_000519,ATM_045,2024-03-31 06:21:46,Preventive,,ENG_02,Network settings verified. Response time within SLA.,2.8,3448
+MNT_000520,ATM_042,2024-02-01 20:05:01,Emergency,Network Module,ENG_17,Critical failure resolved on-site. ATM restored to service.,2.3,57490
+MNT_000521,ATM_042,2024-01-07 17:25:09,Corrective,Receipt Printer,ENG_11,Error log cleared. Defective part replaced.,6.5,24003
+MNT_000522,ATM_148,2024-02-11 10:08:35,Corrective,Dispenser Module,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,7.8,12214
+MNT_000523,ATM_142,2024-01-23 16:41:57,Corrective,Dispenser Module,ENG_06,Faulty unit removed and replaced. Tested post-installation.,6.0,18494
+MNT_000524,ATM_001,2024-03-14 01:45:53,Corrective,Dispenser Module,ENG_02,Intermittent failure resolved by replacing component.,0.6,16281
+MNT_000525,ATM_087,2024-01-04 08:30:40,Emergency,Card Reader,ENG_19,Critical failure resolved on-site. ATM restored to service.,5.1,66944
+MNT_000526,ATM_194,2024-03-07 16:31:51,Emergency,Network Module,ENG_07,Major hardware fault repaired under emergency protocol.,7.0,64695
+MNT_000527,ATM_042,2024-04-06 18:00:02,Preventive,,ENG_20,Preventive maintenance done. All components operational.,3.4,1361
+MNT_000528,ATM_065,2024-02-18 21:01:49,Corrective,Receipt Printer,ENG_03,Faulty unit removed and replaced. Tested post-installation.,3.9,21768
+MNT_000529,ATM_198,2024-01-20 19:34:18,Corrective,Card Reader,ENG_11,Error log cleared. Defective part replaced.,3.4,14638
+MNT_000530,ATM_041,2024-02-22 08:17:55,Corrective,Network Module,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,5.9,13732
+MNT_000531,ATM_117,2024-03-29 19:57:56,Emergency,Network Module,ENG_03,Major hardware fault repaired under emergency protocol.,2.1,70302
+MNT_000532,ATM_073,2024-04-25 23:45:23,Corrective,Cash Cassette,ENG_15,Error log cleared. Defective part replaced.,6.2,5485
+MNT_000533,ATM_133,2024-02-15 22:54:02,Emergency,,ENG_06,Critical failure resolved on-site. ATM restored to service.,1.1,51417
+MNT_000534,ATM_146,2024-04-01 11:54:26,Corrective,,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,4.7,5336
+MNT_000535,ATM_161,2024-02-08 17:30:37,Corrective,Cash Cassette,ENG_11,Error log cleared. Defective part replaced.,6.1,21534
+MNT_000536,ATM_186,2024-04-26 20:50:47,Emergency,,ENG_11,Emergency maintenance done. Escalated to vendor for follow-up.,3.1,27563
+MNT_000537,ATM_116,2024-02-03 14:51:39,Corrective,Card Reader,ENG_10,Faulty unit removed and replaced. Tested post-installation.,0.6,9316
+MNT_000538,ATM_162,2024-02-16 05:15:40,Corrective,Network Module,ENG_07,Error log cleared. Defective part replaced.,4.3,19614
+MNT_000539,ATM_036,2024-02-14 23:08:52,Preventive,,ENG_02,Cash cassette cleaned and refilled. Software updated.,7.5,3995
+MNT_000540,ATM_104,2024-04-04 23:20:17,Corrective,,ENG_13,Error log cleared. Defective part replaced.,7.4,6029
+MNT_000541,ATM_187,2024-02-28 02:01:19,Corrective,Dispenser Module,ENG_16,Root cause identified as hardware wear. Replaced accordingly.,7.3,5591
+MNT_000542,ATM_177,2024-03-15 15:28:51,Preventive,,ENG_20,Preventive maintenance done. All components operational.,1.6,2896
+MNT_000543,ATM_134,2024-02-06 21:14:06,Corrective,,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,3.9,22916
+MNT_000544,ATM_123,2024-03-05 01:57:29,Corrective,,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,2.5,23436
+MNT_000545,ATM_168,2024-01-20 18:11:56,Corrective,Receipt Printer,ENG_14,Faulty unit removed and replaced. Tested post-installation.,3.8,9468
+MNT_000546,ATM_056,2024-03-17 05:06:44,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,7.6,3019
+MNT_000547,ATM_130,2024-02-08 16:23:16,Corrective,Receipt Printer,ENG_12,Error log cleared. Defective part replaced.,1.6,15749
+MNT_000548,ATM_160,2024-01-26 23:47:50,Corrective,Dispenser Module,ENG_05,Component replaced after failure detected during monitoring.,2.3,11721
+MNT_000549,ATM_025,2024-03-08 14:12:37,Emergency,Dispenser Module,ENG_09,Emergency callout — ATM was completely non-operational.,2.6,64958
+MNT_000550,ATM_054,2024-01-17 17:30:10,Emergency,Card Reader,ENG_17,Major hardware fault repaired under emergency protocol.,3.6,29042
+MNT_000551,ATM_156,2024-02-13 04:04:14,Corrective,Card Reader,ENG_16,Faulty unit removed and replaced. Tested post-installation.,2.7,16734
+MNT_000552,ATM_123,2024-04-28 14:26:17,Preventive,,ENG_01,Network settings verified. Response time within SLA.,5.4,3709
+MNT_000553,ATM_101,2024-02-02 09:58:40,Preventive,,ENG_02,Preventive maintenance done. All components operational.,2.1,2867
+MNT_000554,ATM_017,2024-02-09 23:10:02,Emergency,Network Module,ENG_06,Emergency maintenance done. Escalated to vendor for follow-up.,2.8,61839
+MNT_000555,ATM_114,2024-02-26 18:55:28,Preventive,,ENG_20,Routine inspection completed. No issues found.,4.3,2458
+MNT_000556,ATM_013,2024-02-22 09:45:44,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,3.6,4594
+MNT_000557,ATM_049,2024-02-27 16:10:48,Corrective,Receipt Printer,ENG_04,Component replaced after failure detected during monitoring.,1.7,11054
+MNT_000558,ATM_143,2024-01-08 20:55:25,Preventive,,ENG_20,Preventive maintenance done. All components operational.,3.6,4805
+MNT_000559,ATM_087,2024-04-23 05:39:45,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,5.2,1643
+MNT_000560,ATM_142,2024-03-02 14:47:20,Preventive,,ENG_12,Preventive maintenance done. All components operational.,4.0,4318
+MNT_000561,ATM_001,2024-03-04 11:44:49,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,2.0,1106
+MNT_000562,ATM_059,2024-01-11 01:04:03,Preventive,,ENG_11,Routine inspection completed. No issues found.,3.6,4618
+MNT_000563,ATM_080,2024-03-10 15:01:02,Corrective,Keypad,ENG_06,Intermittent failure resolved by replacing component.,7.8,22084
+MNT_000564,ATM_099,2024-01-01 18:30:44,Corrective,Receipt Printer,ENG_03,Intermittent failure resolved by replacing component.,0.8,11222
+MNT_000565,ATM_042,2024-04-20 13:27:41,Preventive,,ENG_04,Routine inspection completed. No issues found.,6.2,1012
+MNT_000566,ATM_151,2024-03-09 14:53:23,Emergency,Network Module,ENG_14,Critical failure resolved on-site. ATM restored to service.,1.3,75659
+MNT_000567,ATM_089,2024-03-29 17:15:59,Preventive,,ENG_10,Preventive maintenance done. All components operational.,7.2,3240
+MNT_000568,ATM_196,2024-01-25 15:49:43,Corrective,Cash Cassette,ENG_01,Faulty unit removed and replaced. Tested post-installation.,7.1,18968
+MNT_000569,ATM_167,2024-04-04 19:46:05,Preventive,,ENG_04,Preventive maintenance done. All components operational.,3.6,4247
+MNT_000570,ATM_055,2024-03-22 14:26:28,Corrective,Cash Cassette,ENG_15,Faulty unit removed and replaced. Tested post-installation.,2.3,11695
+MNT_000571,ATM_022,2024-04-05 18:24:07,Corrective,Receipt Printer,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,2.9,24677
+MNT_000572,ATM_116,2024-01-26 17:59:19,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,7.9,2300
+MNT_000573,ATM_087,2024-03-05 23:01:05,Preventive,,ENG_11,Routine inspection completed. No issues found.,1.3,4790
+MNT_000574,ATM_156,2024-02-21 06:38:46,Corrective,,ENG_02,Error log cleared. Defective part replaced.,7.3,11349
+MNT_000575,ATM_028,2024-03-02 14:32:12,Preventive,,ENG_01,Network settings verified. Response time within SLA.,3.1,3470
+MNT_000576,ATM_123,2024-03-20 16:37:28,Corrective,Keypad,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,3.0,21460
+MNT_000577,ATM_187,2024-02-02 00:37:57,Corrective,Receipt Printer,ENG_08,Intermittent failure resolved by replacing component.,7.9,8673
+MNT_000578,ATM_121,2024-03-06 12:14:52,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,3.6,3151
+MNT_000579,ATM_012,2024-02-02 04:41:34,Corrective,,ENG_07,Faulty unit removed and replaced. Tested post-installation.,1.4,18631
+MNT_000580,ATM_065,2024-04-24 14:13:43,Corrective,Receipt Printer,ENG_02,Intermittent failure resolved by replacing component.,5.4,20409
+MNT_000581,ATM_013,2024-01-13 19:14:20,Corrective,,ENG_12,Intermittent failure resolved by replacing component.,1.0,17566
+MNT_000582,ATM_130,2024-04-22 18:40:25,Preventive,,ENG_12,Routine inspection completed. No issues found.,2.4,1268
+MNT_000583,ATM_007,2024-03-18 19:36:31,Corrective,Network Module,ENG_11,Error log cleared. Defective part replaced.,4.0,5606
+MNT_000584,ATM_049,2024-02-25 20:52:04,Preventive,,ENG_14,Network settings verified. Response time within SLA.,5.3,4664
+MNT_000585,ATM_087,2024-01-09 10:15:29,Corrective,Network Module,ENG_12,Intermittent failure resolved by replacing component.,4.9,11188
+MNT_000586,ATM_186,2024-03-29 06:26:24,Corrective,Receipt Printer,ENG_06,Component replaced after failure detected during monitoring.,5.4,19235
+MNT_000587,ATM_020,2024-01-30 20:19:15,Corrective,Dispenser Module,ENG_12,Component replaced after failure detected during monitoring.,1.1,24827
+MNT_000588,ATM_045,2024-02-05 23:53:03,Preventive,,ENG_11,Network settings verified. Response time within SLA.,0.6,4168
+MNT_000589,ATM_199,2024-01-21 10:11:11,Corrective,Network Module,ENG_06,Component replaced after failure detected during monitoring.,5.8,18805
+MNT_000590,ATM_062,2024-04-24 11:14:36,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,5.3,2349
+MNT_000591,ATM_032,2024-03-25 20:10:41,Corrective,Dispenser Module,ENG_04,Faulty unit removed and replaced. Tested post-installation.,7.8,22899
+MNT_000592,ATM_040,2024-01-03 05:21:32,Corrective,Network Module,ENG_05,Component replaced after failure detected during monitoring.,2.3,12637
+MNT_000593,ATM_007,2024-03-04 19:33:38,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,5.7,2052
+MNT_000594,ATM_058,2024-01-20 14:21:38,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,6.2,2568
+MNT_000595,ATM_032,2024-01-23 16:53:17,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,0.5,2611
+MNT_000596,ATM_133,2024-03-11 22:37:47,Corrective,Keypad,ENG_19,Component replaced after failure detected during monitoring.,3.7,12084
+MNT_000597,ATM_101,2024-03-29 23:56:04,Preventive,,ENG_01,Preventive maintenance done. All components operational.,3.7,3213
+MNT_000598,ATM_047,2024-01-27 02:38:03,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,4.8,2591
+MNT_000599,ATM_031,2024-01-04 23:21:15,Corrective,Cash Cassette,ENG_14,Intermittent failure resolved by replacing component.,2.5,6019
+MNT_000600,ATM_042,2024-03-06 08:21:24,Preventive,,ENG_14,Preventive maintenance done. All components operational.,5.8,2878
+MNT_000601,ATM_008,2024-01-11 20:52:17,Emergency,,ENG_10,Critical failure resolved on-site. ATM restored to service.,5.8,35020
+MNT_000602,ATM_020,2024-04-17 12:20:45,Preventive,,ENG_06,Routine inspection completed. No issues found.,4.3,4009
+MNT_000603,ATM_116,2024-02-26 08:28:00,Emergency,Card Reader,ENG_18,Major hardware fault repaired under emergency protocol.,1.9,48917
+MNT_000604,ATM_181,2024-03-02 20:33:29,Corrective,Cash Cassette,ENG_07,Error log cleared. Defective part replaced.,6.6,7913
+MNT_000605,ATM_090,2024-02-07 23:09:15,Emergency,,ENG_02,Major hardware fault repaired under emergency protocol.,1.0,62253
+MNT_000606,ATM_040,2024-03-23 03:09:23,Preventive,,ENG_17,Routine inspection completed. No issues found.,0.8,2938
+MNT_000607,ATM_103,2024-02-21 10:00:03,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,0.7,3355
+MNT_000608,ATM_139,2024-03-15 11:13:33,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,7.6,2441
+MNT_000609,ATM_123,2024-03-01 14:44:26,Preventive,,ENG_17,Network settings verified. Response time within SLA.,5.2,4718
+MNT_000610,ATM_005,2024-03-07 00:56:10,Corrective,Receipt Printer,ENG_20,Component replaced after failure detected during monitoring.,4.9,9337
+MNT_000611,ATM_156,2024-03-24 13:11:42,Corrective,Keypad,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,1.1,10596
+MNT_000612,ATM_161,2024-02-16 00:58:59,Emergency,Network Module,ENG_15,Emergency maintenance done. Escalated to vendor for follow-up.,7.7,52685
+MNT_000613,ATM_121,2024-02-06 11:31:26,Preventive,,ENG_08,Card reader cleaned. Firmware upgraded to latest version.,7.3,3018
+MNT_000614,ATM_194,2024-02-21 04:26:59,Emergency,Receipt Printer,ENG_11,Critical failure resolved on-site. ATM restored to service.,0.5,28810
+MNT_000615,ATM_158,2024-04-04 13:44:42,Preventive,,ENG_02,Cash cassette cleaned and refilled. Software updated.,5.2,2167
+MNT_000616,ATM_037,2024-01-20 06:52:33,Corrective,Card Reader,ENG_07,Error log cleared. Defective part replaced.,2.8,7570
+MNT_000617,ATM_103,2024-03-06 04:24:45,Corrective,Keypad,ENG_18,Intermittent failure resolved by replacing component.,4.6,10951
+MNT_000618,ATM_013,2024-04-20 21:56:30,Corrective,Dispenser Module,ENG_07,Component replaced after failure detected during monitoring.,3.6,6927
+MNT_000619,ATM_148,2024-03-24 14:32:28,Preventive,,ENG_06,Preventive maintenance done. All components operational.,5.3,4999
+MNT_000620,ATM_034,2024-04-04 07:23:05,Corrective,Cash Cassette,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,6.7,22137
+MNT_000621,ATM_180,2024-04-29 17:51:23,Corrective,Dispenser Module,ENG_02,Intermittent failure resolved by replacing component.,3.7,7633
+MNT_000622,ATM_160,2024-02-29 14:10:11,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,3.2,4572
+MNT_000623,ATM_049,2024-04-29 03:08:34,Corrective,Keypad,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,7.5,21142
+MNT_000624,ATM_123,2024-04-21 05:54:04,Emergency,Card Reader,ENG_18,Emergency maintenance done. Escalated to vendor for follow-up.,3.7,44485
+MNT_000625,ATM_127,2024-03-22 13:30:14,Corrective,Cash Cassette,ENG_02,Faulty unit removed and replaced. Tested post-installation.,7.6,16341
+MNT_000626,ATM_105,2024-01-22 00:41:52,Corrective,Dispenser Module,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,2.9,13172
+MNT_000627,ATM_123,2024-01-04 17:11:46,Preventive,,ENG_14,Card reader cleaned. Firmware upgraded to latest version.,4.3,2884
+MNT_000628,ATM_139,2024-02-08 16:07:08,Corrective,Network Module,ENG_08,Faulty unit removed and replaced. Tested post-installation.,4.2,12238
+MNT_000629,ATM_096,2024-03-31 06:12:06,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,5.7,1851
+MNT_000630,ATM_181,2024-01-18 22:57:19,Preventive,,ENG_12,Network settings verified. Response time within SLA.,3.7,3919
+MNT_000631,ATM_006,2024-01-15 14:50:29,Preventive,,ENG_12,Preventive maintenance done. All components operational.,4.3,4968
+MNT_000632,ATM_083,2024-03-14 10:42:00,Corrective,Network Module,ENG_06,Intermittent failure resolved by replacing component.,1.9,19897
+MNT_000633,ATM_174,2024-04-29 04:44:21,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,3.5,4632
+MNT_000634,ATM_033,2024-04-30 21:53:24,Corrective,,ENG_16,Root cause identified as hardware wear. Replaced accordingly.,1.5,19630
+MNT_000635,ATM_110,2024-02-14 02:50:52,Corrective,Receipt Printer,ENG_04,Component replaced after failure detected during monitoring.,7.7,22394
+MNT_000636,ATM_188,2024-02-12 15:23:46,Preventive,,ENG_09,Preventive maintenance done. All components operational.,6.3,4371
+MNT_000637,ATM_162,2024-04-10 02:05:39,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,1.9,1011
+MNT_000638,ATM_170,2024-03-28 16:32:16,Emergency,Card Reader,ENG_04,Emergency maintenance done. Escalated to vendor for follow-up.,3.0,72409
+MNT_000639,ATM_062,2024-03-29 07:42:05,Preventive,,ENG_20,Routine inspection completed. No issues found.,5.7,4576
+MNT_000640,ATM_167,2024-01-04 02:13:53,Emergency,Receipt Printer,ENG_10,Urgent replacement of failed component. Downtime minimised.,4.9,37679
+MNT_000641,ATM_077,2024-03-17 18:05:58,Corrective,,ENG_18,Component replaced after failure detected during monitoring.,4.5,13548
+MNT_000642,ATM_057,2024-04-09 15:20:58,Corrective,Keypad,ENG_10,Faulty unit removed and replaced. Tested post-installation.,1.1,7464
+MNT_000643,ATM_142,2024-02-21 00:55:48,Emergency,Dispenser Module,ENG_01,Critical failure resolved on-site. ATM restored to service.,2.4,65180
+MNT_000644,ATM_059,2024-03-21 17:38:18,Corrective,Receipt Printer,ENG_16,Faulty unit removed and replaced. Tested post-installation.,7.7,11202
+MNT_000645,ATM_136,2024-02-02 19:39:31,Corrective,Keypad,ENG_03,Faulty unit removed and replaced. Tested post-installation.,6.2,8707
+MNT_000646,ATM_197,2024-04-19 00:00:42,Corrective,Dispenser Module,ENG_11,Intermittent failure resolved by replacing component.,6.3,15258
+MNT_000647,ATM_107,2024-03-04 17:50:16,Preventive,,ENG_10,Routine inspection completed. No issues found.,2.8,2854
+MNT_000648,ATM_156,2024-01-23 19:06:26,Corrective,Card Reader,ENG_12,Intermittent failure resolved by replacing component.,6.1,9125
+MNT_000649,ATM_065,2024-04-24 18:33:08,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,3.6,4607
+MNT_000650,ATM_200,2024-04-02 22:53:23,Corrective,Cash Cassette,ENG_01,Component replaced after failure detected during monitoring.,4.6,14367
+MNT_000651,ATM_189,2024-04-22 14:09:45,Corrective,Keypad,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,2.5,23955
+MNT_000652,ATM_135,2024-02-28 11:30:47,Emergency,Dispenser Module,ENG_11,Major hardware fault repaired under emergency protocol.,4.5,73725
+MNT_000653,ATM_118,2024-04-23 08:54:59,Preventive,,ENG_02,Routine inspection completed. No issues found.,3.8,4670
+MNT_000654,ATM_133,2024-01-05 10:56:48,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,2.7,2575
+MNT_000655,ATM_038,2024-01-24 23:31:18,Emergency,Network Module,ENG_14,Critical failure resolved on-site. ATM restored to service.,5.5,40779
+MNT_000656,ATM_031,2024-03-25 00:45:50,Preventive,,ENG_11,Routine inspection completed. No issues found.,3.3,4443
+MNT_000657,ATM_080,2024-04-05 08:02:19,Corrective,Receipt Printer,ENG_03,Error log cleared. Defective part replaced.,1.8,13267
+MNT_000658,ATM_144,2024-03-15 10:06:10,Emergency,,ENG_11,Critical failure resolved on-site. ATM restored to service.,7.0,64364
+MNT_000659,ATM_127,2024-02-09 18:34:19,Emergency,,ENG_19,Critical failure resolved on-site. ATM restored to service.,4.0,27436
+MNT_000660,ATM_023,2024-03-05 06:59:55,Preventive,,ENG_16,Preventive maintenance done. All components operational.,3.1,3858
+MNT_000661,ATM_017,2024-02-24 19:21:42,Preventive,,ENG_15,Routine inspection completed. No issues found.,3.9,4001
+MNT_000662,ATM_140,2024-03-04 14:02:41,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,4.5,1373
+MNT_000663,ATM_123,2024-02-20 19:51:49,Emergency,Keypad,ENG_19,Urgent replacement of failed component. Downtime minimised.,2.0,49282
+MNT_000664,ATM_047,2024-04-16 14:41:57,Preventive,,ENG_08,Routine inspection completed. No issues found.,6.3,4718
+MNT_000665,ATM_170,2024-01-19 11:45:14,Preventive,,ENG_08,Preventive maintenance done. All components operational.,4.7,3437
+MNT_000666,ATM_069,2024-02-05 10:41:59,Emergency,Keypad,ENG_07,Urgent replacement of failed component. Downtime minimised.,1.1,49186
+MNT_000667,ATM_046,2024-03-05 02:16:10,Preventive,,ENG_15,Card reader cleaned. Firmware upgraded to latest version.,0.6,2307
+MNT_000668,ATM_039,2024-04-25 23:10:45,Corrective,Network Module,ENG_17,Intermittent failure resolved by replacing component.,6.4,23104
+MNT_000669,ATM_052,2024-04-12 11:30:23,Preventive,,ENG_18,Card reader cleaned. Firmware upgraded to latest version.,4.4,1919
+MNT_000670,ATM_016,2024-03-14 21:40:55,Corrective,Cash Cassette,ENG_07,Faulty unit removed and replaced. Tested post-installation.,7.2,21105
+MNT_000671,ATM_073,2024-01-06 05:59:22,Corrective,Network Module,ENG_19,Faulty unit removed and replaced. Tested post-installation.,3.8,11934
+MNT_000672,ATM_121,2024-02-14 18:33:04,Preventive,,ENG_06,Preventive maintenance done. All components operational.,6.5,3422
+MNT_000673,ATM_017,2024-04-20 18:22:19,Corrective,Keypad,ENG_18,Faulty unit removed and replaced. Tested post-installation.,2.6,10982
+MNT_000674,ATM_093,2024-04-17 08:25:11,Preventive,,ENG_07,Preventive maintenance done. All components operational.,5.5,3470
+MNT_000675,ATM_064,2024-03-03 10:28:29,Preventive,,ENG_04,Preventive maintenance done. All components operational.,6.6,4989
+MNT_000676,ATM_070,2024-01-26 08:21:54,Preventive,,ENG_07,Preventive maintenance done. All components operational.,2.4,1268
+MNT_000677,ATM_108,2024-01-18 03:07:29,Preventive,,ENG_10,Card reader cleaned. Firmware upgraded to latest version.,5.7,1940
+MNT_000678,ATM_151,2024-01-10 23:29:27,Preventive,,ENG_13,Preventive maintenance done. All components operational.,6.7,1176
+MNT_000679,ATM_156,2024-01-13 23:25:49,Corrective,,ENG_02,Component replaced after failure detected during monitoring.,6.6,14513
+MNT_000680,ATM_156,2024-01-01 23:57:26,Emergency,Keypad,ENG_01,Emergency maintenance done. Escalated to vendor for follow-up.,2.1,79658
+MNT_000681,ATM_095,2024-01-14 19:55:05,Corrective,Receipt Printer,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,6.0,9716
+MNT_000682,ATM_015,2024-02-07 01:24:03,Corrective,Card Reader,ENG_03,Error log cleared. Defective part replaced.,4.0,22454
+MNT_000683,ATM_174,2024-02-21 21:36:50,Corrective,Cash Cassette,ENG_13,Error log cleared. Defective part replaced.,4.1,15525
+MNT_000684,ATM_123,2024-02-13 02:22:31,Preventive,,ENG_05,Preventive maintenance done. All components operational.,5.2,2140
+MNT_000685,ATM_003,2024-04-06 23:17:40,Corrective,Card Reader,ENG_11,Faulty unit removed and replaced. Tested post-installation.,4.7,16426
+MNT_000686,ATM_090,2024-01-07 08:41:56,Preventive,,ENG_13,Routine inspection completed. No issues found.,7.8,3807
+MNT_000687,ATM_181,2024-02-02 18:32:58,Preventive,,ENG_16,Network settings verified. Response time within SLA.,5.3,1208
+MNT_000688,ATM_186,2024-02-14 14:32:49,Preventive,,ENG_11,Network settings verified. Response time within SLA.,3.3,1936
+MNT_000689,ATM_096,2024-01-25 14:44:56,Preventive,,ENG_08,Routine inspection completed. No issues found.,3.3,1746
+MNT_000690,ATM_086,2024-03-02 19:37:29,Corrective,Dispenser Module,ENG_02,Intermittent failure resolved by replacing component.,0.8,23389
+MNT_000691,ATM_146,2024-04-20 03:09:54,Preventive,,ENG_18,Routine inspection completed. No issues found.,4.4,4605
+MNT_000692,ATM_078,2024-04-26 18:12:02,Corrective,Cash Cassette,ENG_10,Faulty unit removed and replaced. Tested post-installation.,6.7,20245
+MNT_000693,ATM_087,2024-04-30 17:18:43,Corrective,Network Module,ENG_08,Root cause identified as hardware wear. Replaced accordingly.,1.1,19652
+MNT_000694,ATM_123,2024-04-15 20:49:42,Preventive,,ENG_04,Network settings verified. Response time within SLA.,0.6,3856
+MNT_000695,ATM_120,2024-01-20 14:49:26,Corrective,,ENG_10,Intermittent failure resolved by replacing component.,3.1,23578
+MNT_000696,ATM_112,2024-04-09 19:21:47,Preventive,,ENG_15,Network settings verified. Response time within SLA.,5.4,1261
+MNT_000697,ATM_040,2024-04-12 20:39:33,Emergency,Receipt Printer,ENG_11,Emergency callout — ATM was completely non-operational.,6.5,30878
+MNT_000698,ATM_071,2024-02-16 10:02:05,Preventive,,ENG_01,Preventive maintenance done. All components operational.,7.3,3444
+MNT_000699,ATM_128,2024-03-15 05:45:58,Preventive,,ENG_07,Routine inspection completed. No issues found.,5.6,4156
+MNT_000700,ATM_067,2024-03-27 01:03:47,Emergency,Network Module,ENG_02,Major hardware fault repaired under emergency protocol.,2.1,63261
+MNT_000701,ATM_041,2024-01-27 23:48:55,Preventive,,ENG_14,Preventive maintenance done. All components operational.,4.3,2437
+MNT_000702,ATM_160,2024-03-24 03:26:25,Corrective,Receipt Printer,ENG_13,Component replaced after failure detected during monitoring.,4.2,15426
+MNT_000703,ATM_134,2024-03-24 10:59:25,Corrective,Network Module,ENG_07,Component replaced after failure detected during monitoring.,1.6,19221
+MNT_000704,ATM_112,2024-04-01 21:17:20,Emergency,Card Reader,ENG_01,Critical failure resolved on-site. ATM restored to service.,1.4,66126
+MNT_000705,ATM_058,2024-01-13 11:07:24,Corrective,Network Module,ENG_13,Root cause identified as hardware wear. Replaced accordingly.,5.5,5835
+MNT_000706,ATM_072,2024-03-27 23:54:09,Preventive,,ENG_20,Routine inspection completed. No issues found.,3.4,4181
+MNT_000707,ATM_156,2024-04-04 03:43:38,Preventive,,ENG_11,Preventive maintenance done. All components operational.,6.9,3836
+MNT_000708,ATM_198,2024-04-22 01:01:38,Corrective,,ENG_20,Faulty unit removed and replaced. Tested post-installation.,3.0,13599
+MNT_000709,ATM_191,2024-03-14 17:42:33,Corrective,Network Module,ENG_09,Component replaced after failure detected during monitoring.,3.7,10016
+MNT_000710,ATM_067,2024-04-23 23:18:27,Corrective,Keypad,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,6.9,18966
+MNT_000711,ATM_048,2024-02-04 15:04:27,Preventive,,ENG_06,Cash cassette cleaned and refilled. Software updated.,6.5,2770
+MNT_000712,ATM_180,2024-03-25 21:35:31,Emergency,,ENG_06,Critical failure resolved on-site. ATM restored to service.,3.5,33511
+MNT_000713,ATM_036,2024-02-12 09:08:10,Preventive,,ENG_09,Preventive maintenance done. All components operational.,7.3,2812
+MNT_000714,ATM_137,2024-02-10 05:38:40,Corrective,,ENG_17,Error log cleared. Defective part replaced.,0.8,14873
+MNT_000715,ATM_003,2024-02-12 22:46:39,Corrective,Cash Cassette,ENG_09,Intermittent failure resolved by replacing component.,6.1,18410
+MNT_000716,ATM_200,2024-02-11 05:26:07,Corrective,Receipt Printer,ENG_16,Error log cleared. Defective part replaced.,4.8,24628
+MNT_000717,ATM_040,2024-01-27 05:57:30,Preventive,,ENG_08,Card reader cleaned. Firmware upgraded to latest version.,3.3,2274
+MNT_000718,ATM_075,2024-03-11 14:09:13,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,1.6,4063
+MNT_000719,ATM_042,2024-01-09 19:32:02,Preventive,,ENG_13,Card reader cleaned. Firmware upgraded to latest version.,7.3,1361
+MNT_000720,ATM_143,2024-01-16 22:06:16,Emergency,Receipt Printer,ENG_06,Emergency callout — ATM was completely non-operational.,3.6,50033
+MNT_000721,ATM_042,2024-03-16 13:02:53,Corrective,Keypad,ENG_13,Faulty unit removed and replaced. Tested post-installation.,0.9,15347
+MNT_000722,ATM_052,2024-01-31 22:41:25,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,6.2,1167
+MNT_000723,ATM_064,2024-04-05 06:00:42,Emergency,Keypad,ENG_09,Major hardware fault repaired under emergency protocol.,6.4,75087
+MNT_000724,ATM_094,2024-01-04 18:53:44,Preventive,,ENG_06,Preventive maintenance done. All components operational.,6.9,1901
+MNT_000725,ATM_082,2024-01-03 13:49:52,Preventive,,ENG_20,Preventive maintenance done. All components operational.,4.5,2324
+MNT_000726,ATM_033,2024-01-28 01:45:09,Corrective,Dispenser Module,ENG_14,Error log cleared. Defective part replaced.,1.6,6550
+MNT_000727,ATM_015,2024-04-22 14:04:13,Corrective,Cash Cassette,ENG_02,Error log cleared. Defective part replaced.,0.9,13067
+MNT_000728,ATM_140,2024-04-20 01:58:09,Emergency,Card Reader,ENG_09,Major hardware fault repaired under emergency protocol.,5.7,37927
+MNT_000729,ATM_059,2024-03-14 14:39:28,Corrective,Keypad,ENG_18,Error log cleared. Defective part replaced.,2.1,22345
+MNT_000730,ATM_030,2024-04-11 07:31:33,Corrective,Dispenser Module,ENG_19,Root cause identified as hardware wear. Replaced accordingly.,8.0,13982
+MNT_000731,ATM_107,2024-04-20 12:31:21,Corrective,Cash Cassette,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,4.3,9274
+MNT_000732,ATM_168,2024-04-28 00:53:55,Emergency,Dispenser Module,ENG_14,Major hardware fault repaired under emergency protocol.,7.5,43934
+MNT_000733,ATM_134,2024-02-08 13:08:53,Corrective,Card Reader,ENG_01,Component replaced after failure detected during monitoring.,6.1,17612
+MNT_000734,ATM_065,2024-02-05 07:52:04,Preventive,,ENG_12,Cash cassette cleaned and refilled. Software updated.,4.4,2813
+MNT_000735,ATM_146,2024-04-05 11:04:14,Corrective,Keypad,ENG_11,Intermittent failure resolved by replacing component.,3.8,5799
+MNT_000736,ATM_107,2024-02-24 01:03:28,Corrective,Cash Cassette,ENG_18,Intermittent failure resolved by replacing component.,1.2,13697
+MNT_000737,ATM_164,2024-01-04 06:23:47,Corrective,Card Reader,ENG_15,Faulty unit removed and replaced. Tested post-installation.,2.1,22349
+MNT_000738,ATM_177,2024-01-07 20:58:20,Emergency,,ENG_20,Urgent replacement of failed component. Downtime minimised.,7.0,72897
+MNT_000739,ATM_083,2024-03-12 19:47:44,Emergency,,ENG_05,Major hardware fault repaired under emergency protocol.,7.4,39282
+MNT_000740,ATM_123,2024-03-23 21:55:31,Corrective,Dispenser Module,ENG_11,Intermittent failure resolved by replacing component.,4.8,16942
+MNT_000741,ATM_042,2024-01-26 13:01:06,Corrective,Dispenser Module,ENG_01,Error log cleared. Defective part replaced.,3.3,16122
+MNT_000742,ATM_009,2024-03-17 22:31:25,Preventive,,ENG_04,Preventive maintenance done. All components operational.,7.9,1016
+MNT_000743,ATM_133,2024-04-16 01:47:31,Preventive,,ENG_14,Card reader cleaned. Firmware upgraded to latest version.,2.2,3649
+MNT_000744,ATM_176,2024-03-02 22:13:46,Preventive,,ENG_16,Routine inspection completed. No issues found.,7.8,1272
+MNT_000745,ATM_142,2024-01-02 23:51:15,Corrective,Card Reader,ENG_20,Component replaced after failure detected during monitoring.,2.4,6829
+MNT_000746,ATM_082,2024-04-01 18:13:28,Corrective,Card Reader,ENG_18,Error log cleared. Defective part replaced.,2.4,18899
+MNT_000747,ATM_164,2024-02-26 03:40:17,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,7.7,2389
+MNT_000748,ATM_147,2024-01-16 03:28:07,Corrective,Keypad,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,0.9,12297
+MNT_000749,ATM_003,2024-02-13 18:04:06,Preventive,,ENG_03,Routine inspection completed. No issues found.,7.9,4666
+MNT_000750,ATM_123,2024-03-07 06:48:40,Preventive,,ENG_05,Network settings verified. Response time within SLA.,5.1,3382
+MNT_000751,ATM_187,2024-01-02 10:57:27,Emergency,Card Reader,ENG_01,Major hardware fault repaired under emergency protocol.,6.6,64685
+MNT_000752,ATM_172,2024-04-03 03:12:24,Corrective,,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,7.7,11824
+MNT_000753,ATM_101,2024-04-04 21:26:56,Corrective,Keypad,ENG_15,Faulty unit removed and replaced. Tested post-installation.,5.4,8985
+MNT_000754,ATM_137,2024-04-22 08:34:08,Preventive,,ENG_16,Preventive maintenance done. All components operational.,6.6,3306
+MNT_000755,ATM_145,2024-01-12 23:20:29,Emergency,Network Module,ENG_17,Urgent replacement of failed component. Downtime minimised.,5.9,42713
+MNT_000756,ATM_057,2024-04-13 13:36:41,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,2.5,2214
+MNT_000757,ATM_197,2024-01-05 20:58:55,Emergency,Cash Cassette,ENG_20,Emergency maintenance done. Escalated to vendor for follow-up.,5.7,69347
+MNT_000758,ATM_161,2024-01-06 01:32:07,Corrective,Receipt Printer,ENG_09,Error log cleared. Defective part replaced.,1.9,14368
+MNT_000759,ATM_058,2024-03-22 21:26:32,Corrective,Network Module,ENG_16,Component replaced after failure detected during monitoring.,4.9,21450
+MNT_000760,ATM_001,2024-01-30 05:39:42,Corrective,Dispenser Module,ENG_15,Error log cleared. Defective part replaced.,6.5,7956
+MNT_000761,ATM_007,2024-03-24 09:45:13,Corrective,Keypad,ENG_20,Component replaced after failure detected during monitoring.,7.3,5612
+MNT_000762,ATM_053,2024-04-24 13:13:13,Emergency,Card Reader,ENG_17,Emergency callout — ATM was completely non-operational.,5.4,40857
+MNT_000763,ATM_066,2024-04-08 19:03:19,Preventive,,ENG_05,Preventive maintenance done. All components operational.,7.0,1717
+MNT_000764,ATM_169,2024-01-25 05:03:49,Emergency,Receipt Printer,ENG_09,Emergency maintenance done. Escalated to vendor for follow-up.,3.6,64719
+MNT_000765,ATM_137,2024-04-09 08:38:36,Corrective,Network Module,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,4.6,19546
+MNT_000766,ATM_064,2024-01-03 13:59:00,Preventive,,ENG_08,Routine inspection completed. No issues found.,3.8,4072
+MNT_000767,ATM_007,2024-04-06 15:50:52,Emergency,Receipt Printer,ENG_20,Emergency maintenance done. Escalated to vendor for follow-up.,7.8,72095
+MNT_000768,ATM_146,2024-01-27 15:13:56,Corrective,Network Module,ENG_20,Component replaced after failure detected during monitoring.,1.3,15955
+MNT_000769,ATM_048,2024-04-21 02:30:49,Corrective,Dispenser Module,ENG_16,Intermittent failure resolved by replacing component.,6.8,18958
+MNT_000770,ATM_048,2024-03-01 05:47:56,Corrective,Cash Cassette,ENG_13,Component replaced after failure detected during monitoring.,6.1,11576
+MNT_000771,ATM_117,2024-03-09 14:08:03,Corrective,Network Module,ENG_19,Intermittent failure resolved by replacing component.,4.0,17883
+MNT_000772,ATM_098,2024-04-20 01:53:12,Preventive,,ENG_02,Card reader cleaned. Firmware upgraded to latest version.,1.4,4608
+MNT_000773,ATM_061,2024-04-09 12:10:17,Corrective,Dispenser Module,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,2.0,15895
+MNT_000774,ATM_139,2024-01-11 05:04:57,Corrective,Keypad,ENG_17,Intermittent failure resolved by replacing component.,3.4,23507
+MNT_000775,ATM_046,2024-04-13 11:59:13,Preventive,,ENG_13,Routine inspection completed. No issues found.,1.4,2254
+MNT_000776,ATM_083,2024-04-25 09:46:28,Preventive,,ENG_16,Preventive maintenance done. All components operational.,3.5,1129
+MNT_000777,ATM_188,2024-01-02 05:11:24,Corrective,Card Reader,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,4.3,16892
+MNT_000778,ATM_071,2024-03-22 22:49:53,Corrective,Network Module,ENG_11,Intermittent failure resolved by replacing component.,5.0,18317
+MNT_000779,ATM_157,2024-02-11 23:09:50,Emergency,,ENG_09,Emergency callout — ATM was completely non-operational.,4.1,77138
+MNT_000780,ATM_151,2024-02-27 05:26:21,Corrective,Keypad,ENG_05,Faulty unit removed and replaced. Tested post-installation.,4.8,13165
+MNT_000781,ATM_056,2024-04-26 11:00:12,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,1.0,3735
+MNT_000782,ATM_185,2024-04-26 05:52:38,Corrective,Dispenser Module,ENG_12,Faulty unit removed and replaced. Tested post-installation.,2.1,15745
+MNT_000783,ATM_151,2024-02-04 11:55:25,Corrective,Cash Cassette,ENG_04,Faulty unit removed and replaced. Tested post-installation.,5.3,7519
+MNT_000784,ATM_015,2024-04-25 22:51:07,Preventive,,ENG_11,Routine inspection completed. No issues found.,1.2,3228
+MNT_000785,ATM_143,2024-01-16 04:32:46,Corrective,Keypad,ENG_17,Faulty unit removed and replaced. Tested post-installation.,5.4,16299
+MNT_000786,ATM_078,2024-01-27 12:00:01,Preventive,,ENG_13,Card reader cleaned. Firmware upgraded to latest version.,3.2,2210
+MNT_000787,ATM_123,2024-04-20 16:13:41,Corrective,Cash Cassette,ENG_02,Error log cleared. Defective part replaced.,3.2,7682
+MNT_000788,ATM_200,2024-03-01 01:23:46,Preventive,,ENG_20,Routine inspection completed. No issues found.,4.3,3101
+MNT_000789,ATM_012,2024-01-18 23:41:19,Corrective,Cash Cassette,ENG_05,Error log cleared. Defective part replaced.,3.6,15249
+MNT_000790,ATM_133,2024-03-11 07:29:14,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,0.9,2659
+MNT_000791,ATM_127,2024-01-01 17:32:54,Emergency,Dispenser Module,ENG_18,Emergency maintenance done. Escalated to vendor for follow-up.,5.5,72845
+MNT_000792,ATM_191,2024-02-28 16:55:34,Corrective,Network Module,ENG_05,Error log cleared. Defective part replaced.,6.1,5709
+MNT_000793,ATM_195,2024-01-24 16:40:42,Corrective,Card Reader,ENG_05,Root cause identified as hardware wear. Replaced accordingly.,2.1,7251
+MNT_000794,ATM_076,2024-01-13 19:16:25,Emergency,Keypad,ENG_01,Major hardware fault repaired under emergency protocol.,4.3,36176
+MNT_000795,ATM_019,2024-03-02 12:52:53,Preventive,,ENG_15,Cash cassette cleaned and refilled. Software updated.,4.9,4848
+MNT_000796,ATM_171,2024-03-31 03:31:45,Emergency,Card Reader,ENG_06,Urgent replacement of failed component. Downtime minimised.,3.8,77035
+MNT_000797,ATM_190,2024-04-22 21:17:02,Corrective,Card Reader,ENG_04,Error log cleared. Defective part replaced.,1.7,6551
+MNT_000798,ATM_045,2024-02-08 00:01:08,Corrective,Network Module,ENG_02,Component replaced after failure detected during monitoring.,7.5,6317
+MNT_000799,ATM_061,2024-04-28 02:23:01,Emergency,Card Reader,ENG_14,Emergency callout — ATM was completely non-operational.,5.9,76047
+MNT_000800,ATM_156,2024-04-10 19:24:01,Corrective,Receipt Printer,ENG_14,Faulty unit removed and replaced. Tested post-installation.,2.5,17021
+MNT_000801,ATM_053,2024-02-04 15:27:20,Corrective,Cash Cassette,ENG_04,Intermittent failure resolved by replacing component.,4.5,11620
+MNT_000802,ATM_163,2024-02-21 14:28:04,Corrective,Network Module,ENG_15,Component replaced after failure detected during monitoring.,7.9,9069
+MNT_000803,ATM_182,2024-03-13 17:34:29,Emergency,,ENG_03,Emergency callout — ATM was completely non-operational.,3.3,43531
+MNT_000804,ATM_166,2024-01-19 01:23:56,Preventive,,ENG_12,Network settings verified. Response time within SLA.,6.7,1378
+MNT_000805,ATM_043,2024-02-04 01:20:17,Preventive,,ENG_20,Network settings verified. Response time within SLA.,2.7,2530
+MNT_000806,ATM_137,2024-02-16 19:59:54,Corrective,,ENG_07,Faulty unit removed and replaced. Tested post-installation.,1.8,6649
+MNT_000807,ATM_184,2024-01-02 03:45:30,Corrective,Keypad,ENG_20,Faulty unit removed and replaced. Tested post-installation.,2.8,18305
+MNT_000808,ATM_016,2024-03-07 20:42:08,Preventive,,ENG_14,Network settings verified. Response time within SLA.,2.5,1676
+MNT_000809,ATM_025,2024-04-05 21:16:22,Emergency,Card Reader,ENG_09,Emergency callout — ATM was completely non-operational.,3.5,25186
+MNT_000810,ATM_050,2024-01-05 00:46:51,Corrective,,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,6.1,20861
+MNT_000811,ATM_176,2024-04-02 20:34:08,Corrective,Dispenser Module,ENG_12,Intermittent failure resolved by replacing component.,5.4,11905
+MNT_000812,ATM_152,2024-01-26 05:37:11,Corrective,,ENG_20,Component replaced after failure detected during monitoring.,5.7,21744
+MNT_000813,ATM_174,2024-04-13 04:46:30,Corrective,Dispenser Module,ENG_09,Error log cleared. Defective part replaced.,3.6,19179
+MNT_000814,ATM_003,2024-01-20 16:17:26,Corrective,Keypad,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,5.2,6340
+MNT_000815,ATM_079,2024-01-14 15:58:50,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,0.5,3559
+MNT_000816,ATM_181,2024-01-05 07:25:14,Preventive,,ENG_15,Card reader cleaned. Firmware upgraded to latest version.,5.8,4726
+MNT_000817,ATM_156,2024-02-08 21:44:56,Preventive,,ENG_07,Routine inspection completed. No issues found.,4.2,2222
+MNT_000818,ATM_073,2024-01-23 13:28:29,Corrective,,ENG_09,Intermittent failure resolved by replacing component.,6.4,15650
+MNT_000819,ATM_044,2024-03-13 17:46:33,Corrective,Card Reader,ENG_13,Component replaced after failure detected during monitoring.,0.6,14464
+MNT_000820,ATM_015,2024-01-05 17:41:54,Emergency,,ENG_16,Critical failure resolved on-site. ATM restored to service.,6.8,33300
+MNT_000821,ATM_144,2024-04-05 12:32:04,Preventive,,ENG_12,Network settings verified. Response time within SLA.,1.7,4863
+MNT_000822,ATM_093,2024-03-27 04:45:04,Corrective,,ENG_14,Component replaced after failure detected during monitoring.,2.6,10428
+MNT_000823,ATM_153,2024-01-19 01:34:04,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,4.6,1229
+MNT_000824,ATM_099,2024-02-03 12:39:31,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,4.9,1756
+MNT_000825,ATM_060,2024-04-07 05:16:22,Corrective,Card Reader,ENG_04,Faulty unit removed and replaced. Tested post-installation.,5.6,6918
+MNT_000826,ATM_085,2024-02-19 12:18:18,Corrective,Receipt Printer,ENG_02,Faulty unit removed and replaced. Tested post-installation.,5.8,23449
+MNT_000827,ATM_157,2024-01-07 15:37:51,Corrective,Cash Cassette,ENG_16,Error log cleared. Defective part replaced.,3.2,12028
+MNT_000828,ATM_123,2024-04-08 13:13:20,Preventive,,ENG_10,Routine inspection completed. No issues found.,2.9,4510
+MNT_000829,ATM_015,2024-01-18 17:41:34,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,2.5,2885
+MNT_000830,ATM_112,2024-04-13 09:38:27,Preventive,,ENG_15,Network settings verified. Response time within SLA.,4.3,2056
+MNT_000831,ATM_017,2024-02-03 22:58:48,Preventive,,ENG_09,Network settings verified. Response time within SLA.,7.7,1510
+MNT_000832,ATM_133,2024-02-10 22:34:15,Preventive,,ENG_06,Cash cassette cleaned and refilled. Software updated.,6.9,1998
+MNT_000833,ATM_144,2024-02-04 05:29:33,Corrective,Cash Cassette,ENG_13,Error log cleared. Defective part replaced.,6.7,10238
+MNT_000834,ATM_059,2024-03-27 18:17:35,Preventive,,ENG_12,Preventive maintenance done. All components operational.,5.4,1286
+MNT_000835,ATM_190,2024-04-12 02:00:37,Corrective,Network Module,ENG_18,Error log cleared. Defective part replaced.,3.2,17935
+MNT_000836,ATM_156,2024-03-20 20:01:05,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,0.8,1684
+MNT_000837,ATM_192,2024-02-19 11:07:36,Corrective,Cash Cassette,ENG_04,Error log cleared. Defective part replaced.,4.3,21367
+MNT_000838,ATM_042,2024-04-29 01:40:11,Preventive,,ENG_19,Routine inspection completed. No issues found.,1.8,4813
+MNT_000839,ATM_068,2024-02-29 05:09:17,Corrective,Network Module,ENG_20,Error log cleared. Defective part replaced.,6.1,23060
+MNT_000840,ATM_186,2024-03-13 21:58:38,Corrective,Receipt Printer,ENG_14,Error log cleared. Defective part replaced.,2.0,5318
+MNT_000841,ATM_075,2024-02-01 11:28:34,Corrective,Dispenser Module,ENG_07,Error log cleared. Defective part replaced.,4.1,16139
+MNT_000842,ATM_009,2024-03-17 02:57:40,Emergency,Network Module,ENG_13,Major hardware fault repaired under emergency protocol.,7.4,39215
+MNT_000843,ATM_042,2024-02-11 14:22:18,Preventive,,ENG_13,Card reader cleaned. Firmware upgraded to latest version.,4.6,3928
+MNT_000844,ATM_054,2024-02-02 19:17:34,Corrective,Network Module,ENG_12,Faulty unit removed and replaced. Tested post-installation.,7.2,7439
+MNT_000845,ATM_042,2024-01-01 10:40:40,Corrective,Receipt Printer,ENG_05,Error log cleared. Defective part replaced.,5.9,15548
+MNT_000846,ATM_041,2024-02-18 18:42:30,Corrective,,ENG_06,Component replaced after failure detected during monitoring.,4.5,15229
+MNT_000847,ATM_084,2024-03-05 12:09:47,Preventive,,ENG_10,Preventive maintenance done. All components operational.,5.4,4016
+MNT_000848,ATM_023,2024-02-02 21:17:27,Emergency,Receipt Printer,ENG_09,Critical failure resolved on-site. ATM restored to service.,6.4,48841
+MNT_000849,ATM_015,2024-03-04 12:14:05,Preventive,,ENG_12,Preventive maintenance done. All components operational.,4.5,4781
+MNT_000850,ATM_087,2024-01-23 05:15:33,Corrective,Receipt Printer,ENG_15,Intermittent failure resolved by replacing component.,2.6,11505
+MNT_000851,ATM_070,2024-04-17 05:39:33,Corrective,Card Reader,ENG_19,Faulty unit removed and replaced. Tested post-installation.,4.2,18252
+MNT_000852,ATM_078,2024-01-06 18:57:32,Corrective,Cash Cassette,ENG_09,Faulty unit removed and replaced. Tested post-installation.,6.3,24943
+MNT_000853,ATM_049,2024-02-17 22:05:30,Corrective,Card Reader,ENG_20,Error log cleared. Defective part replaced.,6.6,21438
+MNT_000854,ATM_020,2024-03-26 22:46:43,Corrective,Keypad,ENG_13,Root cause identified as hardware wear. Replaced accordingly.,5.0,6422
+MNT_000855,ATM_087,2024-01-31 06:16:16,Corrective,Receipt Printer,ENG_06,Root cause identified as hardware wear. Replaced accordingly.,6.2,10021
+MNT_000856,ATM_115,2024-03-17 04:12:16,Corrective,Network Module,ENG_03,Faulty unit removed and replaced. Tested post-installation.,5.3,14978
+MNT_000857,ATM_055,2024-01-12 22:10:22,Preventive,,ENG_17,Cash cassette cleaned and refilled. Software updated.,6.1,4621
+MNT_000858,ATM_156,2024-01-10 06:01:14,Corrective,,ENG_19,Intermittent failure resolved by replacing component.,1.4,18320
+MNT_000859,ATM_087,2024-04-17 11:39:07,Preventive,,ENG_17,Card reader cleaned. Firmware upgraded to latest version.,7.0,2467
+MNT_000860,ATM_089,2024-04-22 02:28:53,Preventive,,ENG_07,Preventive maintenance done. All components operational.,2.8,3403
+MNT_000861,ATM_087,2024-03-31 02:56:10,Corrective,,ENG_07,Error log cleared. Defective part replaced.,1.2,9784
+MNT_000862,ATM_173,2024-01-22 13:53:03,Corrective,Cash Cassette,ENG_16,Error log cleared. Defective part replaced.,7.4,8801
+MNT_000863,ATM_070,2024-02-21 05:23:04,Preventive,,ENG_11,Network settings verified. Response time within SLA.,3.5,2701
+MNT_000864,ATM_180,2024-01-27 09:39:44,Emergency,Dispenser Module,ENG_19,Emergency maintenance done. Escalated to vendor for follow-up.,6.0,50221
+MNT_000865,ATM_079,2024-03-29 22:33:17,Preventive,,ENG_13,Card reader cleaned. Firmware upgraded to latest version.,6.8,4217
+MNT_000866,ATM_074,2024-04-24 18:48:58,Preventive,,ENG_11,Network settings verified. Response time within SLA.,7.1,1738
+MNT_000867,ATM_075,2024-02-05 10:04:27,Corrective,Receipt Printer,ENG_02,Faulty unit removed and replaced. Tested post-installation.,4.7,5396
+MNT_000868,ATM_023,2024-02-11 10:20:19,Emergency,Card Reader,ENG_14,Emergency callout — ATM was completely non-operational.,2.8,56559
+MNT_000869,ATM_038,2024-03-16 17:15:38,Corrective,Dispenser Module,ENG_01,Component replaced after failure detected during monitoring.,0.6,5383
+MNT_000870,ATM_110,2024-03-07 01:54:29,Preventive,,ENG_13,Routine inspection completed. No issues found.,7.4,1921
+MNT_000871,ATM_080,2024-04-18 07:37:49,Emergency,,ENG_13,Emergency callout — ATM was completely non-operational.,5.5,77728
+MNT_000872,ATM_063,2024-04-12 16:40:39,Preventive,,ENG_11,Preventive maintenance done. All components operational.,5.2,1326
+MNT_000873,ATM_063,2024-01-31 12:35:15,Corrective,Receipt Printer,ENG_02,Component replaced after failure detected during monitoring.,5.2,20498
+MNT_000874,ATM_055,2024-03-18 03:51:53,Preventive,,ENG_12,Cash cassette cleaned and refilled. Software updated.,1.1,3339
+MNT_000875,ATM_005,2024-01-09 00:06:30,Preventive,,ENG_12,Preventive maintenance done. All components operational.,5.0,1097
+MNT_000876,ATM_128,2024-02-19 09:40:13,Preventive,,ENG_03,Cash cassette cleaned and refilled. Software updated.,1.9,4242
+MNT_000877,ATM_061,2024-02-02 22:10:59,Preventive,,ENG_04,Preventive maintenance done. All components operational.,2.0,1894
+MNT_000878,ATM_059,2024-03-12 18:26:53,Corrective,,ENG_20,Faulty unit removed and replaced. Tested post-installation.,1.5,10198
+MNT_000879,ATM_006,2024-01-27 08:28:54,Emergency,,ENG_16,Critical failure resolved on-site. ATM restored to service.,4.9,75779
+MNT_000880,ATM_123,2024-03-11 11:40:55,Emergency,Cash Cassette,ENG_09,Emergency callout — ATM was completely non-operational.,4.2,51256
+MNT_000881,ATM_136,2024-02-03 05:21:07,Corrective,Keypad,ENG_08,Error log cleared. Defective part replaced.,7.8,12860
+MNT_000882,ATM_170,2024-01-30 16:53:35,Preventive,,ENG_06,Routine inspection completed. No issues found.,3.4,3914
+MNT_000883,ATM_143,2024-04-23 00:07:47,Corrective,Network Module,ENG_01,Intermittent failure resolved by replacing component.,5.0,8432
+MNT_000884,ATM_054,2024-03-04 02:59:45,Corrective,Receipt Printer,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,1.9,17242
+MNT_000885,ATM_163,2024-04-29 20:26:58,Preventive,,ENG_14,Cash cassette cleaned and refilled. Software updated.,3.2,2198
+MNT_000886,ATM_163,2024-02-29 21:02:33,Preventive,,ENG_05,Network settings verified. Response time within SLA.,5.7,4399
+MNT_000887,ATM_122,2024-03-14 15:11:59,Corrective,Keypad,ENG_10,Component replaced after failure detected during monitoring.,2.1,10458
+MNT_000888,ATM_037,2024-02-15 04:19:33,Corrective,Dispenser Module,ENG_05,Faulty unit removed and replaced. Tested post-installation.,5.6,18896
+MNT_000889,ATM_078,2024-03-18 11:09:59,Corrective,,ENG_17,Error log cleared. Defective part replaced.,0.9,7274
+MNT_000890,ATM_155,2024-01-19 11:03:47,Preventive,,ENG_05,Card reader cleaned. Firmware upgraded to latest version.,3.3,3619
+MNT_000891,ATM_151,2024-02-06 19:18:24,Corrective,Receipt Printer,ENG_11,Error log cleared. Defective part replaced.,4.6,19975
+MNT_000892,ATM_007,2024-01-11 18:24:31,Preventive,,ENG_18,Card reader cleaned. Firmware upgraded to latest version.,2.8,4149
+MNT_000893,ATM_015,2024-01-12 07:46:55,Preventive,,ENG_03,Preventive maintenance done. All components operational.,6.5,2304
+MNT_000894,ATM_129,2024-03-05 19:38:58,Corrective,Dispenser Module,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,7.5,20001
+MNT_000895,ATM_096,2024-02-03 17:52:22,Emergency,Card Reader,ENG_06,Critical failure resolved on-site. ATM restored to service.,2.4,77884
+MNT_000896,ATM_041,2024-03-01 02:19:48,Corrective,Card Reader,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,2.6,16309
+MNT_000897,ATM_190,2024-04-16 12:39:05,Corrective,Network Module,ENG_16,Component replaced after failure detected during monitoring.,6.3,24274
+MNT_000898,ATM_059,2024-02-07 03:20:42,Corrective,Network Module,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,7.8,19504
+MNT_000899,ATM_095,2024-02-18 13:27:15,Emergency,,ENG_02,Major hardware fault repaired under emergency protocol.,4.6,37386
+MNT_000900,ATM_015,2024-03-17 03:40:59,Preventive,,ENG_17,Network settings verified. Response time within SLA.,0.9,4812
+MNT_000901,ATM_161,2024-02-23 23:01:37,Corrective,Keypad,ENG_01,Faulty unit removed and replaced. Tested post-installation.,6.1,9869
+MNT_000902,ATM_189,2024-04-15 20:16:02,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,4.9,1758
+MNT_000903,ATM_103,2024-04-02 19:35:16,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,3.2,4291
+MNT_000904,ATM_117,2024-01-18 18:36:14,Corrective,Keypad,ENG_08,Component replaced after failure detected during monitoring.,3.7,22239
+MNT_000905,ATM_128,2024-03-27 00:29:17,Corrective,,ENG_16,Intermittent failure resolved by replacing component.,4.4,5118
+MNT_000906,ATM_194,2024-04-07 15:50:48,Preventive,,ENG_05,Network settings verified. Response time within SLA.,1.9,4104
+MNT_000907,ATM_015,2024-01-05 18:17:35,Corrective,Cash Cassette,ENG_06,Faulty unit removed and replaced. Tested post-installation.,4.9,5147
+MNT_000908,ATM_173,2024-04-17 05:39:52,Preventive,,ENG_10,Network settings verified. Response time within SLA.,7.2,1344
+MNT_000909,ATM_128,2024-03-04 02:09:37,Corrective,Receipt Printer,ENG_02,Component replaced after failure detected during monitoring.,1.3,6984
+MNT_000910,ATM_087,2024-01-26 00:18:52,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,7.5,4094
+MNT_000911,ATM_143,2024-02-25 03:58:05,Corrective,Network Module,ENG_09,Component replaced after failure detected during monitoring.,3.5,24873
+MNT_000912,ATM_112,2024-04-25 14:11:05,Preventive,,ENG_12,Routine inspection completed. No issues found.,1.6,3229
+MNT_000913,ATM_193,2024-04-13 09:05:41,Corrective,Keypad,ENG_08,Faulty unit removed and replaced. Tested post-installation.,3.7,7066
+MNT_000914,ATM_010,2024-01-18 15:04:49,Corrective,Cash Cassette,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,4.2,23369
+MNT_000915,ATM_001,2024-03-09 16:15:13,Preventive,,ENG_04,Routine inspection completed. No issues found.,6.8,3133
+MNT_000916,ATM_040,2024-02-02 06:36:31,Preventive,,ENG_07,Preventive maintenance done. All components operational.,2.4,4003
+MNT_000917,ATM_008,2024-01-31 04:54:30,Corrective,Keypad,ENG_07,Faulty unit removed and replaced. Tested post-installation.,5.2,14965
+MNT_000918,ATM_143,2024-01-11 16:11:43,Corrective,Dispenser Module,ENG_02,Component replaced after failure detected during monitoring.,4.8,14938
+MNT_000919,ATM_159,2024-04-20 23:00:00,Corrective,Receipt Printer,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,1.1,18177
+MNT_000920,ATM_128,2024-01-31 12:13:02,Emergency,Cash Cassette,ENG_01,Emergency maintenance done. Escalated to vendor for follow-up.,2.8,33857
+MNT_000921,ATM_025,2024-02-10 09:05:14,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,7.9,1217
+MNT_000922,ATM_075,2024-01-02 11:29:25,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,2.4,4851
+MNT_000923,ATM_046,2024-04-30 14:31:27,Emergency,Card Reader,ENG_09,Emergency maintenance done. Escalated to vendor for follow-up.,7.2,37271
+MNT_000924,ATM_091,2024-04-05 09:44:37,Preventive,,ENG_12,Routine inspection completed. No issues found.,4.0,4330
+MNT_000925,ATM_087,2024-01-16 23:26:54,Corrective,Dispenser Module,ENG_01,Faulty unit removed and replaced. Tested post-installation.,3.2,10477
+MNT_000926,ATM_055,2024-04-18 06:41:32,Preventive,,ENG_09,Network settings verified. Response time within SLA.,2.2,4754
+MNT_000927,ATM_055,2024-02-18 22:55:32,Preventive,,ENG_12,Routine inspection completed. No issues found.,2.7,2280
+MNT_000928,ATM_172,2024-01-25 17:18:54,Emergency,Cash Cassette,ENG_09,Critical failure resolved on-site. ATM restored to service.,7.3,70110
+MNT_000929,ATM_027,2024-04-18 07:34:05,Corrective,Keypad,ENG_11,Component replaced after failure detected during monitoring.,1.0,8957
+MNT_000930,ATM_108,2024-04-20 03:44:52,Corrective,Receipt Printer,ENG_14,Component replaced after failure detected during monitoring.,4.3,6879
+MNT_000931,ATM_063,2024-02-08 12:04:15,Corrective,Cash Cassette,ENG_02,Root cause identified as hardware wear. Replaced accordingly.,2.0,12084
+MNT_000932,ATM_116,2024-02-18 17:39:58,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,5.1,1357
+MNT_000933,ATM_095,2024-02-17 06:29:55,Preventive,,ENG_18,Preventive maintenance done. All components operational.,3.0,3769
+MNT_000934,ATM_058,2024-04-10 12:56:27,Emergency,Receipt Printer,ENG_01,Emergency maintenance done. Escalated to vendor for follow-up.,7.8,72427
+MNT_000935,ATM_077,2024-03-12 13:57:30,Emergency,Network Module,ENG_14,Emergency maintenance done. Escalated to vendor for follow-up.,4.1,32762
+MNT_000936,ATM_121,2024-03-06 09:25:34,Corrective,Dispenser Module,ENG_16,Faulty unit removed and replaced. Tested post-installation.,6.2,14459
+MNT_000937,ATM_085,2024-03-08 14:16:31,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,1.8,4305
+MNT_000938,ATM_148,2024-04-17 12:09:46,Corrective,Receipt Printer,ENG_12,Faulty unit removed and replaced. Tested post-installation.,6.9,21569
+MNT_000939,ATM_005,2024-04-23 10:53:20,Corrective,Keypad,ENG_11,Intermittent failure resolved by replacing component.,4.7,5282
+MNT_000940,ATM_026,2024-02-26 22:22:57,Corrective,Network Module,ENG_17,Intermittent failure resolved by replacing component.,1.9,15487
+MNT_000941,ATM_017,2024-03-31 15:44:31,Preventive,,ENG_16,Routine inspection completed. No issues found.,7.2,2936
+MNT_000942,ATM_133,2024-04-21 05:38:26,Emergency,,ENG_16,Major hardware fault repaired under emergency protocol.,6.1,51827
+MNT_000943,ATM_042,2024-04-12 15:00:30,Corrective,Card Reader,ENG_14,Faulty unit removed and replaced. Tested post-installation.,6.5,21877
+MNT_000944,ATM_130,2024-03-07 10:38:42,Emergency,Dispenser Module,ENG_08,Major hardware fault repaired under emergency protocol.,1.2,63988
+MNT_000945,ATM_111,2024-04-16 07:53:16,Preventive,,ENG_15,Card reader cleaned. Firmware upgraded to latest version.,4.0,3968
+MNT_000946,ATM_087,2024-02-11 00:29:36,Preventive,,ENG_09,Routine inspection completed. No issues found.,4.3,4218
+MNT_000947,ATM_021,2024-04-24 04:42:09,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,6.7,2412
+MNT_000948,ATM_042,2024-04-29 09:50:00,Corrective,Card Reader,ENG_13,Error log cleared. Defective part replaced.,5.1,21199
+MNT_000949,ATM_022,2024-04-23 04:33:10,Preventive,,ENG_12,Preventive maintenance done. All components operational.,5.2,1103
+MNT_000950,ATM_042,2024-01-15 23:58:56,Corrective,Receipt Printer,ENG_12,Intermittent failure resolved by replacing component.,3.3,7503
+MNT_000951,ATM_079,2024-03-12 14:12:58,Corrective,,ENG_20,Intermittent failure resolved by replacing component.,5.9,16906
+MNT_000952,ATM_097,2024-03-27 06:56:54,Emergency,Network Module,ENG_19,Major hardware fault repaired under emergency protocol.,1.1,68199
+MNT_000953,ATM_066,2024-03-26 15:50:33,Corrective,,ENG_12,Component replaced after failure detected during monitoring.,3.1,8040
+MNT_000954,ATM_104,2024-01-31 00:38:39,Corrective,Network Module,ENG_17,Error log cleared. Defective part replaced.,1.7,24584
+MNT_000955,ATM_185,2024-04-09 08:00:40,Emergency,Card Reader,ENG_05,Emergency callout — ATM was completely non-operational.,3.0,64518
+MNT_000956,ATM_076,2024-02-08 03:00:21,Preventive,,ENG_07,Cash cassette cleaned and refilled. Software updated.,4.6,2546
+MNT_000957,ATM_161,2024-01-15 01:47:25,Corrective,Keypad,ENG_09,Error log cleared. Defective part replaced.,4.2,6895
+MNT_000958,ATM_005,2024-03-01 02:42:28,Corrective,Keypad,ENG_12,Error log cleared. Defective part replaced.,4.4,20703
+MNT_000959,ATM_156,2024-01-15 14:03:04,Corrective,,ENG_08,Component replaced after failure detected during monitoring.,6.4,7194
+MNT_000960,ATM_156,2024-03-07 04:07:08,Corrective,Keypad,ENG_11,Component replaced after failure detected during monitoring.,1.2,11989
+MNT_000961,ATM_012,2024-01-25 23:34:39,Emergency,Receipt Printer,ENG_07,Emergency callout — ATM was completely non-operational.,3.0,69786
+MNT_000962,ATM_059,2024-01-17 12:14:57,Corrective,Receipt Printer,ENG_13,Error log cleared. Defective part replaced.,5.1,14678
+MNT_000963,ATM_003,2024-02-18 18:24:50,Emergency,Keypad,ENG_11,Emergency maintenance done. Escalated to vendor for follow-up.,2.9,54968
+MNT_000964,ATM_148,2024-01-17 06:07:24,Preventive,,ENG_01,Network settings verified. Response time within SLA.,4.6,4033
+MNT_000965,ATM_190,2024-01-10 16:50:31,Corrective,Receipt Printer,ENG_09,Component replaced after failure detected during monitoring.,3.9,8422
+MNT_000966,ATM_197,2024-03-29 19:05:46,Corrective,Receipt Printer,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,5.5,6408
+MNT_000967,ATM_129,2024-02-16 13:10:30,Preventive,,ENG_10,Preventive maintenance done. All components operational.,1.1,3156
+MNT_000968,ATM_200,2024-03-13 09:41:41,Corrective,Card Reader,ENG_05,Faulty unit removed and replaced. Tested post-installation.,3.7,18773
+MNT_000969,ATM_021,2024-01-10 23:00:32,Preventive,,ENG_04,Network settings verified. Response time within SLA.,2.0,4012
+MNT_000970,ATM_147,2024-01-02 19:01:34,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,0.7,3753
+MNT_000971,ATM_065,2024-03-20 13:47:12,Corrective,Card Reader,ENG_20,Error log cleared. Defective part replaced.,2.2,19329
+MNT_000972,ATM_112,2024-02-26 15:46:00,Preventive,,ENG_02,Card reader cleaned. Firmware upgraded to latest version.,1.1,4117
+MNT_000973,ATM_032,2024-03-26 14:44:40,Corrective,Card Reader,ENG_12,Faulty unit removed and replaced. Tested post-installation.,1.2,17734
+MNT_000974,ATM_119,2024-03-27 22:17:06,Preventive,,ENG_18,Routine inspection completed. No issues found.,1.1,3356
+MNT_000975,ATM_060,2024-04-06 12:02:32,Emergency,Cash Cassette,ENG_02,Emergency callout — ATM was completely non-operational.,2.5,43396
+MNT_000976,ATM_171,2024-02-18 10:29:17,Corrective,Card Reader,ENG_14,Faulty unit removed and replaced. Tested post-installation.,3.3,7905
+MNT_000977,ATM_149,2024-01-21 14:24:35,Preventive,,ENG_20,Network settings verified. Response time within SLA.,6.7,1747
+MNT_000978,ATM_034,2024-01-21 15:31:59,Corrective,Card Reader,ENG_13,Root cause identified as hardware wear. Replaced accordingly.,4.9,24046
+MNT_000979,ATM_039,2024-01-03 20:59:03,Preventive,,ENG_07,Card reader cleaned. Firmware upgraded to latest version.,5.3,2979
+MNT_000980,ATM_185,2024-03-27 20:12:56,Emergency,,ENG_07,Emergency callout — ATM was completely non-operational.,6.9,54252
+MNT_000981,ATM_111,2024-02-08 10:29:55,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,0.7,2849
+MNT_000982,ATM_059,2024-04-24 15:27:39,Corrective,Keypad,ENG_10,Faulty unit removed and replaced. Tested post-installation.,6.7,6199
+MNT_000983,ATM_014,2024-03-31 15:57:20,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,6.1,2441
+MNT_000984,ATM_156,2024-04-13 21:10:19,Emergency,Receipt Printer,ENG_13,Emergency callout — ATM was completely non-operational.,2.9,30635
+MNT_000985,ATM_015,2024-03-31 02:04:14,Corrective,Cash Cassette,ENG_16,Intermittent failure resolved by replacing component.,7.7,10140
+MNT_000986,ATM_068,2024-04-01 11:36:50,Corrective,Dispenser Module,ENG_02,Intermittent failure resolved by replacing component.,5.8,21795
+MNT_000987,ATM_021,2024-02-20 23:56:34,Emergency,Dispenser Module,ENG_16,Major hardware fault repaired under emergency protocol.,7.9,68478
+MNT_000988,ATM_061,2024-01-16 10:46:25,Emergency,Card Reader,ENG_05,Major hardware fault repaired under emergency protocol.,0.9,25399
+MNT_000989,ATM_042,2024-02-11 07:59:58,Corrective,,ENG_15,Faulty unit removed and replaced. Tested post-installation.,6.0,22273
+MNT_000990,ATM_092,2024-04-22 07:13:45,Corrective,,ENG_20,Faulty unit removed and replaced. Tested post-installation.,2.8,12466
+MNT_000991,ATM_036,2024-01-27 03:29:42,Preventive,,ENG_10,Network settings verified. Response time within SLA.,4.6,2645
+MNT_000992,ATM_072,2024-03-23 19:24:26,Preventive,,ENG_17,Network settings verified. Response time within SLA.,2.4,3884
+MNT_000993,ATM_057,2024-04-14 17:57:19,Preventive,,ENG_15,Network settings verified. Response time within SLA.,4.8,3925
+MNT_000994,ATM_015,2024-01-22 13:28:27,Corrective,Keypad,ENG_13,Intermittent failure resolved by replacing component.,6.5,14210
+MNT_000995,ATM_199,2024-02-19 08:17:50,Corrective,Receipt Printer,ENG_17,Root cause identified as hardware wear. Replaced accordingly.,1.5,16006
+MNT_000996,ATM_101,2024-03-08 18:13:22,Emergency,Network Module,ENG_02,Emergency callout — ATM was completely non-operational.,1.8,27131
+MNT_000997,ATM_009,2024-04-13 14:45:12,Emergency,Dispenser Module,ENG_02,Emergency callout — ATM was completely non-operational.,2.4,79353
+MNT_000998,ATM_134,2024-04-30 09:25:03,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,1.9,3203
+MNT_000999,ATM_123,2024-01-20 05:09:01,Corrective,Receipt Printer,ENG_18,Component replaced after failure detected during monitoring.,7.3,19777
+MNT_001000,ATM_032,2024-04-04 13:19:27,Preventive,,ENG_05,Network settings verified. Response time within SLA.,4.7,2061
+MNT_001001,ATM_054,2024-04-26 23:09:49,Preventive,,ENG_14,Cash cassette cleaned and refilled. Software updated.,3.7,2899
+MNT_001002,ATM_087,2024-02-07 21:39:39,Corrective,,ENG_12,Faulty unit removed and replaced. Tested post-installation.,7.8,9459
+MNT_001003,ATM_118,2024-02-14 01:39:26,Corrective,Receipt Printer,ENG_14,Error log cleared. Defective part replaced.,5.4,11787
+MNT_001004,ATM_076,2024-03-18 14:40:01,Corrective,Cash Cassette,ENG_11,Error log cleared. Defective part replaced.,0.9,6181
+MNT_001005,ATM_160,2024-03-19 02:38:40,Emergency,,ENG_19,Emergency maintenance done. Escalated to vendor for follow-up.,6.9,31188
+MNT_001006,ATM_179,2024-03-24 05:29:48,Preventive,,ENG_02,Routine inspection completed. No issues found.,0.6,3835
+MNT_001007,ATM_038,2024-01-10 18:35:59,Emergency,,ENG_16,Emergency callout — ATM was completely non-operational.,2.6,73419
+MNT_001008,ATM_164,2024-03-04 10:16:19,Corrective,Network Module,ENG_17,Intermittent failure resolved by replacing component.,3.3,19541
+MNT_001009,ATM_156,2024-02-23 16:35:27,Corrective,Cash Cassette,ENG_04,Component replaced after failure detected during monitoring.,6.9,6694
+MNT_001010,ATM_159,2024-02-03 16:56:02,Corrective,Dispenser Module,ENG_09,Intermittent failure resolved by replacing component.,4.2,5336
+MNT_001011,ATM_017,2024-02-25 17:11:52,Corrective,Receipt Printer,ENG_02,Error log cleared. Defective part replaced.,2.3,20916
+MNT_001012,ATM_014,2024-01-06 01:01:01,Corrective,Receipt Printer,ENG_20,Error log cleared. Defective part replaced.,0.7,19799
+MNT_001013,ATM_099,2024-01-10 02:34:10,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,3.5,4933
+MNT_001014,ATM_187,2024-01-23 06:07:22,Corrective,Dispenser Module,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,1.0,14833
+MNT_001015,ATM_095,2024-01-08 00:10:49,Preventive,,ENG_18,Network settings verified. Response time within SLA.,7.2,3465
+MNT_001016,ATM_088,2024-04-20 01:52:09,Corrective,Dispenser Module,ENG_02,Component replaced after failure detected during monitoring.,4.9,6201
+MNT_001017,ATM_112,2024-03-28 04:58:12,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,7.1,2200
+MNT_001018,ATM_184,2024-01-27 01:32:02,Preventive,,ENG_13,Network settings verified. Response time within SLA.,3.4,2518
+MNT_001019,ATM_187,2024-01-16 07:30:18,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,4.9,4222
+MNT_001020,ATM_116,2024-03-20 10:27:11,Corrective,Dispenser Module,ENG_11,Intermittent failure resolved by replacing component.,6.3,16780
+MNT_001021,ATM_148,2024-01-18 00:05:04,Corrective,Keypad,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,3.2,18179
+MNT_001022,ATM_122,2024-04-08 06:14:33,Preventive,,ENG_18,Routine inspection completed. No issues found.,5.2,4270
+MNT_001023,ATM_146,2024-04-21 04:53:05,Emergency,Card Reader,ENG_12,Emergency maintenance done. Escalated to vendor for follow-up.,5.7,60973
+MNT_001024,ATM_069,2024-03-29 13:32:41,Corrective,Receipt Printer,ENG_11,Intermittent failure resolved by replacing component.,7.0,7305
+MNT_001025,ATM_096,2024-03-21 20:41:47,Corrective,Dispenser Module,ENG_11,Error log cleared. Defective part replaced.,2.0,22873
+MNT_001026,ATM_139,2024-04-02 04:58:49,Preventive,,ENG_14,Cash cassette cleaned and refilled. Software updated.,5.1,1758
+MNT_001027,ATM_149,2024-04-05 05:00:38,Emergency,Keypad,ENG_13,Critical failure resolved on-site. ATM restored to service.,4.1,53548
+MNT_001028,ATM_186,2024-03-14 09:09:38,Preventive,,ENG_01,Routine inspection completed. No issues found.,1.4,1845
+MNT_001029,ATM_087,2024-03-08 21:08:54,Emergency,Card Reader,ENG_19,Critical failure resolved on-site. ATM restored to service.,4.8,54712
+MNT_001030,ATM_087,2024-04-10 12:24:45,Corrective,Receipt Printer,ENG_11,Error log cleared. Defective part replaced.,6.8,23920
+MNT_001031,ATM_192,2024-01-30 11:20:44,Emergency,,ENG_14,Emergency callout — ATM was completely non-operational.,5.2,53582
+MNT_001032,ATM_163,2024-04-20 03:31:27,Emergency,Dispenser Module,ENG_16,Urgent replacement of failed component. Downtime minimised.,6.8,54193
+MNT_001033,ATM_055,2024-03-12 17:48:58,Preventive,,ENG_16,Cash cassette cleaned and refilled. Software updated.,2.4,2531
+MNT_001034,ATM_182,2024-04-12 22:19:36,Preventive,,ENG_11,Cash cassette cleaned and refilled. Software updated.,3.9,4437
+MNT_001035,ATM_198,2024-04-27 16:49:18,Preventive,,ENG_18,Preventive maintenance done. All components operational.,0.7,3946
+MNT_001036,ATM_109,2024-03-25 11:24:17,Preventive,,ENG_19,Network settings verified. Response time within SLA.,7.8,1625
+MNT_001037,ATM_029,2024-01-17 18:28:53,Corrective,,ENG_01,Component replaced after failure detected during monitoring.,5.8,5286
+MNT_001038,ATM_179,2024-04-17 19:34:51,Emergency,Network Module,ENG_02,Emergency callout — ATM was completely non-operational.,2.1,34813
+MNT_001039,ATM_183,2024-03-14 13:20:04,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,6.6,1336
+MNT_001040,ATM_200,2024-02-24 17:58:07,Preventive,,ENG_08,Preventive maintenance done. All components operational.,4.1,1334
+MNT_001041,ATM_045,2024-04-02 06:31:27,Preventive,,ENG_09,Preventive maintenance done. All components operational.,3.4,2680
+MNT_001042,ATM_046,2024-02-20 10:00:13,Preventive,,ENG_17,Cash cassette cleaned and refilled. Software updated.,2.4,3053
+MNT_001043,ATM_026,2024-04-16 05:46:03,Preventive,,ENG_09,Routine inspection completed. No issues found.,3.9,4092
+MNT_001044,ATM_077,2024-04-25 23:51:14,Corrective,Network Module,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,7.3,13328
+MNT_001045,ATM_147,2024-03-27 22:49:09,Emergency,Keypad,ENG_10,Urgent replacement of failed component. Downtime minimised.,6.1,72184
+MNT_001046,ATM_090,2024-04-27 00:04:53,Corrective,Keypad,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,1.2,5434
+MNT_001047,ATM_070,2024-04-05 05:28:44,Emergency,Cash Cassette,ENG_10,Major hardware fault repaired under emergency protocol.,4.9,64246
+MNT_001048,ATM_082,2024-03-18 18:45:16,Preventive,,ENG_05,Card reader cleaned. Firmware upgraded to latest version.,3.6,3057
+MNT_001049,ATM_131,2024-02-13 00:55:22,Corrective,Cash Cassette,ENG_13,Error log cleared. Defective part replaced.,0.6,9001
+MNT_001050,ATM_183,2024-03-31 18:51:06,Emergency,Network Module,ENG_13,Emergency maintenance done. Escalated to vendor for follow-up.,6.1,34551
+MNT_001051,ATM_084,2024-04-19 07:53:50,Corrective,Dispenser Module,ENG_01,Root cause identified as hardware wear. Replaced accordingly.,8.0,5233
+MNT_001052,ATM_189,2024-03-23 02:27:33,Corrective,,ENG_10,Error log cleared. Defective part replaced.,4.6,13042
+MNT_001053,ATM_035,2024-04-05 09:41:27,Corrective,Dispenser Module,ENG_19,Intermittent failure resolved by replacing component.,6.2,9029
+MNT_001054,ATM_178,2024-02-26 23:35:22,Corrective,Card Reader,ENG_07,Intermittent failure resolved by replacing component.,4.3,21059
+MNT_001055,ATM_065,2024-04-12 10:00:14,Emergency,,ENG_19,Urgent replacement of failed component. Downtime minimised.,6.0,57588
+MNT_001056,ATM_132,2024-04-02 18:56:33,Corrective,Network Module,ENG_18,Intermittent failure resolved by replacing component.,7.8,7093
+MNT_001057,ATM_081,2024-01-15 23:46:29,Emergency,Receipt Printer,ENG_19,Emergency maintenance done. Escalated to vendor for follow-up.,1.5,65731
+MNT_001058,ATM_156,2024-02-29 04:53:56,Preventive,,ENG_11,Routine inspection completed. No issues found.,4.3,4222
+MNT_001059,ATM_128,2024-02-15 01:37:57,Corrective,Receipt Printer,ENG_16,Faulty unit removed and replaced. Tested post-installation.,7.8,5317
+MNT_001060,ATM_084,2024-02-22 03:42:22,Preventive,,ENG_14,Routine inspection completed. No issues found.,3.9,2279
+MNT_001061,ATM_117,2024-01-24 09:39:45,Emergency,Receipt Printer,ENG_03,Critical failure resolved on-site. ATM restored to service.,7.9,71540
+MNT_001062,ATM_045,2024-01-19 23:23:37,Preventive,,ENG_10,Preventive maintenance done. All components operational.,8.0,3359
+MNT_001063,ATM_023,2024-03-16 16:32:28,Preventive,,ENG_01,Cash cassette cleaned and refilled. Software updated.,2.6,1836
+MNT_001064,ATM_193,2024-03-14 05:22:17,Preventive,,ENG_06,Network settings verified. Response time within SLA.,7.7,2891
+MNT_001065,ATM_124,2024-01-09 01:58:56,Emergency,Dispenser Module,ENG_06,Critical failure resolved on-site. ATM restored to service.,7.8,76122
+MNT_001066,ATM_161,2024-03-26 22:10:31,Emergency,Cash Cassette,ENG_19,Emergency maintenance done. Escalated to vendor for follow-up.,5.8,52350
+MNT_001067,ATM_200,2024-03-29 09:56:24,Corrective,,ENG_14,Faulty unit removed and replaced. Tested post-installation.,3.9,15537
+MNT_001068,ATM_158,2024-04-15 08:10:58,Preventive,,ENG_17,Card reader cleaned. Firmware upgraded to latest version.,2.8,4213
+MNT_001069,ATM_146,2024-02-03 11:00:40,Corrective,Keypad,ENG_02,Root cause identified as hardware wear. Replaced accordingly.,2.8,20812
+MNT_001070,ATM_156,2024-03-25 20:53:16,Corrective,Dispenser Module,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,6.9,19989
+MNT_001071,ATM_127,2024-04-12 10:35:29,Corrective,Card Reader,ENG_09,Component replaced after failure detected during monitoring.,0.7,7102
+MNT_001072,ATM_095,2024-02-06 12:42:39,Preventive,,ENG_10,Cash cassette cleaned and refilled. Software updated.,8.0,3716
+MNT_001073,ATM_046,2024-01-17 06:50:27,Corrective,Keypad,ENG_16,Intermittent failure resolved by replacing component.,5.1,6736
+MNT_001074,ATM_182,2024-03-16 18:04:42,Preventive,,ENG_12,Network settings verified. Response time within SLA.,7.5,1743
+MNT_001075,ATM_118,2024-02-28 03:21:25,Corrective,Receipt Printer,ENG_13,Component replaced after failure detected during monitoring.,5.2,17651
+MNT_001076,ATM_101,2024-04-06 08:23:38,Corrective,Card Reader,ENG_13,Root cause identified as hardware wear. Replaced accordingly.,4.8,9892
+MNT_001077,ATM_150,2024-01-04 08:26:26,Preventive,,ENG_17,Network settings verified. Response time within SLA.,5.7,2360
+MNT_001078,ATM_153,2024-04-15 14:22:40,Corrective,Dispenser Module,ENG_11,Error log cleared. Defective part replaced.,5.4,17956
+MNT_001079,ATM_185,2024-02-28 05:06:16,Corrective,Network Module,ENG_06,Faulty unit removed and replaced. Tested post-installation.,2.6,14615
+MNT_001080,ATM_011,2024-02-22 06:19:21,Corrective,Card Reader,ENG_12,Intermittent failure resolved by replacing component.,3.6,17615
+MNT_001081,ATM_143,2024-02-26 20:39:17,Corrective,Receipt Printer,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,1.3,13013
+MNT_001082,ATM_190,2024-03-03 06:36:13,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,1.4,2476
+MNT_001083,ATM_048,2024-03-06 05:46:16,Preventive,,ENG_04,Network settings verified. Response time within SLA.,1.3,3426
+MNT_001084,ATM_160,2024-02-25 09:01:29,Corrective,Dispenser Module,ENG_17,Error log cleared. Defective part replaced.,8.0,17119
+MNT_001085,ATM_042,2024-03-10 12:26:17,Corrective,Cash Cassette,ENG_05,Intermittent failure resolved by replacing component.,1.5,22436
+MNT_001086,ATM_146,2024-04-04 19:22:35,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,7.2,1777
+MNT_001087,ATM_123,2024-02-28 14:35:45,Corrective,,ENG_05,Component replaced after failure detected during monitoring.,4.6,7654
+MNT_001088,ATM_149,2024-03-08 09:45:20,Emergency,Cash Cassette,ENG_13,Urgent replacement of failed component. Downtime minimised.,6.2,73405
+MNT_001089,ATM_051,2024-01-01 04:32:47,Corrective,Receipt Printer,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,4.8,12203
+MNT_001090,ATM_136,2024-02-05 13:51:03,Corrective,Card Reader,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,1.1,8422
+MNT_001091,ATM_179,2024-01-01 00:17:34,Emergency,Cash Cassette,ENG_13,Critical failure resolved on-site. ATM restored to service.,3.9,32145
+MNT_001092,ATM_165,2024-01-04 04:36:16,Preventive,,ENG_03,Routine inspection completed. No issues found.,7.1,2411
+MNT_001093,ATM_015,2024-01-13 00:18:26,Preventive,,ENG_09,Network settings verified. Response time within SLA.,7.3,4396
+MNT_001094,ATM_009,2024-01-25 01:42:27,Emergency,Dispenser Module,ENG_02,Critical failure resolved on-site. ATM restored to service.,1.8,52827
+MNT_001095,ATM_039,2024-04-10 22:11:06,Preventive,,ENG_10,Cash cassette cleaned and refilled. Software updated.,3.9,1710
+MNT_001096,ATM_090,2024-03-30 00:54:36,Corrective,Dispenser Module,ENG_04,Intermittent failure resolved by replacing component.,5.5,23928
+MNT_001097,ATM_042,2024-03-11 10:53:38,Corrective,Dispenser Module,ENG_15,Component replaced after failure detected during monitoring.,2.4,20534
+MNT_001098,ATM_177,2024-02-01 06:36:38,Corrective,Receipt Printer,ENG_13,Intermittent failure resolved by replacing component.,0.6,6329
+MNT_001099,ATM_020,2024-01-20 05:33:15,Corrective,Dispenser Module,ENG_01,Error log cleared. Defective part replaced.,0.9,21679
+MNT_001100,ATM_162,2024-01-11 10:15:32,Corrective,,ENG_04,Component replaced after failure detected during monitoring.,4.8,19308
+MNT_001101,ATM_087,2024-01-29 13:15:19,Corrective,Cash Cassette,ENG_04,Intermittent failure resolved by replacing component.,1.6,9038
+MNT_001102,ATM_127,2024-04-22 07:31:33,Preventive,,ENG_08,Network settings verified. Response time within SLA.,1.3,3765
+MNT_001103,ATM_190,2024-02-29 05:45:22,Preventive,,ENG_05,Card reader cleaned. Firmware upgraded to latest version.,4.5,1033
+MNT_001104,ATM_173,2024-03-07 09:58:56,Emergency,Dispenser Module,ENG_13,Urgent replacement of failed component. Downtime minimised.,0.6,51980
+MNT_001105,ATM_067,2024-01-23 18:38:46,Preventive,,ENG_17,Preventive maintenance done. All components operational.,4.7,4720
+MNT_001106,ATM_100,2024-02-05 11:10:32,Corrective,Cash Cassette,ENG_12,Intermittent failure resolved by replacing component.,6.4,11733
+MNT_001107,ATM_056,2024-04-09 01:30:19,Corrective,Keypad,ENG_14,Faulty unit removed and replaced. Tested post-installation.,3.9,18279
+MNT_001108,ATM_136,2024-02-22 18:55:08,Preventive,,ENG_11,Preventive maintenance done. All components operational.,2.9,1002
+MNT_001109,ATM_063,2024-04-04 23:30:42,Corrective,Keypad,ENG_09,Component replaced after failure detected during monitoring.,4.0,17349
+MNT_001110,ATM_076,2024-01-17 10:30:53,Preventive,,ENG_10,Preventive maintenance done. All components operational.,1.6,3282
+MNT_001111,ATM_166,2024-04-12 10:59:00,Corrective,Dispenser Module,ENG_05,Root cause identified as hardware wear. Replaced accordingly.,6.3,10939
+MNT_001112,ATM_111,2024-01-26 07:39:15,Corrective,Keypad,ENG_13,Error log cleared. Defective part replaced.,6.2,18079
+MNT_001113,ATM_155,2024-02-21 05:03:55,Preventive,,ENG_17,Network settings verified. Response time within SLA.,7.9,2937
+MNT_001114,ATM_171,2024-04-16 15:20:56,Corrective,Keypad,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,3.9,22900
+MNT_001115,ATM_149,2024-01-24 17:38:01,Preventive,,ENG_02,Cash cassette cleaned and refilled. Software updated.,0.6,3681
+MNT_001116,ATM_098,2024-01-01 13:01:11,Corrective,Dispenser Module,ENG_15,Faulty unit removed and replaced. Tested post-installation.,7.8,12055
+MNT_001117,ATM_042,2024-02-10 17:32:21,Preventive,,ENG_20,Network settings verified. Response time within SLA.,2.6,3702
+MNT_001118,ATM_200,2024-02-29 23:28:15,Corrective,Keypad,ENG_10,Faulty unit removed and replaced. Tested post-installation.,2.7,24315
+MNT_001119,ATM_069,2024-01-03 14:06:38,Corrective,Cash Cassette,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,5.3,13752
+MNT_001120,ATM_140,2024-01-30 14:27:28,Preventive,,ENG_20,Network settings verified. Response time within SLA.,0.9,4881
+MNT_001121,ATM_166,2024-03-21 06:44:00,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,5.2,2768
+MNT_001122,ATM_005,2024-04-17 12:41:38,Corrective,,ENG_18,Faulty unit removed and replaced. Tested post-installation.,0.9,13729
+MNT_001123,ATM_088,2024-02-24 16:15:27,Preventive,,ENG_03,Routine inspection completed. No issues found.,7.9,2482
+MNT_001124,ATM_047,2024-02-29 05:42:20,Emergency,Receipt Printer,ENG_05,Urgent replacement of failed component. Downtime minimised.,2.0,53093
+MNT_001125,ATM_087,2024-04-27 11:45:04,Corrective,Network Module,ENG_05,Faulty unit removed and replaced. Tested post-installation.,2.9,17174
+MNT_001126,ATM_054,2024-02-01 20:39:37,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,4.2,3686
+MNT_001127,ATM_019,2024-02-23 11:23:57,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,4.1,4691
+MNT_001128,ATM_120,2024-02-05 19:21:34,Corrective,Card Reader,ENG_15,Component replaced after failure detected during monitoring.,5.5,24212
+MNT_001129,ATM_069,2024-04-12 20:33:32,Corrective,,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,0.7,23342
+MNT_001130,ATM_084,2024-04-27 22:10:19,Emergency,Keypad,ENG_19,Major hardware fault repaired under emergency protocol.,4.1,30080
+MNT_001131,ATM_105,2024-03-11 03:53:52,Preventive,,ENG_04,Routine inspection completed. No issues found.,6.5,3699
+MNT_001132,ATM_194,2024-03-18 05:04:02,Corrective,Card Reader,ENG_05,Component replaced after failure detected during monitoring.,6.0,22316
+MNT_001133,ATM_156,2024-04-17 08:59:38,Corrective,,ENG_10,Faulty unit removed and replaced. Tested post-installation.,7.0,10666
+MNT_001134,ATM_194,2024-04-01 13:11:28,Preventive,,ENG_09,Card reader cleaned. Firmware upgraded to latest version.,5.6,3881
+MNT_001135,ATM_065,2024-04-19 17:01:50,Preventive,,ENG_20,Network settings verified. Response time within SLA.,1.3,1800
+MNT_001136,ATM_123,2024-04-06 06:01:58,Preventive,,ENG_03,Routine inspection completed. No issues found.,3.4,3425
+MNT_001137,ATM_015,2024-04-03 11:42:26,Preventive,,ENG_06,Network settings verified. Response time within SLA.,3.6,4195
+MNT_001138,ATM_048,2024-01-27 00:41:53,Corrective,Cash Cassette,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,4.5,5059
+MNT_001139,ATM_156,2024-01-15 13:14:05,Emergency,Keypad,ENG_03,Major hardware fault repaired under emergency protocol.,2.5,42122
+MNT_001140,ATM_065,2024-03-27 13:57:44,Preventive,,ENG_20,Network settings verified. Response time within SLA.,1.4,1893
+MNT_001141,ATM_105,2024-02-17 07:04:59,Corrective,Keypad,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,1.9,13664
+MNT_001142,ATM_140,2024-01-10 04:55:04,Corrective,Dispenser Module,ENG_14,Error log cleared. Defective part replaced.,6.4,21138
+MNT_001143,ATM_161,2024-04-02 11:23:50,Emergency,Keypad,ENG_17,Urgent replacement of failed component. Downtime minimised.,5.7,41713
+MNT_001144,ATM_133,2024-02-29 10:06:15,Preventive,,ENG_01,Preventive maintenance done. All components operational.,3.0,2504
+MNT_001145,ATM_027,2024-02-28 16:23:13,Corrective,,ENG_07,Faulty unit removed and replaced. Tested post-installation.,4.7,13046
+MNT_001146,ATM_029,2024-04-02 23:19:43,Preventive,,ENG_15,Cash cassette cleaned and refilled. Software updated.,8.0,4731
+MNT_001147,ATM_051,2024-03-13 18:41:51,Corrective,Cash Cassette,ENG_10,Error log cleared. Defective part replaced.,0.6,19345
+MNT_001148,ATM_060,2024-01-27 03:27:20,Preventive,,ENG_15,Routine inspection completed. No issues found.,5.0,2734
+MNT_001149,ATM_082,2024-02-17 23:25:47,Preventive,,ENG_05,Network settings verified. Response time within SLA.,5.3,3926
+MNT_001150,ATM_156,2024-04-16 15:09:54,Preventive,,ENG_20,Card reader cleaned. Firmware upgraded to latest version.,4.2,3524
+MNT_001151,ATM_050,2024-03-06 22:04:05,Corrective,,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,2.8,7560
+MNT_001152,ATM_049,2024-01-22 08:51:20,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,0.8,3858
+MNT_001153,ATM_194,2024-02-26 01:18:16,Preventive,,ENG_06,Card reader cleaned. Firmware upgraded to latest version.,7.4,4031
+MNT_001154,ATM_042,2024-03-31 19:09:36,Corrective,Dispenser Module,ENG_06,Faulty unit removed and replaced. Tested post-installation.,0.7,19192
+MNT_001155,ATM_087,2024-03-28 05:38:41,Corrective,,ENG_05,Intermittent failure resolved by replacing component.,4.1,17416
+MNT_001156,ATM_172,2024-02-23 17:18:06,Emergency,Keypad,ENG_10,Critical failure resolved on-site. ATM restored to service.,5.8,69264
+MNT_001157,ATM_178,2024-01-17 09:00:23,Corrective,,ENG_16,Component replaced after failure detected during monitoring.,4.9,7228
+MNT_001158,ATM_013,2024-04-30 15:30:11,Preventive,,ENG_18,Preventive maintenance done. All components operational.,7.1,4859
+MNT_001159,ATM_014,2024-01-23 21:10:51,Corrective,Cash Cassette,ENG_17,Error log cleared. Defective part replaced.,2.2,20951
+MNT_001160,ATM_004,2024-01-27 21:38:52,Preventive,,ENG_16,Routine inspection completed. No issues found.,3.3,3452
+MNT_001161,ATM_057,2024-03-19 15:06:15,Preventive,,ENG_10,Routine inspection completed. No issues found.,5.8,1968
+MNT_001162,ATM_114,2024-03-14 04:16:18,Corrective,Dispenser Module,ENG_11,Error log cleared. Defective part replaced.,1.1,11269
+MNT_001163,ATM_084,2024-02-10 11:42:09,Corrective,,ENG_08,Component replaced after failure detected during monitoring.,5.0,23791
+MNT_001164,ATM_160,2024-01-04 18:52:12,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,3.6,3806
+MNT_001165,ATM_015,2024-02-16 02:30:58,Corrective,Card Reader,ENG_07,Component replaced after failure detected during monitoring.,7.6,14013
+MNT_001166,ATM_015,2024-03-01 17:24:08,Corrective,Keypad,ENG_12,Component replaced after failure detected during monitoring.,5.2,19062
+MNT_001167,ATM_031,2024-02-15 01:01:45,Emergency,Network Module,ENG_07,Critical failure resolved on-site. ATM restored to service.,5.6,49374
+MNT_001168,ATM_123,2024-02-17 04:43:07,Corrective,Dispenser Module,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,6.6,7799
+MNT_001169,ATM_039,2024-01-03 23:02:18,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,4.0,2598
+MNT_001170,ATM_146,2024-04-23 07:10:00,Preventive,,ENG_10,Card reader cleaned. Firmware upgraded to latest version.,1.4,4083
+MNT_001171,ATM_123,2024-01-14 15:26:30,Emergency,Network Module,ENG_02,Emergency callout — ATM was completely non-operational.,6.0,63793
+MNT_001172,ATM_167,2024-03-30 04:17:54,Corrective,Network Module,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,7.5,8752
+MNT_001173,ATM_136,2024-02-15 04:21:56,Corrective,Card Reader,ENG_05,Faulty unit removed and replaced. Tested post-installation.,4.2,7421
+MNT_001174,ATM_083,2024-03-22 06:13:15,Corrective,Cash Cassette,ENG_20,Faulty unit removed and replaced. Tested post-installation.,1.5,23856
+MNT_001175,ATM_108,2024-04-25 03:34:33,Corrective,Receipt Printer,ENG_06,Error log cleared. Defective part replaced.,4.7,24418
+MNT_001176,ATM_060,2024-02-18 06:10:43,Corrective,Receipt Printer,ENG_08,Intermittent failure resolved by replacing component.,7.8,24735
+MNT_001177,ATM_139,2024-02-24 20:38:32,Emergency,Card Reader,ENG_13,Major hardware fault repaired under emergency protocol.,3.5,78136
+MNT_001178,ATM_067,2024-01-12 17:09:07,Preventive,,ENG_18,Network settings verified. Response time within SLA.,3.9,2494
+MNT_001179,ATM_042,2024-03-17 22:36:17,Emergency,Cash Cassette,ENG_04,Urgent replacement of failed component. Downtime minimised.,1.9,62676
+MNT_001180,ATM_027,2024-04-21 22:34:34,Corrective,Network Module,ENG_04,Root cause identified as hardware wear. Replaced accordingly.,7.7,13691
+MNT_001181,ATM_186,2024-02-09 08:34:24,Emergency,Receipt Printer,ENG_07,Critical failure resolved on-site. ATM restored to service.,5.6,44964
+MNT_001182,ATM_161,2024-04-09 03:59:49,Emergency,,ENG_20,Emergency callout — ATM was completely non-operational.,7.5,61227
+MNT_001183,ATM_031,2024-03-30 14:19:13,Preventive,,ENG_03,Routine inspection completed. No issues found.,1.4,2188
+MNT_001184,ATM_181,2024-02-25 15:43:25,Preventive,,ENG_04,Routine inspection completed. No issues found.,3.3,4920
+MNT_001185,ATM_126,2024-04-13 00:14:40,Preventive,,ENG_04,Network settings verified. Response time within SLA.,4.5,3328
+MNT_001186,ATM_095,2024-01-18 02:36:50,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,2.3,4574
+MNT_001187,ATM_103,2024-04-09 18:51:41,Corrective,Cash Cassette,ENG_14,Intermittent failure resolved by replacing component.,5.5,22004
+MNT_001188,ATM_108,2024-01-08 13:23:21,Preventive,,ENG_13,Network settings verified. Response time within SLA.,1.5,4382
+MNT_001189,ATM_070,2024-03-17 03:19:53,Corrective,Receipt Printer,ENG_02,Intermittent failure resolved by replacing component.,2.7,6234
+MNT_001190,ATM_099,2024-03-23 11:32:39,Preventive,,ENG_13,Network settings verified. Response time within SLA.,1.3,2048
+MNT_001191,ATM_043,2024-02-15 11:10:44,Emergency,Card Reader,ENG_13,Emergency maintenance done. Escalated to vendor for follow-up.,3.7,63238
+MNT_001192,ATM_040,2024-01-20 06:14:00,Preventive,,ENG_08,Card reader cleaned. Firmware upgraded to latest version.,2.6,2534
+MNT_001193,ATM_012,2024-01-06 17:10:07,Preventive,,ENG_18,Card reader cleaned. Firmware upgraded to latest version.,7.9,1657
+MNT_001194,ATM_180,2024-04-25 22:56:37,Preventive,,ENG_14,Network settings verified. Response time within SLA.,5.0,1221
+MNT_001195,ATM_167,2024-02-15 19:02:46,Corrective,Network Module,ENG_09,Component replaced after failure detected during monitoring.,3.9,13281
+MNT_001196,ATM_049,2024-01-19 18:27:19,Corrective,Network Module,ENG_12,Intermittent failure resolved by replacing component.,3.1,22015
+MNT_001197,ATM_125,2024-03-20 23:23:56,Preventive,,ENG_10,Preventive maintenance done. All components operational.,0.7,3238
+MNT_001198,ATM_151,2024-04-17 01:44:34,Corrective,Receipt Printer,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,3.9,6527
+MNT_001199,ATM_053,2024-04-18 12:00:01,Corrective,Dispenser Module,ENG_13,Error log cleared. Defective part replaced.,4.8,6355
+MNT_001200,ATM_065,2024-03-04 21:56:44,Corrective,Card Reader,ENG_06,Faulty unit removed and replaced. Tested post-installation.,7.3,13891
+MNT_001201,ATM_079,2024-01-10 10:58:06,Emergency,,ENG_01,Emergency callout — ATM was completely non-operational.,1.9,43816
+MNT_001202,ATM_182,2024-03-20 22:07:18,Emergency,Receipt Printer,ENG_14,Emergency callout — ATM was completely non-operational.,5.4,60856
+MNT_001203,ATM_056,2024-03-30 04:03:42,Corrective,Receipt Printer,ENG_04,Component replaced after failure detected during monitoring.,3.0,13442
+MNT_001204,ATM_015,2024-04-09 06:38:07,Preventive,,ENG_20,Routine inspection completed. No issues found.,1.6,3203
+MNT_001205,ATM_139,2024-03-08 15:20:17,Corrective,Dispenser Module,ENG_13,Component replaced after failure detected during monitoring.,2.5,5771
+MNT_001206,ATM_156,2024-04-18 18:25:53,Preventive,,ENG_18,Routine inspection completed. No issues found.,3.7,2793
+MNT_001207,ATM_001,2024-01-30 07:42:26,Corrective,Cash Cassette,ENG_02,Faulty unit removed and replaced. Tested post-installation.,3.8,21626
+MNT_001208,ATM_032,2024-02-13 23:35:33,Preventive,,ENG_12,Preventive maintenance done. All components operational.,3.4,1589
+MNT_001209,ATM_181,2024-01-27 16:49:59,Emergency,Dispenser Module,ENG_08,Urgent replacement of failed component. Downtime minimised.,2.3,50756
+MNT_001210,ATM_165,2024-01-29 02:18:33,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,3.9,1010
+MNT_001211,ATM_153,2024-04-29 04:44:34,Corrective,Keypad,ENG_07,Component replaced after failure detected during monitoring.,0.9,19986
+MNT_001212,ATM_015,2024-03-10 02:08:26,Corrective,Dispenser Module,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,4.6,12110
+MNT_001213,ATM_057,2024-02-14 22:05:41,Corrective,Receipt Printer,ENG_04,Error log cleared. Defective part replaced.,2.5,8084
+MNT_001214,ATM_007,2024-03-09 08:35:53,Emergency,Card Reader,ENG_16,Urgent replacement of failed component. Downtime minimised.,1.7,61691
+MNT_001215,ATM_123,2024-04-04 03:32:18,Corrective,Keypad,ENG_20,Component replaced after failure detected during monitoring.,3.6,14319
+MNT_001216,ATM_085,2024-04-25 18:50:03,Preventive,,ENG_05,Routine inspection completed. No issues found.,1.0,1375
+MNT_001217,ATM_150,2024-03-24 10:40:42,Corrective,Keypad,ENG_10,Intermittent failure resolved by replacing component.,6.7,21494
+MNT_001218,ATM_092,2024-03-12 07:59:04,Corrective,Cash Cassette,ENG_04,Faulty unit removed and replaced. Tested post-installation.,2.3,19730
+MNT_001219,ATM_049,2024-04-18 00:00:59,Corrective,Receipt Printer,ENG_08,Faulty unit removed and replaced. Tested post-installation.,5.4,24529
+MNT_001220,ATM_077,2024-04-08 02:29:43,Emergency,Keypad,ENG_06,Urgent replacement of failed component. Downtime minimised.,2.0,33835
+MNT_001221,ATM_126,2024-02-04 06:27:02,Corrective,Receipt Printer,ENG_01,Root cause identified as hardware wear. Replaced accordingly.,0.6,8013
+MNT_001222,ATM_141,2024-03-15 23:36:30,Emergency,,ENG_06,Emergency callout — ATM was completely non-operational.,5.2,34482
+MNT_001223,ATM_123,2024-03-26 22:18:10,Emergency,Network Module,ENG_03,Major hardware fault repaired under emergency protocol.,3.7,77188
+MNT_001224,ATM_157,2024-04-17 16:29:40,Emergency,Network Module,ENG_16,Emergency callout — ATM was completely non-operational.,7.6,69381
+MNT_001225,ATM_088,2024-02-13 20:02:45,Corrective,Cash Cassette,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,2.6,20965
+MNT_001226,ATM_167,2024-04-14 05:34:26,Emergency,Dispenser Module,ENG_19,Major hardware fault repaired under emergency protocol.,3.3,42803
+MNT_001227,ATM_015,2024-03-02 11:28:04,Preventive,,ENG_10,Network settings verified. Response time within SLA.,4.1,3547
+MNT_001228,ATM_058,2024-02-01 18:35:02,Corrective,Keypad,ENG_19,Faulty unit removed and replaced. Tested post-installation.,3.9,18254
+MNT_001229,ATM_086,2024-04-29 06:58:16,Corrective,Keypad,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,2.1,20110
+MNT_001230,ATM_194,2024-01-26 22:20:40,Preventive,,ENG_02,Cash cassette cleaned and refilled. Software updated.,5.6,2113
+MNT_001231,ATM_111,2024-01-07 21:31:51,Emergency,Cash Cassette,ENG_05,Emergency maintenance done. Escalated to vendor for follow-up.,1.8,40727
+MNT_001232,ATM_184,2024-03-06 09:57:47,Emergency,Network Module,ENG_09,Emergency callout — ATM was completely non-operational.,2.9,57409
+MNT_001233,ATM_123,2024-04-30 11:51:38,Corrective,Receipt Printer,ENG_04,Intermittent failure resolved by replacing component.,7.8,7471
+MNT_001234,ATM_156,2024-04-14 03:15:18,Corrective,Dispenser Module,ENG_14,Component replaced after failure detected during monitoring.,2.0,10107
+MNT_001235,ATM_004,2024-02-03 15:21:19,Preventive,,ENG_05,Routine inspection completed. No issues found.,6.3,3968
+MNT_001236,ATM_123,2024-03-19 16:41:58,Corrective,Receipt Printer,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,7.0,24292
+MNT_001237,ATM_182,2024-02-07 20:10:10,Preventive,,ENG_14,Network settings verified. Response time within SLA.,3.0,4192
+MNT_001238,ATM_027,2024-03-05 00:14:29,Corrective,Network Module,ENG_09,Error log cleared. Defective part replaced.,8.0,5712
+MNT_001239,ATM_182,2024-02-22 18:09:42,Corrective,Keypad,ENG_02,Intermittent failure resolved by replacing component.,0.6,20475
+MNT_001240,ATM_005,2024-02-01 13:02:11,Preventive,,ENG_07,Network settings verified. Response time within SLA.,6.6,3086
+MNT_001241,ATM_123,2024-02-28 13:23:36,Corrective,Dispenser Module,ENG_10,Intermittent failure resolved by replacing component.,5.5,13824
+MNT_001242,ATM_056,2024-04-29 03:12:06,Corrective,Dispenser Module,ENG_02,Component replaced after failure detected during monitoring.,2.0,24767
+MNT_001243,ATM_092,2024-03-24 10:59:44,Preventive,,ENG_08,Card reader cleaned. Firmware upgraded to latest version.,7.8,1579
+MNT_001244,ATM_104,2024-04-30 23:13:44,Preventive,,ENG_12,Network settings verified. Response time within SLA.,5.6,1329
+MNT_001245,ATM_081,2024-04-16 15:53:51,Preventive,,ENG_15,Routine inspection completed. No issues found.,6.5,4532
+MNT_001246,ATM_180,2024-04-29 14:06:10,Corrective,Network Module,ENG_02,Error log cleared. Defective part replaced.,1.0,16419
+MNT_001247,ATM_043,2024-02-08 09:04:59,Corrective,Network Module,ENG_05,Intermittent failure resolved by replacing component.,1.3,13101
+MNT_001248,ATM_144,2024-03-23 01:46:43,Corrective,Receipt Printer,ENG_09,Intermittent failure resolved by replacing component.,1.6,20216
+MNT_001249,ATM_156,2024-01-23 04:59:45,Emergency,,ENG_01,Major hardware fault repaired under emergency protocol.,5.4,62314
+MNT_001250,ATM_075,2024-04-26 22:24:43,Corrective,Dispenser Module,ENG_19,Faulty unit removed and replaced. Tested post-installation.,6.8,13045
+MNT_001251,ATM_015,2024-01-27 19:50:56,Preventive,,ENG_16,Preventive maintenance done. All components operational.,7.3,3983
+MNT_001252,ATM_091,2024-02-06 07:55:09,Emergency,Network Module,ENG_05,Critical failure resolved on-site. ATM restored to service.,6.6,76498
+MNT_001253,ATM_188,2024-02-05 04:55:54,Preventive,,ENG_12,Preventive maintenance done. All components operational.,7.2,1937
+MNT_001254,ATM_023,2024-04-10 10:36:50,Corrective,Card Reader,ENG_16,Root cause identified as hardware wear. Replaced accordingly.,5.6,9926
+MNT_001255,ATM_015,2024-03-10 00:31:59,Corrective,Network Module,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,2.4,17424
+MNT_001256,ATM_117,2024-03-24 22:44:36,Corrective,Network Module,ENG_19,Faulty unit removed and replaced. Tested post-installation.,2.6,23849
+MNT_001257,ATM_094,2024-03-02 04:45:29,Corrective,Receipt Printer,ENG_11,Faulty unit removed and replaced. Tested post-installation.,3.2,19393
+MNT_001258,ATM_088,2024-02-16 14:08:04,Preventive,,ENG_20,Preventive maintenance done. All components operational.,3.1,1572
+MNT_001259,ATM_045,2024-01-06 04:26:29,Corrective,Network Module,ENG_09,Root cause identified as hardware wear. Replaced accordingly.,2.6,20016
+MNT_001260,ATM_132,2024-03-25 07:30:11,Preventive,,ENG_08,Cash cassette cleaned and refilled. Software updated.,4.4,4668
+MNT_001261,ATM_008,2024-03-05 20:38:20,Corrective,Receipt Printer,ENG_12,Component replaced after failure detected during monitoring.,4.3,8493
+MNT_001262,ATM_087,2024-04-26 01:30:13,Preventive,,ENG_20,Cash cassette cleaned and refilled. Software updated.,1.6,3343
+MNT_001263,ATM_086,2024-03-15 18:55:21,Emergency,,ENG_03,Major hardware fault repaired under emergency protocol.,2.0,70421
+MNT_001264,ATM_100,2024-01-28 00:52:12,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,2.5,4872
+MNT_001265,ATM_188,2024-02-05 08:40:37,Corrective,Receipt Printer,ENG_14,Component replaced after failure detected during monitoring.,2.9,20391
+MNT_001266,ATM_041,2024-01-22 01:50:38,Preventive,,ENG_02,Preventive maintenance done. All components operational.,3.0,4318
+MNT_001267,ATM_174,2024-02-26 23:18:52,Preventive,,ENG_10,Network settings verified. Response time within SLA.,4.0,4556
+MNT_001268,ATM_070,2024-04-02 23:45:04,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,1.7,1866
+MNT_001269,ATM_104,2024-01-19 08:48:37,Corrective,Dispenser Module,ENG_04,Faulty unit removed and replaced. Tested post-installation.,4.7,5799
+MNT_001270,ATM_051,2024-02-22 01:25:23,Emergency,Dispenser Module,ENG_04,Urgent replacement of failed component. Downtime minimised.,6.9,32575
+MNT_001271,ATM_106,2024-02-26 02:19:11,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,3.3,4906
+MNT_001272,ATM_121,2024-04-03 14:11:41,Preventive,,ENG_04,Preventive maintenance done. All components operational.,3.9,3425
+MNT_001273,ATM_086,2024-01-19 23:11:47,Corrective,,ENG_18,Error log cleared. Defective part replaced.,7.9,5262
+MNT_001274,ATM_027,2024-01-26 19:53:33,Emergency,,ENG_02,Critical failure resolved on-site. ATM restored to service.,5.4,62477
+MNT_001275,ATM_123,2024-02-17 22:38:49,Corrective,,ENG_02,Root cause identified as hardware wear. Replaced accordingly.,5.8,12570
+MNT_001276,ATM_156,2024-03-01 19:43:10,Corrective,Cash Cassette,ENG_14,Error log cleared. Defective part replaced.,1.4,18541
+MNT_001277,ATM_123,2024-02-04 14:54:35,Corrective,Network Module,ENG_18,Component replaced after failure detected during monitoring.,1.9,6009
+MNT_001278,ATM_045,2024-04-21 01:52:41,Corrective,,ENG_12,Error log cleared. Defective part replaced.,7.7,24907
+MNT_001279,ATM_186,2024-04-26 00:48:19,Preventive,,ENG_02,Card reader cleaned. Firmware upgraded to latest version.,4.2,4033
+MNT_001280,ATM_041,2024-04-18 09:41:01,Corrective,,ENG_08,Component replaced after failure detected during monitoring.,6.1,7115
+MNT_001281,ATM_083,2024-01-08 20:51:11,Corrective,Card Reader,ENG_02,Root cause identified as hardware wear. Replaced accordingly.,5.8,10254
+MNT_001282,ATM_155,2024-03-29 07:36:15,Emergency,Card Reader,ENG_12,Urgent replacement of failed component. Downtime minimised.,2.9,44419
+MNT_001283,ATM_159,2024-01-21 16:01:27,Corrective,,ENG_04,Error log cleared. Defective part replaced.,7.1,7574
+MNT_001284,ATM_071,2024-02-14 07:01:44,Corrective,Card Reader,ENG_19,Faulty unit removed and replaced. Tested post-installation.,7.1,7662
+MNT_001285,ATM_107,2024-02-11 06:22:49,Corrective,Network Module,ENG_06,Intermittent failure resolved by replacing component.,6.0,11962
+MNT_001286,ATM_089,2024-01-27 06:39:25,Preventive,,ENG_03,Network settings verified. Response time within SLA.,2.6,2840
+MNT_001287,ATM_199,2024-03-28 01:12:13,Preventive,,ENG_06,Preventive maintenance done. All components operational.,5.2,1857
+MNT_001288,ATM_153,2024-03-26 14:14:08,Corrective,Network Module,ENG_20,Error log cleared. Defective part replaced.,6.8,13059
+MNT_001289,ATM_162,2024-04-13 07:21:37,Preventive,,ENG_09,Network settings verified. Response time within SLA.,1.0,1929
+MNT_001290,ATM_196,2024-02-16 21:07:57,Corrective,Keypad,ENG_19,Intermittent failure resolved by replacing component.,6.3,17800
+MNT_001291,ATM_181,2024-02-17 13:05:30,Preventive,,ENG_04,Card reader cleaned. Firmware upgraded to latest version.,5.4,4086
+MNT_001292,ATM_183,2024-04-16 12:28:15,Emergency,Network Module,ENG_03,Major hardware fault repaired under emergency protocol.,5.1,43327
+MNT_001293,ATM_128,2024-04-25 23:04:44,Emergency,Receipt Printer,ENG_15,Urgent replacement of failed component. Downtime minimised.,6.6,49807
+MNT_001294,ATM_167,2024-03-16 08:05:12,Corrective,Card Reader,ENG_13,Faulty unit removed and replaced. Tested post-installation.,5.5,16245
+MNT_001295,ATM_145,2024-02-21 03:39:38,Preventive,,ENG_15,Network settings verified. Response time within SLA.,5.8,3237
+MNT_001296,ATM_151,2024-01-19 12:36:58,Preventive,,ENG_03,Preventive maintenance done. All components operational.,1.0,3095
+MNT_001297,ATM_030,2024-04-08 11:07:08,Emergency,Keypad,ENG_16,Emergency maintenance done. Escalated to vendor for follow-up.,4.1,69131
+MNT_001298,ATM_165,2024-04-25 18:41:53,Corrective,Receipt Printer,ENG_16,Intermittent failure resolved by replacing component.,4.5,9006
+MNT_001299,ATM_080,2024-03-06 05:22:42,Preventive,,ENG_16,Network settings verified. Response time within SLA.,2.8,2528
+MNT_001300,ATM_062,2024-02-19 23:17:00,Corrective,Keypad,ENG_03,Faulty unit removed and replaced. Tested post-installation.,6.0,5326
+MNT_001301,ATM_040,2024-01-05 23:22:08,Preventive,,ENG_19,Cash cassette cleaned and refilled. Software updated.,1.9,3890
+MNT_001302,ATM_113,2024-04-04 10:07:53,Corrective,Card Reader,ENG_04,Intermittent failure resolved by replacing component.,2.2,22868
+MNT_001303,ATM_128,2024-03-25 12:58:22,Corrective,Cash Cassette,ENG_19,Faulty unit removed and replaced. Tested post-installation.,7.1,10388
+MNT_001304,ATM_032,2024-01-03 08:18:57,Emergency,Receipt Printer,ENG_04,Urgent replacement of failed component. Downtime minimised.,7.4,42631
+MNT_001305,ATM_059,2024-04-19 01:19:49,Emergency,Network Module,ENG_05,Emergency callout — ATM was completely non-operational.,7.4,38250
+MNT_001306,ATM_137,2024-01-21 20:41:05,Corrective,Cash Cassette,ENG_01,Root cause identified as hardware wear. Replaced accordingly.,1.7,11066
+MNT_001307,ATM_005,2024-02-21 14:14:51,Emergency,,ENG_15,Emergency maintenance done. Escalated to vendor for follow-up.,2.3,35254
+MNT_001308,ATM_179,2024-04-26 09:33:31,Corrective,Keypad,ENG_07,Error log cleared. Defective part replaced.,3.2,7720
+MNT_001309,ATM_056,2024-03-09 02:30:25,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,6.9,1917
+MNT_001310,ATM_003,2024-01-10 07:17:08,Preventive,,ENG_07,Routine inspection completed. No issues found.,2.4,1456
+MNT_001311,ATM_066,2024-03-13 07:12:55,Corrective,Card Reader,ENG_11,Faulty unit removed and replaced. Tested post-installation.,7.2,15916
+MNT_001312,ATM_073,2024-03-02 18:36:43,Corrective,Cash Cassette,ENG_04,Intermittent failure resolved by replacing component.,4.4,24842
+MNT_001313,ATM_166,2024-02-29 22:24:21,Corrective,Card Reader,ENG_08,Component replaced after failure detected during monitoring.,1.5,5823
+MNT_001314,ATM_068,2024-01-30 11:03:55,Corrective,Keypad,ENG_13,Error log cleared. Defective part replaced.,5.0,5361
+MNT_001315,ATM_087,2024-02-01 14:28:25,Corrective,Dispenser Module,ENG_01,Error log cleared. Defective part replaced.,4.0,17576
+MNT_001316,ATM_180,2024-03-16 12:19:55,Corrective,,ENG_09,Intermittent failure resolved by replacing component.,4.8,14667
+MNT_001317,ATM_034,2024-03-02 03:36:03,Emergency,Cash Cassette,ENG_03,Emergency callout — ATM was completely non-operational.,5.2,38054
+MNT_001318,ATM_086,2024-03-26 13:07:14,Corrective,Receipt Printer,ENG_15,Faulty unit removed and replaced. Tested post-installation.,2.9,14164
+MNT_001319,ATM_028,2024-04-13 11:52:48,Preventive,,ENG_04,Cash cassette cleaned and refilled. Software updated.,3.3,3829
+MNT_001320,ATM_132,2024-01-01 06:55:15,Corrective,Card Reader,ENG_14,Component replaced after failure detected during monitoring.,6.8,8508
+MNT_001321,ATM_156,2024-03-01 10:23:45,Corrective,Dispenser Module,ENG_17,Faulty unit removed and replaced. Tested post-installation.,6.0,16851
+MNT_001322,ATM_118,2024-03-24 15:47:15,Preventive,,ENG_05,Routine inspection completed. No issues found.,5.1,4043
+MNT_001323,ATM_131,2024-01-20 20:28:44,Emergency,Network Module,ENG_16,Urgent replacement of failed component. Downtime minimised.,5.1,71841
+MNT_001324,ATM_015,2024-03-14 13:01:01,Preventive,,ENG_13,Preventive maintenance done. All components operational.,5.3,3117
+MNT_001325,ATM_199,2024-01-30 00:21:38,Preventive,,ENG_11,Card reader cleaned. Firmware upgraded to latest version.,0.8,3036
+MNT_001326,ATM_066,2024-01-05 15:23:21,Preventive,,ENG_11,Network settings verified. Response time within SLA.,6.4,4759
+MNT_001327,ATM_156,2024-02-21 19:31:53,Corrective,Card Reader,ENG_18,Faulty unit removed and replaced. Tested post-installation.,1.5,19933
+MNT_001328,ATM_099,2024-01-05 12:55:17,Corrective,Cash Cassette,ENG_15,Component replaced after failure detected during monitoring.,3.8,20030
+MNT_001329,ATM_192,2024-02-13 22:55:53,Preventive,,ENG_10,Routine inspection completed. No issues found.,7.2,1639
+MNT_001330,ATM_118,2024-02-14 06:50:41,Corrective,Receipt Printer,ENG_19,Error log cleared. Defective part replaced.,2.9,24152
+MNT_001331,ATM_144,2024-03-27 00:43:46,Preventive,,ENG_14,Network settings verified. Response time within SLA.,6.8,1655
+MNT_001332,ATM_017,2024-01-20 15:42:08,Corrective,Cash Cassette,ENG_03,Intermittent failure resolved by replacing component.,7.4,9759
+MNT_001333,ATM_032,2024-02-12 23:46:20,Emergency,Keypad,ENG_09,Major hardware fault repaired under emergency protocol.,5.7,48142
+MNT_001334,ATM_020,2024-02-11 05:13:40,Preventive,,ENG_05,Network settings verified. Response time within SLA.,7.2,2450
+MNT_001335,ATM_197,2024-04-16 04:02:58,Corrective,Dispenser Module,ENG_08,Intermittent failure resolved by replacing component.,5.7,21399
+MNT_001336,ATM_015,2024-03-09 16:27:43,Preventive,,ENG_03,Cash cassette cleaned and refilled. Software updated.,1.9,3851
+MNT_001337,ATM_156,2024-03-05 19:13:31,Corrective,Card Reader,ENG_05,Intermittent failure resolved by replacing component.,1.3,24242
+MNT_001338,ATM_007,2024-02-25 02:21:12,Corrective,Network Module,ENG_10,Error log cleared. Defective part replaced.,2.7,17548
+MNT_001339,ATM_124,2024-03-03 10:21:27,Corrective,Keypad,ENG_11,Faulty unit removed and replaced. Tested post-installation.,1.7,8167
+MNT_001340,ATM_092,2024-03-29 10:49:06,Preventive,,ENG_18,Preventive maintenance done. All components operational.,0.9,1513
+MNT_001341,ATM_089,2024-03-22 01:03:32,Corrective,Card Reader,ENG_17,Intermittent failure resolved by replacing component.,7.3,17303
+MNT_001342,ATM_052,2024-02-20 05:04:36,Corrective,Receipt Printer,ENG_01,Intermittent failure resolved by replacing component.,1.0,17266
+MNT_001343,ATM_139,2024-02-18 23:35:41,Corrective,Receipt Printer,ENG_04,Component replaced after failure detected during monitoring.,1.0,14827
+MNT_001344,ATM_042,2024-02-03 07:05:27,Corrective,Keypad,ENG_14,Root cause identified as hardware wear. Replaced accordingly.,2.5,18291
+MNT_001345,ATM_139,2024-03-22 22:24:27,Preventive,,ENG_20,Routine inspection completed. No issues found.,6.2,1924
+MNT_001346,ATM_051,2024-04-06 21:32:17,Preventive,,ENG_06,Preventive maintenance done. All components operational.,4.7,2753
+MNT_001347,ATM_098,2024-01-04 01:33:41,Preventive,,ENG_03,Cash cassette cleaned and refilled. Software updated.,7.2,3408
+MNT_001348,ATM_009,2024-03-29 19:23:35,Corrective,Receipt Printer,ENG_08,Intermittent failure resolved by replacing component.,4.2,13303
+MNT_001349,ATM_106,2024-01-30 12:30:42,Preventive,,ENG_06,Routine inspection completed. No issues found.,5.6,2572
+MNT_001350,ATM_150,2024-03-21 16:12:24,Emergency,Card Reader,ENG_19,Urgent replacement of failed component. Downtime minimised.,2.9,71530
+MNT_001351,ATM_004,2024-01-04 12:02:26,Preventive,,ENG_09,Routine inspection completed. No issues found.,5.6,4002
+MNT_001352,ATM_140,2024-03-26 20:14:46,Emergency,Keypad,ENG_09,Urgent replacement of failed component. Downtime minimised.,2.2,63434
+MNT_001353,ATM_127,2024-04-05 20:16:59,Preventive,,ENG_13,Preventive maintenance done. All components operational.,0.8,4146
+MNT_001354,ATM_109,2024-02-04 11:41:06,Corrective,Dispenser Module,ENG_11,Faulty unit removed and replaced. Tested post-installation.,5.1,9083
+MNT_001355,ATM_043,2024-01-10 01:40:55,Corrective,Dispenser Module,ENG_12,Component replaced after failure detected during monitoring.,1.3,17794
+MNT_001356,ATM_059,2024-02-24 15:17:25,Emergency,Dispenser Module,ENG_15,Urgent replacement of failed component. Downtime minimised.,2.5,52764
+MNT_001357,ATM_042,2024-01-26 16:28:07,Preventive,,ENG_05,Routine inspection completed. No issues found.,3.4,1880
+MNT_001358,ATM_046,2024-03-15 05:22:13,Corrective,Card Reader,ENG_19,Intermittent failure resolved by replacing component.,6.7,13359
+MNT_001359,ATM_138,2024-02-04 04:06:04,Preventive,,ENG_14,Network settings verified. Response time within SLA.,0.7,2104
+MNT_001360,ATM_180,2024-03-26 00:20:19,Preventive,,ENG_14,Routine inspection completed. No issues found.,6.4,1533
+MNT_001361,ATM_166,2024-02-24 16:26:19,Preventive,,ENG_10,Preventive maintenance done. All components operational.,1.6,1329
+MNT_001362,ATM_101,2024-02-25 20:41:40,Corrective,Network Module,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,4.1,7872
+MNT_001363,ATM_140,2024-02-13 21:29:38,Corrective,Receipt Printer,ENG_09,Faulty unit removed and replaced. Tested post-installation.,7.5,17153
+MNT_001364,ATM_156,2024-04-17 19:08:20,Preventive,,ENG_10,Card reader cleaned. Firmware upgraded to latest version.,6.9,2086
+MNT_001365,ATM_168,2024-01-23 06:19:13,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,1.0,4519
+MNT_001366,ATM_087,2024-02-16 16:03:58,Preventive,,ENG_02,Preventive maintenance done. All components operational.,1.1,2014
+MNT_001367,ATM_142,2024-02-05 20:57:27,Corrective,Cash Cassette,ENG_16,Error log cleared. Defective part replaced.,3.4,15711
+MNT_001368,ATM_060,2024-01-15 17:40:08,Corrective,Dispenser Module,ENG_16,Intermittent failure resolved by replacing component.,6.7,21386
+MNT_001369,ATM_069,2024-02-10 19:33:33,Preventive,,ENG_15,Cash cassette cleaned and refilled. Software updated.,2.5,2209
+MNT_001370,ATM_164,2024-02-14 13:54:48,Emergency,,ENG_19,Critical failure resolved on-site. ATM restored to service.,5.0,47532
+MNT_001371,ATM_128,2024-03-13 19:01:18,Preventive,,ENG_09,Preventive maintenance done. All components operational.,5.5,4280
+MNT_001372,ATM_152,2024-04-16 03:08:49,Corrective,Receipt Printer,ENG_04,Root cause identified as hardware wear. Replaced accordingly.,4.2,13582
+MNT_001373,ATM_008,2024-01-08 17:54:07,Corrective,Keypad,ENG_11,Faulty unit removed and replaced. Tested post-installation.,5.5,14638
+MNT_001374,ATM_200,2024-01-27 04:47:13,Corrective,,ENG_13,Component replaced after failure detected during monitoring.,1.9,6609
+MNT_001375,ATM_057,2024-01-20 14:25:23,Preventive,,ENG_06,Preventive maintenance done. All components operational.,3.6,1685
+MNT_001376,ATM_122,2024-04-24 09:16:03,Preventive,,ENG_16,Preventive maintenance done. All components operational.,6.2,1300
+MNT_001377,ATM_116,2024-03-25 11:16:37,Corrective,Cash Cassette,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,4.1,15196
+MNT_001378,ATM_156,2024-01-23 13:14:41,Preventive,,ENG_18,Cash cassette cleaned and refilled. Software updated.,4.8,2768
+MNT_001379,ATM_048,2024-03-11 12:23:24,Corrective,,ENG_08,Component replaced after failure detected during monitoring.,0.9,22699
+MNT_001380,ATM_087,2024-01-09 15:12:19,Preventive,,ENG_15,Network settings verified. Response time within SLA.,4.4,4946
+MNT_001381,ATM_162,2024-01-24 12:18:33,Preventive,,ENG_12,Network settings verified. Response time within SLA.,4.0,1635
+MNT_001382,ATM_181,2024-04-11 07:43:52,Preventive,,ENG_07,Card reader cleaned. Firmware upgraded to latest version.,6.3,4833
+MNT_001383,ATM_047,2024-04-26 14:43:10,Emergency,Network Module,ENG_20,Emergency maintenance done. Escalated to vendor for follow-up.,3.7,48753
+MNT_001384,ATM_200,2024-02-15 22:00:32,Corrective,Receipt Printer,ENG_08,Intermittent failure resolved by replacing component.,4.0,14354
+MNT_001385,ATM_136,2024-01-10 17:48:56,Preventive,,ENG_17,Card reader cleaned. Firmware upgraded to latest version.,0.9,1602
+MNT_001386,ATM_015,2024-02-21 01:24:30,Preventive,,ENG_13,Network settings verified. Response time within SLA.,3.5,4586
+MNT_001387,ATM_150,2024-03-19 04:23:44,Preventive,,ENG_02,Preventive maintenance done. All components operational.,3.5,2771
+MNT_001388,ATM_149,2024-04-09 16:15:24,Corrective,Cash Cassette,ENG_04,Faulty unit removed and replaced. Tested post-installation.,5.8,21014
+MNT_001389,ATM_004,2024-03-31 16:10:54,Corrective,Network Module,ENG_02,Intermittent failure resolved by replacing component.,7.7,7648
+MNT_001390,ATM_178,2024-03-25 03:31:36,Corrective,Keypad,ENG_14,Component replaced after failure detected during monitoring.,7.8,7324
+MNT_001391,ATM_151,2024-03-31 18:47:05,Corrective,Network Module,ENG_02,Component replaced after failure detected during monitoring.,2.8,9344
+MNT_001392,ATM_103,2024-02-13 00:41:52,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,0.8,2951
+MNT_001393,ATM_087,2024-01-10 12:46:32,Corrective,Card Reader,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,3.1,18121
+MNT_001394,ATM_177,2024-02-04 13:20:38,Corrective,Card Reader,ENG_05,Error log cleared. Defective part replaced.,1.3,16090
+MNT_001395,ATM_061,2024-02-04 22:52:41,Corrective,Dispenser Module,ENG_20,Error log cleared. Defective part replaced.,1.8,14195
+MNT_001396,ATM_022,2024-02-10 07:19:28,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,4.2,3096
+MNT_001397,ATM_084,2024-03-16 01:51:21,Corrective,Dispenser Module,ENG_09,Intermittent failure resolved by replacing component.,7.0,8526
+MNT_001398,ATM_172,2024-04-19 11:41:40,Preventive,,ENG_16,Cash cassette cleaned and refilled. Software updated.,4.8,1308
+MNT_001399,ATM_169,2024-02-21 18:35:03,Preventive,,ENG_17,Cash cassette cleaned and refilled. Software updated.,1.8,2515
+MNT_001400,ATM_039,2024-01-31 02:23:03,Corrective,Dispenser Module,ENG_03,Component replaced after failure detected during monitoring.,1.4,11974
+MNT_001401,ATM_019,2024-03-03 15:45:37,Corrective,Cash Cassette,ENG_03,Faulty unit removed and replaced. Tested post-installation.,0.7,5123
+MNT_001402,ATM_066,2024-03-18 17:05:27,Preventive,,ENG_04,Routine inspection completed. No issues found.,2.9,1975
+MNT_001403,ATM_012,2024-04-22 06:36:26,Preventive,,ENG_05,Cash cassette cleaned and refilled. Software updated.,2.4,1187
+MNT_001404,ATM_180,2024-02-09 00:46:27,Corrective,Receipt Printer,ENG_06,Intermittent failure resolved by replacing component.,2.2,22861
+MNT_001405,ATM_014,2024-04-17 12:13:11,Preventive,,ENG_12,Cash cassette cleaned and refilled. Software updated.,4.3,4193
+MNT_001406,ATM_052,2024-02-26 08:55:10,Corrective,,ENG_03,Component replaced after failure detected during monitoring.,1.7,12143
+MNT_001407,ATM_051,2024-03-15 14:22:03,Corrective,Receipt Printer,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,2.5,7539
+MNT_001408,ATM_169,2024-01-07 02:43:16,Corrective,Card Reader,ENG_15,Root cause identified as hardware wear. Replaced accordingly.,5.0,12917
+MNT_001409,ATM_081,2024-03-11 22:01:57,Emergency,Network Module,ENG_12,Major hardware fault repaired under emergency protocol.,2.8,31872
+MNT_001410,ATM_017,2024-03-17 06:14:39,Corrective,,ENG_19,Faulty unit removed and replaced. Tested post-installation.,7.6,10408
+MNT_001411,ATM_118,2024-03-04 23:19:38,Preventive,,ENG_14,Routine inspection completed. No issues found.,7.6,3994
+MNT_001412,ATM_079,2024-03-17 17:56:29,Emergency,Network Module,ENG_05,Emergency maintenance done. Escalated to vendor for follow-up.,1.2,42973
+MNT_001413,ATM_063,2024-04-17 08:06:37,Corrective,,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,6.1,7202
+MNT_001414,ATM_059,2024-04-02 13:54:30,Preventive,,ENG_03,Card reader cleaned. Firmware upgraded to latest version.,4.0,3693
+MNT_001415,ATM_011,2024-04-15 10:25:14,Corrective,Dispenser Module,ENG_07,Intermittent failure resolved by replacing component.,2.2,21526
+MNT_001416,ATM_051,2024-01-07 07:30:56,Corrective,Cash Cassette,ENG_04,Error log cleared. Defective part replaced.,6.1,19204
+MNT_001417,ATM_152,2024-02-01 02:56:08,Corrective,Cash Cassette,ENG_19,Faulty unit removed and replaced. Tested post-installation.,7.1,15286
+MNT_001418,ATM_036,2024-01-01 08:24:15,Corrective,,ENG_03,Faulty unit removed and replaced. Tested post-installation.,0.8,19483
+MNT_001419,ATM_048,2024-02-07 12:50:51,Preventive,,ENG_07,Preventive maintenance done. All components operational.,6.9,2264
+MNT_001420,ATM_199,2024-03-29 22:46:19,Preventive,,ENG_01,Preventive maintenance done. All components operational.,1.2,1985
+MNT_001421,ATM_041,2024-01-03 11:13:39,Emergency,Cash Cassette,ENG_01,Emergency callout — ATM was completely non-operational.,2.1,41455
+MNT_001422,ATM_156,2024-04-12 14:42:45,Corrective,Card Reader,ENG_20,Intermittent failure resolved by replacing component.,2.2,20624
+MNT_001423,ATM_112,2024-03-04 12:35:41,Corrective,Card Reader,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,2.6,22726
+MNT_001424,ATM_031,2024-03-03 09:06:10,Preventive,,ENG_12,Card reader cleaned. Firmware upgraded to latest version.,4.4,4101
+MNT_001425,ATM_120,2024-01-21 18:57:56,Preventive,,ENG_18,Card reader cleaned. Firmware upgraded to latest version.,2.1,2439
+MNT_001426,ATM_079,2024-02-17 16:56:19,Emergency,Receipt Printer,ENG_06,Emergency maintenance done. Escalated to vendor for follow-up.,0.8,69726
+MNT_001427,ATM_117,2024-02-14 05:35:07,Emergency,Receipt Printer,ENG_17,Emergency callout — ATM was completely non-operational.,2.8,40862
+MNT_001428,ATM_185,2024-04-20 18:20:22,Emergency,Network Module,ENG_13,Emergency maintenance done. Escalated to vendor for follow-up.,4.9,57369
+MNT_001429,ATM_139,2024-04-04 04:08:54,Preventive,,ENG_16,Card reader cleaned. Firmware upgraded to latest version.,4.6,4164
+MNT_001430,ATM_172,2024-02-19 23:40:53,Corrective,Dispenser Module,ENG_05,Faulty unit removed and replaced. Tested post-installation.,2.4,24860
+MNT_001431,ATM_061,2024-01-28 06:24:51,Corrective,Card Reader,ENG_06,Faulty unit removed and replaced. Tested post-installation.,4.5,17868
+MNT_001432,ATM_140,2024-03-17 12:45:25,Emergency,Network Module,ENG_09,Emergency callout — ATM was completely non-operational.,6.9,27781
+MNT_001433,ATM_001,2024-03-07 03:38:34,Preventive,,ENG_04,Network settings verified. Response time within SLA.,1.1,4195
+MNT_001434,ATM_065,2024-02-16 07:18:44,Corrective,Card Reader,ENG_06,Intermittent failure resolved by replacing component.,3.9,7879
+MNT_001435,ATM_057,2024-01-26 08:06:39,Corrective,,ENG_19,Error log cleared. Defective part replaced.,7.9,22764
+MNT_001436,ATM_049,2024-01-09 09:01:34,Emergency,Keypad,ENG_15,Emergency maintenance done. Escalated to vendor for follow-up.,4.0,77470
+MNT_001437,ATM_175,2024-02-10 04:40:30,Corrective,,ENG_17,Component replaced after failure detected during monitoring.,5.7,22795
+MNT_001438,ATM_016,2024-01-28 16:47:08,Corrective,Keypad,ENG_05,Component replaced after failure detected during monitoring.,6.3,15600
+MNT_001439,ATM_113,2024-03-29 19:12:34,Preventive,,ENG_16,Preventive maintenance done. All components operational.,3.6,4150
+MNT_001440,ATM_099,2024-02-03 19:37:06,Preventive,,ENG_03,Routine inspection completed. No issues found.,5.2,4263
+MNT_001441,ATM_172,2024-03-03 00:25:58,Corrective,Dispenser Module,ENG_16,Error log cleared. Defective part replaced.,7.4,5308
+MNT_001442,ATM_115,2024-02-16 21:04:47,Corrective,Keypad,ENG_10,Component replaced after failure detected during monitoring.,3.8,16703
+MNT_001443,ATM_156,2024-01-27 02:43:37,Preventive,,ENG_18,Preventive maintenance done. All components operational.,4.4,2128
+MNT_001444,ATM_072,2024-01-31 10:41:06,Corrective,Card Reader,ENG_06,Error log cleared. Defective part replaced.,6.1,20036
+MNT_001445,ATM_044,2024-01-10 03:53:05,Corrective,Card Reader,ENG_11,Error log cleared. Defective part replaced.,5.6,12228
+MNT_001446,ATM_089,2024-01-24 11:32:11,Preventive,,ENG_16,Preventive maintenance done. All components operational.,7.3,2948
+MNT_001447,ATM_188,2024-04-04 20:55:14,Preventive,,ENG_03,Routine inspection completed. No issues found.,4.8,4792
+MNT_001448,ATM_112,2024-02-07 09:26:00,Preventive,,ENG_09,Cash cassette cleaned and refilled. Software updated.,7.9,4520
+MNT_001449,ATM_016,2024-03-13 16:13:08,Preventive,,ENG_14,Card reader cleaned. Firmware upgraded to latest version.,5.2,4015
+MNT_001450,ATM_194,2024-04-14 19:50:56,Corrective,Network Module,ENG_11,Component replaced after failure detected during monitoring.,2.1,23406
+MNT_001451,ATM_058,2024-04-27 21:56:29,Corrective,Cash Cassette,ENG_20,Root cause identified as hardware wear. Replaced accordingly.,4.2,12259
+MNT_001452,ATM_071,2024-04-13 01:46:34,Preventive,,ENG_12,Routine inspection completed. No issues found.,3.9,1917
+MNT_001453,ATM_016,2024-03-10 08:39:55,Emergency,Cash Cassette,ENG_01,Critical failure resolved on-site. ATM restored to service.,4.3,57499
+MNT_001454,ATM_113,2024-02-26 23:34:17,Preventive,,ENG_09,Preventive maintenance done. All components operational.,6.2,2947
+MNT_001455,ATM_197,2024-02-16 22:04:52,Preventive,,ENG_17,Cash cassette cleaned and refilled. Software updated.,7.8,3722
+MNT_001456,ATM_187,2024-04-28 05:32:06,Preventive,,ENG_18,Preventive maintenance done. All components operational.,8.0,1131
+MNT_001457,ATM_132,2024-02-15 12:37:11,Corrective,Dispenser Module,ENG_18,Root cause identified as hardware wear. Replaced accordingly.,7.1,23344
+MNT_001458,ATM_022,2024-02-28 18:02:06,Preventive,,ENG_15,Routine inspection completed. No issues found.,5.6,1853
+MNT_001459,ATM_028,2024-02-21 09:27:44,Emergency,,ENG_09,Emergency maintenance done. Escalated to vendor for follow-up.,1.9,46781
+MNT_001460,ATM_053,2024-03-21 13:24:58,Preventive,,ENG_05,Routine inspection completed. No issues found.,5.3,1373
+MNT_001461,ATM_029,2024-03-17 16:12:58,Corrective,Card Reader,ENG_03,Error log cleared. Defective part replaced.,6.3,23745
+MNT_001462,ATM_186,2024-04-16 09:46:35,Preventive,,ENG_18,Network settings verified. Response time within SLA.,3.6,2940
+MNT_001463,ATM_085,2024-01-08 01:58:14,Corrective,,ENG_10,Error log cleared. Defective part replaced.,5.8,19381
+MNT_001464,ATM_053,2024-04-23 13:44:45,Emergency,,ENG_08,Major hardware fault repaired under emergency protocol.,7.7,41622
+MNT_001465,ATM_160,2024-02-26 05:44:02,Corrective,Card Reader,ENG_07,Root cause identified as hardware wear. Replaced accordingly.,4.3,23332
+MNT_001466,ATM_148,2024-02-05 04:43:36,Corrective,Dispenser Module,ENG_11,Error log cleared. Defective part replaced.,1.1,23729
+MNT_001467,ATM_194,2024-02-16 09:19:48,Preventive,,ENG_04,Network settings verified. Response time within SLA.,5.4,4142
+MNT_001468,ATM_078,2024-04-27 21:32:03,Preventive,,ENG_17,Cash cassette cleaned and refilled. Software updated.,2.4,4072
+MNT_001469,ATM_071,2024-03-10 07:17:31,Preventive,,ENG_08,Network settings verified. Response time within SLA.,4.6,2287
+MNT_001470,ATM_166,2024-02-18 20:12:25,Preventive,,ENG_03,Routine inspection completed. No issues found.,3.8,1795
+MNT_001471,ATM_075,2024-02-27 22:19:16,Preventive,,ENG_13,Card reader cleaned. Firmware upgraded to latest version.,6.4,2060
+MNT_001472,ATM_015,2024-01-15 02:12:26,Corrective,Receipt Printer,ENG_16,Faulty unit removed and replaced. Tested post-installation.,6.8,19336
+MNT_001473,ATM_017,2024-01-27 14:33:27,Preventive,,ENG_14,Preventive maintenance done. All components operational.,0.7,3126
+MNT_001474,ATM_104,2024-03-09 16:10:45,Corrective,Cash Cassette,ENG_03,Root cause identified as hardware wear. Replaced accordingly.,4.1,24638
+MNT_001475,ATM_150,2024-02-09 16:54:49,Preventive,,ENG_02,Preventive maintenance done. All components operational.,4.1,2908
+MNT_001476,ATM_081,2024-04-08 14:34:46,Emergency,,ENG_11,Emergency maintenance done. Escalated to vendor for follow-up.,5.3,48954
+MNT_001477,ATM_181,2024-03-29 19:32:29,Preventive,,ENG_16,Preventive maintenance done. All components operational.,4.6,4981
+MNT_001478,ATM_037,2024-02-23 16:48:18,Corrective,,ENG_18,Component replaced after failure detected during monitoring.,4.5,18780
+MNT_001479,ATM_187,2024-01-07 13:58:59,Preventive,,ENG_01,Card reader cleaned. Firmware upgraded to latest version.,5.1,3705
+MNT_001480,ATM_046,2024-01-19 22:04:32,Corrective,Card Reader,ENG_13,Error log cleared. Defective part replaced.,6.8,19222
+MNT_001481,ATM_053,2024-03-02 20:33:51,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,6.8,1577
+MNT_001482,ATM_064,2024-04-18 11:07:40,Preventive,,ENG_01,Network settings verified. Response time within SLA.,5.5,1317
+MNT_001483,ATM_046,2024-01-31 05:12:35,Corrective,Keypad,ENG_20,Intermittent failure resolved by replacing component.,7.5,16651
+MNT_001484,ATM_100,2024-02-19 03:22:29,Preventive,,ENG_20,Network settings verified. Response time within SLA.,2.0,3292
+MNT_001485,ATM_071,2024-03-09 12:13:46,Corrective,Card Reader,ENG_10,Root cause identified as hardware wear. Replaced accordingly.,4.5,18098
+MNT_001486,ATM_196,2024-04-06 10:29:11,Preventive,,ENG_05,Routine inspection completed. No issues found.,5.6,1115
+MNT_001487,ATM_185,2024-02-05 23:02:37,Emergency,Card Reader,ENG_12,Urgent replacement of failed component. Downtime minimised.,4.7,34732
+MNT_001488,ATM_186,2024-04-30 00:05:01,Corrective,Receipt Printer,ENG_13,Faulty unit removed and replaced. Tested post-installation.,1.1,19178
+MNT_001489,ATM_121,2024-03-24 05:30:42,Corrective,Receipt Printer,ENG_09,Component replaced after failure detected during monitoring.,7.5,6197
+MNT_001490,ATM_037,2024-04-28 18:57:19,Corrective,,ENG_11,Root cause identified as hardware wear. Replaced accordingly.,1.1,7084
+MNT_001491,ATM_015,2024-01-15 02:14:04,Corrective,Card Reader,ENG_02,Error log cleared. Defective part replaced.,3.4,18509
+MNT_001492,ATM_083,2024-02-16 11:51:28,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,0.8,1930
+MNT_001493,ATM_169,2024-04-14 12:20:42,Preventive,,ENG_05,Preventive maintenance done. All components operational.,2.0,1799
+MNT_001494,ATM_063,2024-02-13 13:38:30,Preventive,,ENG_15,Cash cassette cleaned and refilled. Software updated.,5.1,4986
+MNT_001495,ATM_147,2024-02-04 15:58:42,Corrective,Receipt Printer,ENG_12,Root cause identified as hardware wear. Replaced accordingly.,7.6,18422
+MNT_001496,ATM_025,2024-03-12 20:02:47,Corrective,Receipt Printer,ENG_11,Error log cleared. Defective part replaced.,6.2,23286
+MNT_001497,ATM_171,2024-01-19 21:50:36,Preventive,,ENG_17,Network settings verified. Response time within SLA.,4.6,4235
+MNT_001498,ATM_020,2024-01-12 17:50:36,Preventive,,ENG_13,Cash cassette cleaned and refilled. Software updated.,4.0,2389
+MNT_001499,ATM_051,2024-01-18 09:50:39,Emergency,Receipt Printer,ENG_04,Urgent replacement of failed component. Downtime minimised.,3.8,32250
+MNT_001500,ATM_001,2024-01-11 05:06:42,Corrective,Keypad,ENG_06,Intermittent failure resolved by replacing component.,3.2,5793

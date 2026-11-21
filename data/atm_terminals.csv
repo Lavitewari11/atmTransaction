@@ -1,0 +1,201 @@
+terminal_id,bank_owner,vendor,terminal_model,install_date,location_name,city,state,zone,status,latitude,longitude
+ATM_001,SBI,Diebold,Diebold-DN200,2018-09-26,Saket Airport Terminal,Ahmedabad,Gujarat,Urban,Active,23.000878,72.525055
+ATM_002,SBI,GRGBanking,GRG-H68N,2019-01-05,Alkapuri Mall Outlet,Chennai,Tamil Nadu,Metro,Active,13.069008,80.267907
+ATM_003,SBI,Diebold,Diebold-DN200,2019-09-28,Karol Bagh Hospital Wing,Ahmedabad,Gujarat,Urban,Inactive,23.037092,72.577884
+ATM_004,PNB,NCR,NCR-6683,2021-02-03,Saket Campus ATM,Indore,Madhya Pradesh,Semi-Urban,Inactive,22.726678,75.814271
+ATM_005,PNB,Hitachi,Hitachi-2845,2022-08-21,MG Road ATM Point,Kolkata,West Bengal,Metro,Active,22.55821,88.391453
+ATM_006,SBI,NCR,NCR-6683,2022-08-10,Dharampeth Airport Terminal,Jaipur,Rajasthan,Urban,Active,26.961052,75.782629
+ATM_007,BOI,GRGBanking,GRG-H68N,2019-10-19,Civil Lines Hospital Wing,Chennai,Tamil Nadu,Metro,Active,13.093277,80.273139
+ATM_008,SBI,Diebold,Diebold-DN200,2018-04-30,RS Puram Hospital Wing,Vadodara,Gujarat,Semi-Urban,Active,22.280923,73.175276
+ATM_009,BOI,NCR,NCR-6683,2020-04-10,Linking Road Mall Outlet,Jaipur,Rajasthan,Urban,Active,26.872578,75.777376
+ATM_010,SBI,Nautilus,Nautilus-MX5600,2022-12-16,Dharampeth Airport Terminal,Mumbai,Maharashtra,Metro,Active,19.041286,72.883664
+ATM_011,HDFC,Hitachi,Hitachi-2845,2020-12-17,Sector 17 Kiosk,Visakhapatnam,Andhra Pradesh,Semi-Urban,Active,17.661396,83.184024
+ATM_012,ICICI,Diebold,Diebold-DN200,2023-05-29,Civil Lines Service Centre,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.225968,77.380793
+ATM_013,SBI,Nautilus,Nautilus-MX5600,2021-10-01,Gomti Nagar Kiosk,Coimbatore,Tamil Nadu,Semi-Urban,Active,10.985457,76.991979
+ATM_014,PNB,GRGBanking,GRG-H68N,2020-01-11,Saket Airport Terminal,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.23841,77.457212
+ATM_015,HDFC,Diebold,Diebold-DN200,2018-04-27,Civil Lines Kiosk,Patna,Bihar,Semi-Urban,Active,25.561437,85.124931
+ATM_016,ICICI,NCR,NCR-6683,2023-01-28,Powai Branch,Bengaluru,Karnataka,Metro,Active,13.011277,77.571674
+ATM_017,HDFC,Hitachi,Hitachi-2845,2021-02-24,Viman Nagar Campus ATM,Hyderabad,Telangana,Metro,Active,17.343023,78.5011
+ATM_018,ICICI,NCR,NCR-6683,2023-04-16,Dwaraka Nagar Branch,Indore,Madhya Pradesh,Semi-Urban,Inactive,22.722051,75.848573
+ATM_019,ICICI,Nautilus,Nautilus-MX5600,2020-10-09,Salt Lake Market Branch,Kochi,Kerala,Semi-Urban,Active,10.06714,76.244539
+ATM_020,PNB,Nautilus,Nautilus-MX5600,2022-07-23,Connaught Place Kiosk,Kolkata,West Bengal,Metro,Active,22.620838,88.329515
+ATM_021,BOI,Hitachi,Hitachi-2845,2020-12-17,Saket Market Branch,Chandigarh,Punjab,Semi-Urban,Active,30.694504,76.800997
+ATM_022,HDFC,Nautilus,Nautilus-MX5600,2019-09-26,Alkapuri ATM Point,Delhi,Delhi,Metro,Active,28.693886,77.118392
+ATM_023,PNB,Diebold,Diebold-DN200,2019-05-28,Koramangala Railway Station,Lucknow,Uttar Pradesh,Urban,Active,26.893647,80.89891
+ATM_024,PNB,Diebold,Diebold-DN200,2021-01-24,Arera Colony ATM Point,Indore,Madhya Pradesh,Semi-Urban,Active,22.756151,75.829897
+ATM_025,SBI,Diebold,Diebold-DN200,2021-02-15,Boring Road Airport Terminal,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.291607,77.385707
+ATM_026,SBI,NCR,NCR-6683,2019-07-14,Linking Road Hospital Wing,Kolkata,West Bengal,Metro,Inactive,22.54839,88.381089
+ATM_027,BOI,Diebold,Diebold-DN200,2019-05-03,Saket Campus ATM,Mumbai,Maharashtra,Metro,Active,19.043089,72.829671
+ATM_028,ICICI,NCR,NCR-6683,2020-06-15,Vijay Nagar Kiosk,Mumbai,Maharashtra,Metro,Active,19.092864,72.838111
+ATM_029,SBI,Nautilus,Nautilus-MX5600,2021-04-27,Anna Nagar Mall Outlet,Indore,Madhya Pradesh,Semi-Urban,Active,22.762538,75.887692
+ATM_030,ICICI,Nautilus,Nautilus-MX5600,2019-12-05,Vijay Nagar Railway Station,Chandigarh,Punjab,Semi-Urban,Inactive,30.738976,76.747254
+ATM_031,BOI,Hitachi,Hitachi-2845,2022-01-10,Saket Service Centre,Vadodara,Gujarat,Semi-Urban,Active,22.314361,73.196475
+ATM_032,PNB,Nautilus,Nautilus-MX5600,2019-08-04,Salt Lake Service Centre,Surat,Gujarat,Urban,Active,21.148198,72.804918
+ATM_033,SBI,Diebold,Diebold-DN200,2018-06-03,Civil Lines Service Centre,Vadodara,Gujarat,Semi-Urban,Active,22.334149,73.141144
+ATM_034,SBI,NCR,NCR-6683,2022-08-07,RS Puram Kiosk,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.228604,77.386917
+ATM_035,SBI,NCR,NCR-6683,2020-09-23,Connaught Place Service Centre,Mumbai,Maharashtra,Metro,Active,19.058368,72.899927
+ATM_036,BOI,NCR,NCR-6683,2021-05-28,MG Road Branch,Delhi,Delhi,Metro,Active,28.696644,77.13807
+ATM_037,SBI,NCR,NCR-6683,2020-12-28,Boring Road Railway Station,Jaipur,Rajasthan,Urban,Inactive,26.913161,75.820322
+ATM_038,ICICI,Diebold,Diebold-DN200,2020-10-05,Sector 17 Branch,Bengaluru,Karnataka,Metro,Active,12.945841,77.584318
+ATM_039,BOI,NCR,NCR-6683,2023-11-12,Vaishali Nagar Hospital Wing,Mumbai,Maharashtra,Metro,Active,19.037484,72.894509
+ATM_040,HDFC,Nautilus,Nautilus-MX5600,2022-11-09,Sector 17 Railway Station,Coimbatore,Tamil Nadu,Semi-Urban,Inactive,11.027862,76.926298
+ATM_041,BOI,Hitachi,Hitachi-2845,2020-08-15,Alkapuri Branch,Hyderabad,Telangana,Metro,Active,17.363863,78.466015
+ATM_042,ICICI,Nautilus,Nautilus-MX5600,2019-03-29,Civil Lines Railway Station,Vadodara,Gujarat,Semi-Urban,Active,22.315324,73.220834
+ATM_043,PNB,GRGBanking,GRG-H68N,2021-05-12,Linking Road Hospital Wing,Kolkata,West Bengal,Metro,Active,22.538036,88.3152
+ATM_044,BOI,Hitachi,Hitachi-2845,2019-07-05,Anna Nagar Market Branch,Kolkata,West Bengal,Metro,Active,22.570714,88.322451
+ATM_045,ICICI,Nautilus,Nautilus-MX5600,2022-06-24,Dharampeth Kiosk,Hyderabad,Telangana,Metro,Active,17.388259,78.457489
+ATM_046,SBI,Diebold,Diebold-DN200,2021-08-05,Tilak Nagar Kiosk,Bengaluru,Karnataka,Metro,Active,12.926782,77.547253
+ATM_047,BOI,GRGBanking,GRG-H68N,2022-10-24,Ashok Nagar Service Centre,Kolkata,West Bengal,Metro,Active,22.55626,88.332044
+ATM_048,BOI,NCR,NCR-6683,2018-12-23,Salt Lake ATM Point,Kolkata,West Bengal,Metro,Active,22.536041,88.372204
+ATM_049,PNB,NCR,NCR-6683,2023-09-02,Karol Bagh Service Centre,Lucknow,Uttar Pradesh,Urban,Active,26.803037,80.938342
+ATM_050,HDFC,Hitachi,Hitachi-2845,2022-11-21,Salt Lake Airport Terminal,Lucknow,Uttar Pradesh,Urban,Active,26.895696,80.985467
+ATM_051,BOI,NCR,NCR-6683,2022-11-17,Adajan Branch,Kochi,Kerala,Semi-Urban,Active,10.058335,76.323744
+ATM_052,PNB,Hitachi,Hitachi-2845,2022-06-20,Lajpat Nagar Railway Station,Vadodara,Gujarat,Semi-Urban,Inactive,22.338187,73.165382
+ATM_053,SBI,Nautilus,Nautilus-MX5600,2020-10-12,Jubilee Hills ATM Point,Patna,Bihar,Semi-Urban,Active,25.569564,85.113542
+ATM_054,HDFC,Nautilus,Nautilus-MX5600,2021-09-10,Viman Nagar Hospital Wing,Jaipur,Rajasthan,Urban,Active,26.93055,75.775269
+ATM_055,ICICI,NCR,NCR-6683,2019-05-31,Linking Road Airport Terminal,Patna,Bihar,Semi-Urban,Active,25.620123,85.146629
+ATM_056,PNB,GRGBanking,GRG-H68N,2018-12-02,Powai Hospital Wing,Mumbai,Maharashtra,Metro,Active,19.085564,72.854506
+ATM_057,SBI,GRGBanking,GRG-H68N,2022-11-18,Boring Road Kiosk,Kochi,Kerala,Semi-Urban,Active,10.073258,76.304415
+ATM_058,PNB,GRGBanking,GRG-H68N,2019-05-12,Linking Road Kiosk,Bhopal,Madhya Pradesh,Semi-Urban,Inactive,23.251084,77.403541
+ATM_059,ICICI,Hitachi,Hitachi-2845,2020-06-14,Adajan Service Centre,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.244787,77.417805
+ATM_060,HDFC,Hitachi,Hitachi-2845,2020-05-01,Saket Branch,Chennai,Tamil Nadu,Metro,Active,13.125653,80.264313
+ATM_061,BOI,Diebold,Diebold-DN200,2022-08-15,Arera Colony ATM Point,Mumbai,Maharashtra,Metro,Active,19.109062,72.857147
+ATM_062,ICICI,Diebold,Diebold-DN200,2023-04-16,Bandra West Campus ATM,Vadodara,Gujarat,Semi-Urban,Active,22.353703,73.226045
+ATM_063,HDFC,GRGBanking,GRG-H68N,2022-04-18,Civil Lines Airport Terminal,Ahmedabad,Gujarat,Urban,Active,22.98493,72.597761
+ATM_064,ICICI,Nautilus,Nautilus-MX5600,2020-08-14,Viman Nagar Airport Terminal,Delhi,Delhi,Metro,Active,28.727187,77.066511
+ATM_065,SBI,GRGBanking,GRG-H68N,2022-06-25,Dwaraka Nagar Service Centre,Ahmedabad,Gujarat,Urban,Active,23.066334,72.608247
+ATM_066,BOI,Hitachi,Hitachi-2845,2021-07-15,Anna Nagar Kiosk,Pune,Maharashtra,Urban,Active,18.488523,73.855443
+ATM_067,ICICI,Diebold,Diebold-DN200,2021-12-11,Tilak Nagar Service Centre,Delhi,Delhi,Metro,Active,28.66075,77.141955
+ATM_068,BOI,Hitachi,Hitachi-2845,2021-04-06,Navrangpura Railway Station,Bengaluru,Karnataka,Metro,Active,12.995712,77.624586
+ATM_069,SBI,Diebold,Diebold-DN200,2020-12-02,Dwaraka Nagar ATM Point,Indore,Madhya Pradesh,Semi-Urban,Active,22.727047,75.850221
+ATM_070,HDFC,Nautilus,Nautilus-MX5600,2018-10-12,Karol Bagh Branch,Nagpur,Maharashtra,Urban,Active,21.179983,79.040447
+ATM_071,HDFC,Hitachi,Hitachi-2845,2018-01-12,Powai Market Branch,Mumbai,Maharashtra,Metro,Active,19.039977,72.854568
+ATM_072,ICICI,GRGBanking,GRG-H68N,2022-06-19,Brigade Road Mall Outlet,Nagpur,Maharashtra,Urban,Active,21.175327,79.092363
+ATM_073,ICICI,Nautilus,Nautilus-MX5600,2020-01-24,MG Road Mall Outlet,Kolkata,West Bengal,Metro,Active,22.542763,88.377248
+ATM_074,HDFC,Diebold,Diebold-DN200,2023-09-14,Palarivattom Service Centre,Vadodara,Gujarat,Semi-Urban,Active,22.273566,73.156989
+ATM_075,PNB,Hitachi,Hitachi-2845,2018-03-31,Arera Colony Railway Station,Coimbatore,Tamil Nadu,Semi-Urban,Active,10.983227,76.919736
+ATM_076,PNB,Hitachi,Hitachi-2845,2020-02-15,Boring Road ATM Point,Chandigarh,Punjab,Semi-Urban,Active,30.764757,76.812893
+ATM_077,HDFC,Diebold,Diebold-DN200,2022-06-14,Gomti Nagar Campus ATM,Chandigarh,Punjab,Semi-Urban,Active,30.74982,76.82784
+ATM_078,BOI,Hitachi,Hitachi-2845,2019-02-22,Adajan Mall Outlet,Kolkata,West Bengal,Metro,Active,22.574907,88.366469
+ATM_079,SBI,Diebold,Diebold-DN200,2018-04-25,Bandra West ATM Point,Patna,Bihar,Semi-Urban,Active,25.579983,85.104768
+ATM_080,HDFC,NCR,NCR-6683,2019-09-09,Civil Lines Branch,Delhi,Delhi,Metro,Active,28.74182,77.079731
+ATM_081,ICICI,NCR,NCR-6683,2020-04-05,Ashok Nagar Hospital Wing,Surat,Gujarat,Urban,Active,21.159445,72.782939
+ATM_082,ICICI,NCR,NCR-6683,2022-07-08,Vaishali Nagar Railway Station,Kochi,Kerala,Semi-Urban,Active,10.10776,76.33343
+ATM_083,HDFC,Nautilus,Nautilus-MX5600,2022-02-25,Alkapuri Kiosk,Pune,Maharashtra,Urban,Active,18.514313,73.818475
+ATM_084,ICICI,GRGBanking,GRG-H68N,2019-02-17,Ashok Nagar ATM Point,Hyderabad,Telangana,Metro,Active,17.372694,78.494352
+ATM_085,HDFC,Hitachi,Hitachi-2845,2019-12-30,Koramangala Branch,Delhi,Delhi,Metro,Inactive,28.700368,77.079906
+ATM_086,SBI,GRGBanking,GRG-H68N,2019-11-07,Linking Road Campus ATM,Hyderabad,Telangana,Metro,Active,17.365138,78.492118
+ATM_087,HDFC,GRGBanking,GRG-H68N,2023-03-08,Jubilee Hills Market Branch,Indore,Madhya Pradesh,Semi-Urban,Active,22.744361,75.872842
+ATM_088,HDFC,Diebold,Diebold-DN200,2021-01-27,Salt Lake Kiosk,Delhi,Delhi,Metro,Active,28.704372,77.135474
+ATM_089,SBI,GRGBanking,GRG-H68N,2022-04-21,Salt Lake Market Branch,Indore,Madhya Pradesh,Semi-Urban,Inactive,22.692821,75.828342
+ATM_090,HDFC,GRGBanking,GRG-H68N,2020-09-04,Brigade Road Campus ATM,Chandigarh,Punjab,Semi-Urban,Active,30.773257,76.7305
+ATM_091,ICICI,NCR,NCR-6683,2020-10-05,Sector 17 Branch,Kochi,Kerala,Semi-Urban,Active,10.064489,76.255689
+ATM_092,HDFC,GRGBanking,GRG-H68N,2023-11-14,Park Street Mall Outlet,Delhi,Delhi,Metro,Active,28.708455,77.142502
+ATM_093,HDFC,NCR,NCR-6683,2022-08-15,Alkapuri Market Branch,Visakhapatnam,Andhra Pradesh,Semi-Urban,Active,17.727447,83.255889
+ATM_094,PNB,GRGBanking,GRG-H68N,2018-02-06,Vaishali Nagar Kiosk,Hyderabad,Telangana,Metro,Inactive,17.397424,78.496441
+ATM_095,HDFC,Hitachi,Hitachi-2845,2022-03-29,Koramangala Service Centre,Mumbai,Maharashtra,Metro,Inactive,19.03769,72.887752
+ATM_096,BOI,NCR,NCR-6683,2020-05-22,Dwaraka Nagar Airport Terminal,Chandigarh,Punjab,Semi-Urban,Active,30.777283,76.795904
+ATM_097,BOI,GRGBanking,GRG-H68N,2022-12-27,Ashok Nagar ATM Point,Lucknow,Uttar Pradesh,Urban,Inactive,26.859471,80.913737
+ATM_098,HDFC,NCR,NCR-6683,2021-07-20,Alkapuri Mall Outlet,Kochi,Kerala,Semi-Urban,Active,10.059591,76.333441
+ATM_099,ICICI,Nautilus,Nautilus-MX5600,2023-10-11,Karol Bagh Market Branch,Vadodara,Gujarat,Semi-Urban,Active,22.271127,73.173077
+ATM_100,SBI,Diebold,Diebold-DN200,2019-08-19,Tilak Nagar Hospital Wing,Kolkata,West Bengal,Metro,Active,22.602003,88.352214
+ATM_101,BOI,NCR,NCR-6683,2023-03-19,Gomti Nagar ATM Point,Chennai,Tamil Nadu,Metro,Active,13.094707,80.272592
+ATM_102,ICICI,Nautilus,Nautilus-MX5600,2019-12-30,Koramangala Service Centre,Lucknow,Uttar Pradesh,Urban,Active,26.850046,80.900897
+ATM_103,ICICI,NCR,NCR-6683,2021-09-27,Vijay Nagar Campus ATM,Vadodara,Gujarat,Semi-Urban,Active,22.346589,73.147828
+ATM_104,SBI,Diebold,Diebold-DN200,2019-02-01,Vijay Nagar Airport Terminal,Lucknow,Uttar Pradesh,Urban,Active,26.87556,80.970003
+ATM_105,BOI,Hitachi,Hitachi-2845,2019-11-30,Saket Branch,Vadodara,Gujarat,Semi-Urban,Active,22.272367,73.13948
+ATM_106,BOI,Nautilus,Nautilus-MX5600,2022-06-24,Alkapuri Service Centre,Visakhapatnam,Andhra Pradesh,Semi-Urban,Active,17.667972,83.228815
+ATM_107,SBI,Diebold,Diebold-DN200,2019-01-31,Linking Road Service Centre,Kolkata,West Bengal,Metro,Active,22.547449,88.338435
+ATM_108,ICICI,NCR,NCR-6683,2018-03-17,Koramangala Campus ATM,Delhi,Delhi,Metro,Active,28.728495,77.09143
+ATM_109,ICICI,GRGBanking,GRG-H68N,2018-09-22,Andheri East Railway Station,Hyderabad,Telangana,Metro,Active,17.338353,78.465569
+ATM_110,HDFC,NCR,NCR-6683,2022-12-25,Koramangala Campus ATM,Delhi,Delhi,Metro,Inactive,28.711089,77.088067
+ATM_111,HDFC,Hitachi,Hitachi-2845,2019-12-19,Jubilee Hills Railway Station,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.286146,77.434505
+ATM_112,SBI,NCR,NCR-6683,2020-04-30,Arera Colony Railway Station,Surat,Gujarat,Urban,Active,21.207877,72.810812
+ATM_113,PNB,Diebold,Diebold-DN200,2021-10-22,Linking Road Mall Outlet,Surat,Gujarat,Urban,Active,21.154408,72.83774
+ATM_114,PNB,Diebold,Diebold-DN200,2018-05-24,Karol Bagh Mall Outlet,Coimbatore,Tamil Nadu,Semi-Urban,Active,11.048926,76.953405
+ATM_115,SBI,Diebold,Diebold-DN200,2020-06-03,Sector 17 Kiosk,Surat,Gujarat,Urban,Active,21.131263,72.847467
+ATM_116,PNB,Hitachi,Hitachi-2845,2019-01-31,Civil Lines Market Branch,Kochi,Kerala,Semi-Urban,Active,10.110745,76.335683
+ATM_117,BOI,Nautilus,Nautilus-MX5600,2022-02-01,Vaishali Nagar Market Branch,Chandigarh,Punjab,Semi-Urban,Active,30.696049,76.802657
+ATM_118,BOI,NCR,NCR-6683,2021-03-13,Anna Nagar Branch,Coimbatore,Tamil Nadu,Semi-Urban,Inactive,11.006529,76.927294
+ATM_119,PNB,NCR,NCR-6683,2020-11-28,Boring Road Market Branch,Surat,Gujarat,Urban,Active,21.19993,72.784218
+ATM_120,PNB,GRGBanking,GRG-H68N,2023-11-27,Salt Lake Mall Outlet,Coimbatore,Tamil Nadu,Semi-Urban,Active,10.981792,76.932026
+ATM_121,SBI,Nautilus,Nautilus-MX5600,2020-12-01,Bandra West Kiosk,Ahmedabad,Gujarat,Urban,Active,22.995425,72.580908
+ATM_122,PNB,Hitachi,Hitachi-2845,2021-04-24,Adajan Kiosk,Chennai,Tamil Nadu,Metro,Active,13.104925,80.225843
+ATM_123,SBI,Hitachi,Hitachi-2845,2019-09-26,Vaishali Nagar Railway Station,Ahmedabad,Gujarat,Urban,Active,23.044504,72.571037
+ATM_124,HDFC,Nautilus,Nautilus-MX5600,2021-03-02,Linking Road Campus ATM,Chennai,Tamil Nadu,Metro,Active,13.096815,80.280384
+ATM_125,SBI,NCR,NCR-6683,2021-05-23,Koramangala Branch,Bengaluru,Karnataka,Metro,Inactive,12.990995,77.578024
+ATM_126,PNB,NCR,NCR-6683,2020-01-03,Tilak Nagar Railway Station,Bengaluru,Karnataka,Metro,Active,12.975872,77.621691
+ATM_127,BOI,Nautilus,Nautilus-MX5600,2018-08-23,Lajpat Nagar Campus ATM,Indore,Madhya Pradesh,Semi-Urban,Active,22.69478,75.81836
+ATM_128,ICICI,Nautilus,Nautilus-MX5600,2020-01-21,Karol Bagh Market Branch,Kochi,Kerala,Semi-Urban,Active,10.06067,76.249514
+ATM_129,HDFC,Diebold,Diebold-DN200,2020-08-11,Vaishali Nagar Railway Station,Kochi,Kerala,Semi-Urban,Active,10.04426,76.314819
+ATM_130,BOI,Nautilus,Nautilus-MX5600,2022-03-23,Koramangala ATM Point,Kolkata,West Bengal,Metro,Active,22.613445,88.363449
+ATM_131,PNB,Nautilus,Nautilus-MX5600,2021-04-12,Civil Lines Market Branch,Indore,Madhya Pradesh,Semi-Urban,Active,22.727939,75.87654
+ATM_132,ICICI,Diebold,Diebold-DN200,2022-08-04,Bandra West Campus ATM,Lucknow,Uttar Pradesh,Urban,Active,26.836785,80.939683
+ATM_133,BOI,Hitachi,Hitachi-2845,2021-04-06,Dharampeth Branch,Hyderabad,Telangana,Metro,Active,17.381201,78.46134
+ATM_134,BOI,GRGBanking,GRG-H68N,2021-11-17,Gomti Nagar Campus ATM,Mumbai,Maharashtra,Metro,Inactive,19.120728,72.90961
+ATM_135,PNB,GRGBanking,GRG-H68N,2021-05-02,Vaishali Nagar Railway Station,Kolkata,West Bengal,Metro,Active,22.537935,88.393842
+ATM_136,PNB,GRGBanking,GRG-H68N,2022-03-21,Sector 17 Railway Station,Jaipur,Rajasthan,Urban,Inactive,26.921023,75.80677
+ATM_137,PNB,Nautilus,Nautilus-MX5600,2023-09-08,Navrangpura Service Centre,Nagpur,Maharashtra,Urban,Active,21.146389,79.065415
+ATM_138,SBI,Diebold,Diebold-DN200,2021-12-16,Civil Lines Branch,Patna,Bihar,Semi-Urban,Active,25.605245,85.146623
+ATM_139,PNB,Nautilus,Nautilus-MX5600,2022-02-28,Salt Lake Hospital Wing,Delhi,Delhi,Metro,Active,28.655911,77.088597
+ATM_140,PNB,Nautilus,Nautilus-MX5600,2021-10-20,Adajan Market Branch,Vadodara,Gujarat,Semi-Urban,Active,22.344412,73.140358
+ATM_141,SBI,Nautilus,Nautilus-MX5600,2023-01-31,Tilak Nagar Kiosk,Patna,Bihar,Semi-Urban,Active,25.637312,85.179331
+ATM_142,PNB,GRGBanking,GRG-H68N,2021-09-27,Bandra West Branch,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.266413,77.376282
+ATM_143,SBI,NCR,NCR-6683,2019-05-15,Linking Road Kiosk,Jaipur,Rajasthan,Urban,Active,26.932065,75.832324
+ATM_144,BOI,GRGBanking,GRG-H68N,2022-08-08,Lajpat Nagar Branch,Chandigarh,Punjab,Semi-Urban,Active,30.77555,76.774001
+ATM_145,SBI,Hitachi,Hitachi-2845,2019-05-26,Sector 17 Branch,Chandigarh,Punjab,Semi-Urban,Active,30.754024,76.747913
+ATM_146,BOI,GRGBanking,GRG-H68N,2018-08-05,Jubilee Hills Campus ATM,Surat,Gujarat,Urban,Active,21.135454,72.83529
+ATM_147,ICICI,Diebold,Diebold-DN200,2021-08-17,Navrangpura Branch,Coimbatore,Tamil Nadu,Semi-Urban,Active,11.024429,76.993095
+ATM_148,SBI,Nautilus,Nautilus-MX5600,2021-03-01,Tilak Nagar Service Centre,Vadodara,Gujarat,Semi-Urban,Active,22.317872,73.204422
+ATM_149,HDFC,Hitachi,Hitachi-2845,2023-01-02,Salt Lake Hospital Wing,Chennai,Tamil Nadu,Metro,Active,13.075113,80.301356
+ATM_150,PNB,Hitachi,Hitachi-2845,2022-12-16,RS Puram Railway Station,Mumbai,Maharashtra,Metro,Active,19.099644,72.893578
+ATM_151,HDFC,Diebold,Diebold-DN200,2021-04-20,Ashok Nagar Airport Terminal,Ahmedabad,Gujarat,Urban,Active,23.065937,72.590628
+ATM_152,HDFC,Hitachi,Hitachi-2845,2018-04-01,Vijay Nagar Kiosk,Vadodara,Gujarat,Semi-Urban,Active,22.349757,73.21612
+ATM_153,BOI,Nautilus,Nautilus-MX5600,2019-12-15,Jubilee Hills Railway Station,Bengaluru,Karnataka,Metro,Active,12.966684,77.569567
+ATM_154,PNB,Diebold,Diebold-DN200,2023-02-25,Salt Lake Airport Terminal,Visakhapatnam,Andhra Pradesh,Semi-Urban,Active,17.648124,83.217442
+ATM_155,PNB,Hitachi,Hitachi-2845,2018-02-08,Lajpat Nagar Hospital Wing,Chandigarh,Punjab,Semi-Urban,Active,30.781784,76.751521
+ATM_156,BOI,Diebold,Diebold-DN200,2018-06-22,RS Puram Hospital Wing,Chandigarh,Punjab,Semi-Urban,Active,30.76719,76.828167
+ATM_157,HDFC,Diebold,Diebold-DN200,2019-10-15,Arera Colony Kiosk,Patna,Bihar,Semi-Urban,Active,25.556566,85.182006
+ATM_158,HDFC,GRGBanking,GRG-H68N,2020-01-24,Lajpat Nagar Kiosk,Patna,Bihar,Semi-Urban,Active,25.636184,85.091543
+ATM_159,ICICI,Diebold,Diebold-DN200,2021-05-28,Salt Lake Hospital Wing,Delhi,Delhi,Metro,Active,28.74109,77.123058
+ATM_160,ICICI,GRGBanking,GRG-H68N,2020-12-17,Arera Colony Airport Terminal,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.261784,77.455125
+ATM_161,SBI,NCR,NCR-6683,2022-08-11,Alkapuri Branch,Patna,Bihar,Semi-Urban,Active,25.603228,85.105658
+ATM_162,BOI,NCR,NCR-6683,2019-04-01,Vijay Nagar Market Branch,Kochi,Kerala,Semi-Urban,Active,10.066,76.298795
+ATM_163,ICICI,GRGBanking,GRG-H68N,2020-04-08,Navrangpura ATM Point,Pune,Maharashtra,Urban,Active,18.475876,73.898249
+ATM_164,PNB,GRGBanking,GRG-H68N,2020-06-13,Arera Colony Railway Station,Bengaluru,Karnataka,Metro,Active,12.95512,77.547995
+ATM_165,PNB,Diebold,Diebold-DN200,2021-10-16,Andheri East Campus ATM,Chandigarh,Punjab,Semi-Urban,Active,30.763585,76.799142
+ATM_166,BOI,GRGBanking,GRG-H68N,2023-05-13,Saket Railway Station,Patna,Bihar,Semi-Urban,Active,25.544563,85.117335
+ATM_167,ICICI,Hitachi,Hitachi-2845,2023-06-20,Karol Bagh Campus ATM,Surat,Gujarat,Urban,Active,21.15355,72.87354
+ATM_168,SBI,NCR,NCR-6683,2018-07-09,Palarivattom Airport Terminal,Chandigarh,Punjab,Semi-Urban,Active,30.723117,76.826506
+ATM_169,HDFC,Diebold,Diebold-DN200,2019-05-20,Ashok Nagar Campus ATM,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.26364,77.457027
+ATM_170,PNB,NCR,NCR-6683,2021-04-29,Koramangala Kiosk,Indore,Madhya Pradesh,Semi-Urban,Active,22.761586,75.855121
+ATM_171,PNB,NCR,NCR-6683,2022-03-12,Linking Road Market Branch,Hyderabad,Telangana,Metro,Active,17.369635,78.522904
+ATM_172,PNB,GRGBanking,GRG-H68N,2020-04-03,Navrangpura Market Branch,Bengaluru,Karnataka,Metro,Active,12.956295,77.629055
+ATM_173,HDFC,Nautilus,Nautilus-MX5600,2020-07-17,Bandra West Kiosk,Kochi,Kerala,Semi-Urban,Active,10.09985,76.27391
+ATM_174,ICICI,Nautilus,Nautilus-MX5600,2020-07-22,Navrangpura Service Centre,Chandigarh,Punjab,Semi-Urban,Active,30.728522,76.812292
+ATM_175,SBI,GRGBanking,GRG-H68N,2021-02-14,Tilak Nagar Airport Terminal,Kolkata,West Bengal,Metro,Active,22.54506,88.317601
+ATM_176,ICICI,Hitachi,Hitachi-2845,2018-05-14,Arera Colony Service Centre,Lucknow,Uttar Pradesh,Urban,Active,26.841944,80.955827
+ATM_177,BOI,Hitachi,Hitachi-2845,2023-10-07,Arera Colony Service Centre,Pune,Maharashtra,Urban,Active,18.484486,73.829701
+ATM_178,ICICI,Hitachi,Hitachi-2845,2019-11-16,Connaught Place Railway Station,Vadodara,Gujarat,Semi-Urban,Active,22.274839,73.143257
+ATM_179,ICICI,Nautilus,Nautilus-MX5600,2023-01-27,Jubilee Hills Hospital Wing,Pune,Maharashtra,Urban,Active,18.520237,73.814395
+ATM_180,PNB,GRGBanking,GRG-H68N,2020-03-25,Linking Road Railway Station,Nagpur,Maharashtra,Urban,Active,21.137693,79.107829
+ATM_181,HDFC,Diebold,Diebold-DN200,2021-03-18,Palarivattom Hospital Wing,Vadodara,Gujarat,Semi-Urban,Active,22.348685,73.165187
+ATM_182,ICICI,GRGBanking,GRG-H68N,2018-03-21,RS Puram ATM Point,Bhopal,Madhya Pradesh,Semi-Urban,Inactive,23.246139,77.435077
+ATM_183,BOI,GRGBanking,GRG-H68N,2018-07-22,Navrangpura Campus ATM,Visakhapatnam,Andhra Pradesh,Semi-Urban,Active,17.694859,83.175036
+ATM_184,SBI,Hitachi,Hitachi-2845,2021-06-06,Lajpat Nagar Hospital Wing,Chennai,Tamil Nadu,Metro,Active,13.095926,80.252229
+ATM_185,HDFC,NCR,NCR-6683,2022-08-27,Connaught Place Kiosk,Lucknow,Uttar Pradesh,Urban,Active,26.798009,80.950149
+ATM_186,PNB,GRGBanking,GRG-H68N,2021-06-04,Tilak Nagar Railway Station,Bengaluru,Karnataka,Metro,Active,12.987954,77.623672
+ATM_187,BOI,GRGBanking,GRG-H68N,2022-08-10,Tilak Nagar Airport Terminal,Jaipur,Rajasthan,Urban,Active,26.880204,75.769175
+ATM_188,HDFC,Hitachi,Hitachi-2845,2022-04-05,RS Puram Campus ATM,Bhopal,Madhya Pradesh,Semi-Urban,Active,23.306007,77.425189
+ATM_189,ICICI,Nautilus,Nautilus-MX5600,2023-09-26,Vaishali Nagar ATM Point,Indore,Madhya Pradesh,Semi-Urban,Inactive,22.684466,75.896298
+ATM_190,BOI,Hitachi,Hitachi-2845,2021-06-10,Arera Colony Hospital Wing,Chandigarh,Punjab,Semi-Urban,Active,30.724762,76.790986
+ATM_191,HDFC,GRGBanking,GRG-H68N,2022-03-30,Adajan ATM Point,Chennai,Tamil Nadu,Metro,Inactive,13.041235,80.243996
+ATM_192,BOI,Hitachi,Hitachi-2845,2021-03-12,Arera Colony Airport Terminal,Chandigarh,Punjab,Semi-Urban,Active,30.782987,76.73184
+ATM_193,SBI,Hitachi,Hitachi-2845,2021-10-28,Civil Lines Service Centre,Delhi,Delhi,Metro,Active,28.70432,77.13951
+ATM_194,PNB,Nautilus,Nautilus-MX5600,2019-04-16,MG Road Market Branch,Chandigarh,Punjab,Semi-Urban,Active,30.742839,76.731527
+ATM_195,HDFC,Nautilus,Nautilus-MX5600,2020-11-01,Gomti Nagar Airport Terminal,Ahmedabad,Gujarat,Urban,Active,22.979208,72.60887
+ATM_196,HDFC,Diebold,Diebold-DN200,2021-09-15,Anna Nagar Mall Outlet,Ahmedabad,Gujarat,Urban,Active,23.047496,72.574294
+ATM_197,BOI,Hitachi,Hitachi-2845,2020-08-25,Powai Airport Terminal,Vadodara,Gujarat,Semi-Urban,Active,22.278191,73.225107
+ATM_198,ICICI,Nautilus,Nautilus-MX5600,2018-12-24,Tilak Nagar ATM Point,Nagpur,Maharashtra,Urban,Active,21.185605,79.118078
+ATM_199,BOI,NCR,NCR-6683,2019-10-30,Jubilee Hills Kiosk,Kochi,Kerala,Semi-Urban,Active,10.046614,76.341793
+ATM_200,ICICI,Diebold,Diebold-DN200,2019-01-08,Lajpat Nagar Railway Station,Lucknow,Uttar Pradesh,Urban,Active,26.815769,80.931271

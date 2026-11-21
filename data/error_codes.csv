@@ -1,0 +1,31 @@
+error_code,iso_name,category,severity,is_customer_fault,failure_category,failure_reason
+00,Approved,None,None,0,None,Approved
+51,Insufficient Funds,Customer-Account,Medium,1,Customer-Account,Insufficient Funds
+55,Incorrect PIN,Customer-Account,Low,1,Customer-Account,Incorrect PIN
+57,Transaction Not Permitted,Customer-Account,Medium,1,Customer-Account,Transaction Not Permitted
+61,Withdrawal Limit Exceeded,Customer-Account,Low,1,Customer-Account,Withdrawal Limit Exceeded
+65,Withdrawal Frequency Limit,Customer-Account,Low,1,Customer-Account,Withdrawal Frequency Limit
+91,Issuer Inoperative,Host-Timeout,Critical,0,Host-Timeout,Issuer Inoperative
+96,System Malfunction,Host-Timeout,Critical,0,Host-Timeout,System Malfunction
+68,Response Received Too Late,Network-Switch,High,0,Network-Switch,Response Received Too Late
+05,Do Not Honour,Host-Timeout,High,0,Host-Timeout,Do Not Honour
+14,Invalid Card Number,Customer-Account,Medium,1,Customer-Account,Invalid Card Number
+41,Lost Card,Customer-Account,High,1,Customer-Account,Lost Card
+43,Stolen Card,Customer-Account,High,1,Customer-Account,Stolen Card
+54,Expired Card,Customer-Account,Low,1,Customer-Account,Expired Card
+62,Restricted Card,Customer-Account,Medium,1,Customer-Account,Restricted Card
+76,Invalid Account,Customer-Account,Medium,1,Customer-Account,Invalid Account
+85,No Reason to Decline (Reversal),Customer-Account,Low,1,Customer-Account,No Reason to Decline (Reversal)
+34,Fraud Suspicion,Customer-Account,Critical,1,Customer-Account,Fraud Suspicion
+13,Invalid Amount,Customer-Account,Low,1,Customer-Account,Invalid Amount
+30,Format Error,Network-Switch,Medium,0,Network-Switch,Format Error
+31,Bank Not Supported,Network-Switch,Medium,0,Network-Switch,Bank Not Supported
+44,No Account,Customer-Account,Medium,1,Customer-Account,No Account
+52,No Checking Account,Customer-Account,Low,1,Customer-Account,No Checking Account
+53,No Savings Account,Customer-Account,Low,1,Customer-Account,No Savings Account
+58,Terminal Not Permitted,Hardware,High,0,Hardware,Terminal Not Permitted
+75,PIN Tries Exceeded,Customer-Account,Medium,1,Customer-Account,PIN Tries Exceeded
+P1,Cash Dispenser Jam,Hardware,Critical,0,Hardware,Cash Dispenser Jam
+P2,Card Reader Failure,Hardware,High,0,Hardware,Card Reader Failure
+P3,Receipt Printer Error,Hardware,Low,0,Hardware,Receipt Printer Error
+N1,Network Link Down,Network-Switch,Critical,0,Network-Switch,Network Link Down
