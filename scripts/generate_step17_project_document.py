@@ -187,12 +187,16 @@ def build_project_document(output_path):
     r1.font.color.rgb = RGBColor(165, 28, 48)
     
     p_logo = doc.add_paragraph()
-    p_logo.paragraph_format.space_after = Pt(5)
-    r_logo = p_logo.add_run("[Insert ABES logo here]")
-    r_logo.italic = True
-    r_logo.font.name = "Calibri"
-    r_logo.font.size = Pt(9)
-    r_logo.font.color.rgb = RGBColor(127, 127, 127)
+    p_logo.paragraph_format.space_after = Pt(8)
+    if os.path.exists("assets/abes_logo.jpg"):
+        r_logo = p_logo.add_run()
+        r_logo.add_picture("assets/abes_logo.jpg", width=Inches(1.3))
+    else:
+        r_logo = p_logo.add_run("[Insert ABES logo here]")
+        r_logo.italic = True
+        r_logo.font.name = "Calibri"
+        r_logo.font.size = Pt(9)
+        r_logo.font.color.rgb = RGBColor(127, 127, 127)
     
     p_title_lead = doc.add_paragraph()
     p_title_lead.paragraph_format.space_before = Pt(70)
@@ -617,6 +621,34 @@ def build_project_document(output_path):
         for c_idx, val in enumerate(r_data):
             ui_tbl.rows[r_idx].cells[c_idx].paragraphs[0].text = val
     style_abes_table(ui_tbl, ui_widths)
+    
+    # ── UI SCREENSHOT FIGURES ──
+    add_h2(doc, "10.1 Live Application Implementation Screenshots")
+    
+    screenshots = [
+        ("assets/screenshot_home.png", "Figure 10.1: Application Entry, Filter Telemetry, and Data Quality Quarantines (UI-07, UI-08)"),
+        ("assets/screenshot_fleet_overview.png", "Figure 10.2: Fleet Overview — Operational KPI Telemetry & Hourly Failure Rate Curve (UI-01)"),
+        ("assets/screenshot_failure_category.png", "Figure 10.3: Failure Category — Pareto 80/20 Distribution, Transaction Types & Severity Split (UI-02)"),
+        ("assets/screenshot_live_streamlit_cloud.png", "Figure 10.4: Live Streamlit Cloud Deployment — 24×7 Temporal Congestion Heatmap (UI-04)"),
+    ]
+    
+    for img_path, caption in screenshots:
+        if os.path.exists(img_path):
+            p_img = doc.add_paragraph()
+            p_img.paragraph_format.space_before = Pt(8)
+            p_img.paragraph_format.space_after = Pt(2)
+            p_img.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p_img.add_run().add_picture(img_path, width=Inches(6.2))
+            
+            p_cap = doc.add_paragraph()
+            p_cap.paragraph_format.space_before = Pt(0)
+            p_cap.paragraph_format.space_after = Pt(8)
+            p_cap.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            r_cap = p_cap.add_run(caption)
+            r_cap.font.name = "Calibri"
+            r_cap.font.size = Pt(9)
+            r_cap.italic = True
+            r_cap.font.color.rgb = RGBColor(127, 127, 127)
     
     doc.add_page_break()
     

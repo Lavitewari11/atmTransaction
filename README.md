@@ -1,4 +1,8 @@
-# p096: ATM Transaction Failure Analysis
+<div align="center">
+  <img src="assets/abes_logo.jpg" alt="ABES Engineering College" width="140"/>
+  <h2>HCLTech Career Shaper Programme | ABES Engineering College</h2>
+  <h1>p096: ATM Transaction Failure Analysis</h1>
+</div>
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2500320140085-p062-atm.streamlit.app/)
@@ -7,8 +11,24 @@
 
 **Live Web Application:** [https://2500320140085-p062-atm.streamlit.app/](https://2500320140085-p062-atm.streamlit.app/)  
 **GitHub Repository:** [https://github.com/Lavitewari11/atmTransaction](https://github.com/Lavitewari11/atmTransaction)  
-**Candidate:** Lavi Tewari (Roll No: 2500320140085), MCA 2nd Year Data Analytics, ABES Institute of Technology  
+**Learner:** Lavi Tewari (Roll No: 2500320140085), MCA 2nd Year Data Analytics, ABES Engineering College  
 **Mentor:** Mr. Dinesh Sereno  
+
+---
+
+## 📸 Live Application Screenshots
+
+### 1. Live Deployment on Streamlit Cloud (24×7 Temporal Failure Heatmap)
+![Live Streamlit Cloud Deployment](assets/screenshot_live_streamlit_cloud.png)
+
+### 2. Fleet Overview & KPI Telemetry
+![Fleet Overview KPIs](assets/screenshot_fleet_overview.png)
+
+### 3. Failure Root-Cause & Severity Analysis
+![Failure Category Analysis](assets/screenshot_failure_category.png)
+
+### 4. Application Home & Active Filter Telemetry
+![Home Dashboard Filters](assets/screenshot_home.png)
 
 ---
 

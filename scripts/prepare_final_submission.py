@@ -2,7 +2,7 @@ import os
 import win32com.client
 from docx import Document
 from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Preformatted, PageBreak
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Preformatted, PageBreak, Image as RLImage
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 
@@ -80,6 +80,10 @@ def generate_github_report(pdf_path):
     )
 
     story = []
+    if os.path.exists("assets/abes_logo.jpg"):
+        story.append(RLImage("assets/abes_logo.jpg", width=70, height=45))
+        story.append(Spacer(1, 4))
+
     story.append(Paragraph("GitHub Repository & Deployment Audit Report", title_style))
     story.append(Paragraph("<b>Project:</b> p096 — ATM Transaction Failure Analysis", body_style))
     story.append(Paragraph("<b>Candidate:</b> Lavi Tewari (Roll: 2500320140085), MCA 2nd Year Data Analytics, ABES", body_style))
@@ -89,11 +93,11 @@ def generate_github_report(pdf_path):
     story.append(Paragraph("1. Verified Online Endpoints", h2_style))
     story.append(Paragraph("<b>GitHub Repository URL:</b> <font color='#2B6CB0'><u>https://github.com/Lavitewari11/atmTransaction</u></font>", body_style))
     story.append(Paragraph("<b>Live Streamlit Cloud URL:</b> <font color='#2B6CB0'><u>https://2500320140085-p062-atm.streamlit.app/</u></font>", body_style))
-    story.append(Paragraph("<b>Repository Visibility:</b> Public | <b>Default Branch:</b> main | <b>Latest Commit:</b> 971e74a", body_style))
+    story.append(Paragraph("<b>Repository Visibility:</b> Public | <b>Default Branch:</b> main | <b>Latest Commit:</b> 428b6f9", body_style))
     story.append(Spacer(1, 10))
 
     story.append(Paragraph("2. Repository Structure & File Manifest", h2_style))
-    story.append(Paragraph("The GitHub repository contains 60 version-controlled files structured as follows:", body_style))
+    story.append(Paragraph("The GitHub repository contains version-controlled files structured as follows:", body_style))
 
     manifest = """
 Directory: Lavitewari11/atmTransaction (branch: main)
@@ -124,12 +128,12 @@ Directory: Lavitewari11/atmTransaction (branch: main)
 │   ├── test_data.py               [TC-T-01..05: DB connection, table counts, PK/FK]
 │   ├── test_analysis.py           [TC-T-06..09: Mathematical formulas & outlier logic]
 │   └── test_app.py                [TC-T-10..11: Page existence & UI theme validation]
-├── docs/                          [18-step academic Word, Excel, and Presentation files]
-├── .streamlit/
-│   └── config.toml                [Navy/Slate color theme specification]
-├── BUILD_PLAN.md                  [Step-by-step engineering plan]
+├── docs/                          [Academic Word, Excel, and Presentation files]
+├── final_submission/              [Consolidated LMS deliverables]
+├── assets/                        [Official ABES logo & live application screenshots]
+├── .streamlit/config.toml         [Navy/Slate color theme specification]
 ├── requirements.txt               [Pinned package manifest]
-└── README.md                      [Documentation & setup instructions]
+└── README.md                      [Documentation & live application screenshots]
 """
     story.append(Preformatted(manifest, code_style))
     story.append(Spacer(1, 10))
@@ -138,6 +142,16 @@ Directory: Lavitewari11/atmTransaction (branch: main)
     story.append(Paragraph("• <b>Zero Secrets:</b> Audit confirmed no credentials, API keys, or private tokens exist in repository.", body_style))
     story.append(Paragraph("• <b>Automated Testing:</b> All 11 pytest unit tests pass with 100% success rate.", body_style))
     story.append(Paragraph("• <b>Cloud Deployment:</b> Successfully operational on Streamlit Community Cloud with public URL.", body_style))
+    story.append(Spacer(1, 10))
+
+    story.append(Paragraph("4. Live Deployment Screenshot Verification", h2_style))
+    story.append(Paragraph("Live deployment verified on Streamlit Community Cloud at <u>https://2500320140085-p062-atm.streamlit.app/</u>:", body_style))
+    if os.path.exists("assets/screenshot_live_streamlit_cloud.png"):
+        story.append(RLImage("assets/screenshot_live_streamlit_cloud.png", width=500, height=280))
+        story.append(Spacer(1, 10))
+    if os.path.exists("assets/screenshot_fleet_overview.png"):
+        story.append(Paragraph("Live Fleet Overview Diagnostic Module:", body_style))
+        story.append(RLImage("assets/screenshot_fleet_overview.png", width=500, height=250))
 
     doc.build(story)
     print(f"Generated GitHub report -> {pdf_path}")

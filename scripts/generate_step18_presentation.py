@@ -142,14 +142,17 @@ def create_presentation(output_path):
     bg1.fill.fore_color.rgb = BLACK
     
     # Header logo & programme
-    tb_logo = s1.shapes.add_textbox(Inches(0.5), Inches(0.35), Inches(1.6), Inches(0.5))
-    p = tb_logo.text_frame.paragraphs[0]
-    r = p.add_run()
-    r.text = "[ABES logo]"
-    r.font.name = "Calibri"
-    r.font.size = Pt(10)
-    r.font.italic = True
-    r.font.color.rgb = PINK
+    if os.path.exists("assets/abes_logo.jpg"):
+        s1.shapes.add_picture("assets/abes_logo.jpg", Inches(0.5), Inches(0.2), Inches(0.9), Inches(0.6))
+    else:
+        tb_logo = s1.shapes.add_textbox(Inches(0.5), Inches(0.35), Inches(1.6), Inches(0.5))
+        p = tb_logo.text_frame.paragraphs[0]
+        r = p.add_run()
+        r.text = "[ABES logo]"
+        r.font.name = "Calibri"
+        r.font.size = Pt(10)
+        r.font.italic = True
+        r.font.color.rgb = PINK
     
     tb_prog = s1.shapes.add_textbox(Inches(2.2), Inches(0.35), Inches(7.3), Inches(0.5))
     p = tb_prog.text_frame.paragraphs[0]
@@ -437,24 +440,27 @@ def create_presentation(output_path):
     # SLIDE 7: Dashboard
     # ══════════════════════════════════════════════════════════════════════════
     s7 = prs.slides.add_slide(blank_layout)
-    add_content_title(s7, "Dashboard")
+    add_content_title(s7, "Dashboard: Fleet Overview (UI-01)")
     add_footer(s7, 7)
     
-    frame = s7.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.5), Inches(1.25), Inches(5.5), Inches(3.7))
-    frame.fill.solid()
-    frame.fill.fore_color.rgb = CARD_BG
-    frame.line.color.rgb = BORDER_GREY
-    frame.line.dash_style = 2
-    
-    tf = frame.text_frame
-    p = tf.paragraphs[0]
-    p.alignment = PP_ALIGN.CENTER
-    r = p.add_run()
-    r.text = "[Paste a dashboard screenshot here]"
-    r.font.name = "Calibri"
-    r.font.size = Pt(14)
-    r.font.italic = True
-    r.font.color.rgb = GREY
+    if os.path.exists("assets/screenshot_fleet_overview.png"):
+        s7.shapes.add_picture("assets/screenshot_fleet_overview.png", Inches(0.5), Inches(1.25), Inches(5.8), Inches(3.6))
+    else:
+        frame = s7.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.5), Inches(1.25), Inches(5.5), Inches(3.7))
+        frame.fill.solid()
+        frame.fill.fore_color.rgb = CARD_BG
+        frame.line.color.rgb = BORDER_GREY
+        frame.line.dash_style = 2
+        
+        tf = frame.text_frame
+        p = tf.paragraphs[0]
+        p.alignment = PP_ALIGN.CENTER
+        r = p.add_run()
+        r.text = "[Paste a dashboard screenshot here]"
+        r.font.name = "Calibri"
+        r.font.size = Pt(14)
+        r.font.italic = True
+        r.font.color.rgb = GREY
     
     nav_screens = [
         (1.3, "1", "UI-01", "Fleet Overview: Real-time KPIs & Hourly Trend"),
@@ -651,43 +657,42 @@ def create_presentation(output_path):
     bg11.fill.solid()
     bg11.fill.fore_color.rgb = BLACK
     
-    tb_q = s11.shapes.add_textbox(Inches(0.5), Inches(1.5), Inches(9.0), Inches(1.2))
+    tb_q = s11.shapes.add_textbox(Inches(0.5), Inches(0.8), Inches(4.2), Inches(0.9))
     p = tb_q.text_frame.paragraphs[0]
-    p.alignment = PP_ALIGN.CENTER
     r = p.add_run()
     r.text = "Live Demo & Q&A"
     r.font.name = "Cambria"
-    r.font.size = Pt(40)
+    r.font.size = Pt(32)
     r.font.bold = True
     r.font.color.rgb = WHITE
     
-    tb_links = s11.shapes.add_textbox(Inches(0.5), Inches(2.9), Inches(9.0), Inches(1.5))
+    tb_links = s11.shapes.add_textbox(Inches(0.5), Inches(1.8), Inches(4.2), Inches(3.2))
     tf_l = tb_links.text_frame
+    tf_l.word_wrap = True
     
     p1 = tf_l.paragraphs[0]
-    p1.alignment = PP_ALIGN.CENTER
     r1 = p1.add_run()
-    r1.text = "App URL: https://2500320140085-p062-atm.streamlit.app/\n"
+    r1.text = "Live Streamlit App:\nhttps://2500320140085-p062-atm.streamlit.app/\n\n"
     r1.font.name = "Calibri"
-    r1.font.size = Pt(16)
+    r1.font.size = Pt(13)
     r1.font.color.rgb = PINK
     
     p2 = tf_l.add_paragraph()
-    p2.alignment = PP_ALIGN.CENTER
     r2 = p2.add_run()
-    r2.text = "Code: https://github.com/Lavitewari11/atmTransaction\n\n"
+    r2.text = "GitHub Repository:\nhttps://github.com/Lavitewari11/atmTransaction\n\n"
     r2.font.name = "Calibri"
-    r2.font.size = Pt(16)
+    r2.font.size = Pt(13)
     r2.font.color.rgb = PINK
     
     p3 = tf_l.add_paragraph()
-    p3.alignment = PP_ALIGN.CENTER
     r3 = p3.add_run()
-    r3.text = "Thank You!"
+    r3.text = "Lavi Tewari | Roll: 2500320140085\nMCA 2nd Year Data Analytics\nABES Engineering College\nMentor: Mr. Dinesh Sereno"
     r3.font.name = "Calibri"
-    r3.font.size = Pt(20)
-    r3.font.bold = True
-    r3.font.color.rgb = WHITE
+    r3.font.size = Pt(12)
+    r3.font.color.rgb = CARD_BG
+    
+    if os.path.exists("assets/screenshot_live_streamlit_cloud.png"):
+        s11.shapes.add_picture("assets/screenshot_live_streamlit_cloud.png", Inches(4.8), Inches(1.0), Inches(4.8), Inches(3.6))
     
     s11.notes_slide.notes_text_frame.text = (
         "Thank you esteemed mentor Mr. Dinesh Sereno and panel members. I will now switch to the live Streamlit dashboard "
