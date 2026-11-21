@@ -236,7 +236,7 @@ def build_project_document(output_path):
         ("Programme / Batch", "MCA 2nd Year Data Analyst - ABES_OND26_MCA Batch 01"),
         ("Learner(s) & Roll No(s)", "Lavi Tewari (Roll No: 2500320140085)"),
         ("Mentor", "Mr. Dinesh Sereno"),
-        ("GitHub repository", "[To confirm]"),
+        ("GitHub repository", "https://github.com/Lavitewari11/atmTransaction"),
         ("Live app (Streamlit)", "[To confirm]"),
         ("Version & date", "v1.0 - 21/11/2026")
     ]

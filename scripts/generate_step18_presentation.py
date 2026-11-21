@@ -675,7 +675,7 @@ def create_presentation(output_path):
     p2 = tf_l.add_paragraph()
     p2.alignment = PP_ALIGN.CENTER
     r2 = p2.add_run()
-    r2.text = "Code: [To confirm]\n\n"
+    r2.text = "Code: https://github.com/Lavitewari11/atmTransaction\n\n"
     r2.font.name = "Calibri"
     r2.font.size = Pt(16)
     r2.font.color.rgb = PINK
