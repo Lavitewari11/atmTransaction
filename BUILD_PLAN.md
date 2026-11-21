@@ -5,6 +5,8 @@
 - **Domain:** Banking & Payment Network Operational Data Analytics
 - **Candidate:** Lavi Tewari (Roll No: 2500320140085), MCA 2nd Year, ABES Institute of Technology
 - **Academic Mentor:** Mr. Dinesh Sereno
+- **Live Streamlit App:** [https://2500320140085-p062-atm.streamlit.app/](https://2500320140085-p062-atm.streamlit.app/)
+- **GitHub Repository:** [https://github.com/Lavitewari11/atmTransaction](https://github.com/Lavitewari11/atmTransaction)
 - **Primary Objective:** Build an interactive multi-page Streamlit analytics application diagnosing ATM failures across 50,003 multi-bank records.
 - **Key Capabilities:** Standardized 4-tier banking failure taxonomy, rolling 7-day SLA outlier terminal detection (>5.0%), 24x7 temporal congestion heatmap, MTBF predictive maintenance calculations, and network latency correlation.
 - **Target Tech Stack:** Python 3.12, Streamlit, Pandas, NumPy, Plotly, SQLite, pytest, Streamlit Community Cloud.

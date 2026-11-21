@@ -667,7 +667,7 @@ def create_presentation(output_path):
     p1 = tf_l.paragraphs[0]
     p1.alignment = PP_ALIGN.CENTER
     r1 = p1.add_run()
-    r1.text = "App URL: [To confirm]\n"
+    r1.text = "App URL: https://2500320140085-p062-atm.streamlit.app/\n"
     r1.font.name = "Calibri"
     r1.font.size = Pt(16)
     r1.font.color.rgb = PINK

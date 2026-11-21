@@ -1,10 +1,12 @@
 # p096: ATM Transaction Failure Analysis
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.37.0-red.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2500320140085-p062-atm.streamlit.app/)
 [![pytest](https://img.shields.io/badge/pytest-Passing-brightgreen.svg)](https://pytest.org/)
 [![License: Academic](https://img.shields.io/badge/License-Academic-lightgrey.svg)]()
 
+**Live Web Application:** [https://2500320140085-p062-atm.streamlit.app/](https://2500320140085-p062-atm.streamlit.app/)  
+**GitHub Repository:** [https://github.com/Lavitewari11/atmTransaction](https://github.com/Lavitewari11/atmTransaction)  
 **Candidate:** Lavi Tewari (Roll No: 2500320140085), MCA 2nd Year Data Analytics, ABES Institute of Technology  
 **Mentor:** Mr. Dinesh Sereno  
 

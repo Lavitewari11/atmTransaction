@@ -237,7 +237,7 @@ def build_project_document(output_path):
         ("Learner(s) & Roll No(s)", "Lavi Tewari (Roll No: 2500320140085)"),
         ("Mentor", "Mr. Dinesh Sereno"),
         ("GitHub repository", "https://github.com/Lavitewari11/atmTransaction"),
-        ("Live app (Streamlit)", "[To confirm]"),
+        ("Live app (Streamlit)", "https://2500320140085-p062-atm.streamlit.app/"),
         ("Version & date", "v1.0 - 21/11/2026")
     ]
     for r_idx, (fld, det) in enumerate(cov_data):
